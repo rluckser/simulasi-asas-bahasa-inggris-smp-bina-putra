@@ -1,0 +1,1362 @@
+[
+ {
+  "id": "INV-01-A",
+  "indikator": 1,
+  "jawaban": "Would you like to come to my birthday party on Saturday?",
+  "level": "Mudah",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "\"Would you like to come...?\" adalah ungkapan ajakan (invitation). \"I'd love to\" adalah jawaban menerima ajakan, \"Hi, Sinta!\" adalah sapaan, dan \"See you on Saturday!\" adalah ucapan perpisahan.",
+  "pilihan": [
+   "Would you like to come to my birthday party on Saturday?",
+   "I'd love to. Thank you!",
+   "Hi, Sinta!",
+   "See you on Saturday!"
+  ],
+  "soal": "Read the dialog.\nRina: \"Hi, Sinta! Would you like to come to my birthday party on Saturday?\"\nSinta: \"I'd love to. Thank you!\"\n\nWhich sentence is an invitation?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "INV-01-B",
+  "indikator": 1,
+  "jawaban": "How about joining our English club this afternoon?",
+  "level": "Mudah",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "\"How about joining...?\" adalah ungkapan ajakan. \"That sounds great. I'll join you\" adalah jawaban menerima ajakan, sedangkan dua pilihan lain hanya sapaan.",
+  "pilihan": [
+   "Hello, Andi.",
+   "That sounds great. I'll join you.",
+   "How about joining our English club this afternoon?",
+   "Good afternoon, Budi."
+  ],
+  "soal": "Read the dialog.\nBudi: \"Hello, Andi. How about joining our English club this afternoon?\"\nAndi: \"That sounds great. I'll join you.\"\n\nWhich sentence is an invitation?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "INV-02-A",
+  "indikator": 2,
+  "jawaban": "Would you like to have lunch with me at the canteen?",
+  "level": "Mudah",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "\"Would you like to have lunch with me...?\" mengajak seseorang melakukan sesuatu, jadi itu ungkapan ajakan. \"Sure, I'd like to\" adalah jawaban menerima ajakan.",
+  "pilihan": [
+   "Sure, I'd like to.",
+   "I'm hungry.",
+   "The canteen is near the library.",
+   "Would you like to have lunch with me at the canteen?"
+  ],
+  "soal": "Read the dialog.\nDina: \"Would you like to have lunch with me at the canteen?\"\nMaya: \"Sure, I'd like to.\"\n\nWhich sentence is an invitation?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "INV-02-B",
+  "indikator": 2,
+  "jawaban": "Let's play football after school. Do you want to join us?",
+  "level": "Mudah",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "\"Let's play football... Do you want to join us?\" adalah ajakan. \"Yes, I do\" adalah jawaban menerima, sedangkan \"I like football\" hanya menyatakan kesukaan.",
+  "pilihan": [
+   "Yes, I do.",
+   "Let's play football after school. Do you want to join us?",
+   "See you at the field.",
+   "I like football."
+  ],
+  "soal": "Read the dialog.\nRudi: \"Let's play football after school. Do you want to join us?\"\nTono: \"Yes, I do. See you at the field.\"\n\nWhich sentence is an invitation?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "INV-03-A",
+  "indikator": 3,
+  "jawaban": "Would you like to study together at my house tomorrow?",
+  "level": "Mudah",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "\"Would you like to study together...?\" adalah ungkapan ajakan. \"Yes, please\" dan \"What time?\" adalah respon dari orang yang diajak.",
+  "pilihan": [
+   "What time?",
+   "Yes, please.",
+   "Hi, Lina.",
+   "Would you like to study together at my house tomorrow?"
+  ],
+  "soal": "Read the dialog.\nSari: \"Hi, Lina. Would you like to study together at my house tomorrow?\"\nLina: \"Yes, please. What time?\"\n\nWhich sentence is an invitation?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "INV-03-B",
+  "indikator": 3,
+  "jawaban": "Would you like to watch a movie with me tonight?",
+  "level": "Mudah",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "\"Would you like to watch a movie with me tonight?\" adalah ajakan. Jawaban Dewi menolak ajakan itu dengan alasan harus belajar, jadi itu bukan ajakan.",
+  "pilihan": [
+   "Would you like to watch a movie with me tonight?",
+   "I'd love to, but I have to study for the test.",
+   "Good night, Agus.",
+   "The movie is very interesting."
+  ],
+  "soal": "Read the dialog.\nAgus: \"Would you like to watch a movie with me tonight?\"\nDewi: \"I'd love to, but I have to study for the test.\"\n\nWhich sentence is an invitation?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "INV-04-A",
+  "indikator": 4,
+  "jawaban": "That sounds great. I'd love to come.",
+  "level": "Sedang",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "Untuk menerima ajakan dipakai ungkapan seperti \"That sounds great. I'd love to come.\" Dua pilihan pertama adalah penolakan, sedangkan \"I don't like dinner\" tidak sopan dan bukan respon menerima ajakan.",
+  "pilihan": [
+   "I'm sorry, I can't. I have to help my mother.",
+   "That sounds great. I'd love to come.",
+   "No, thank you. I'm busy tonight.",
+   "I don't like dinner."
+  ],
+  "soal": "Read the dialog.\nRina: \"Would you like to come to my house for dinner tonight?\"\nSinta: \"...\"\n\nWhat is the correct response to accept the invitation?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "INV-04-B",
+  "indikator": 4,
+  "jawaban": "Sure, that would be fun. Let's go!",
+  "level": "Sedang",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "\"Sure, that would be fun. Let's go!\" menerima ajakan dengan sopan dan antusias. Pilihan pertama menolak, sedangkan dua pilihan terakhir kasar dan bukan respon menerima.",
+  "pilihan": [
+   "I'm sorry, I can't. I have an English course.",
+   "No, I don't want to.",
+   "Sure, that would be fun. Let's go!",
+   "I hate badminton."
+  ],
+  "soal": "Read the dialog.\nBudi: \"How about playing badminton with me this afternoon?\"\nAndi: \"...\"\n\nWhat is the correct response to accept the invitation?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "INV-05-A",
+  "indikator": 5,
+  "jawaban": "I'm sorry, I can't. I have to visit my grandmother on Sunday.",
+  "level": "Sedang",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "Menolak ajakan dengan sopan memakai \"I'm sorry, I can't\" disertai alasan. Pilihan pertama menerima, pilihan ketiga kasar, pilihan keempat bukan respon terhadap ajakan.",
+  "pilihan": [
+   "I'm sorry, I can't. I have to visit my grandmother on Sunday.",
+   "Yes, I'd love to. See you there!",
+   "No. I don't like picnics.",
+   "What is a picnic?"
+  ],
+  "soal": "Read the dialog.\nDina: \"Would you like to join our picnic on Sunday?\"\nMaya: \"...\"\n\nWhat is the correct response to refuse the invitation politely?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "INV-05-B",
+  "indikator": 5,
+  "jawaban": "I'm afraid I can't. I have football practice after school.",
+  "level": "Sedang",
+  "materi": "Inviting Someone to Do Something",
+  "pembahasan": "\"I'm afraid I can't\" + alasan adalah penolakan yang sopan. Pilihan pertama menerima ajakan, \"Go away!\" kasar, dan pilihan terakhir hanya komentar tentang perpustakaan.",
+  "pilihan": [
+   "Of course. Let's go together.",
+   "Go away!",
+   "I'm afraid I can't. I have football practice after school.",
+   "The library is very big."
+  ],
+  "soal": "Read the dialog.\nRudi: \"Let's go to the library after school. Do you want to come with me?\"\nTono: \"...\"\n\nWhat is the correct response to refuse the invitation politely?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "PERM-06-A",
+  "indikator": 6,
+  "jawaban": "Of course. Here it is.",
+  "level": "Mudah",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "Permintaan izin \"May I borrow...?\" dijawab dengan memberi izin, misalnya \"Of course. Here it is.\" \"You're welcome\" dipakai untuk membalas ucapan terima kasih, bukan permintaan izin.",
+  "pilihan": [
+   "You're welcome.",
+   "I don't know.",
+   "Good morning.",
+   "Of course. Here it is."
+  ],
+  "soal": "Read the dialog.\nRina: \"May I borrow your dictionary, please?\"\nSinta: \"...\"\n\nWhat is the correct response to the request?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "PERM-06-B",
+  "indikator": 6,
+  "jawaban": "Yes, sure. Here you are.",
+  "level": "Mudah",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "Untuk permintaan izin \"Can I use your pen?\", jawaban yang memberi izin adalah \"Yes, sure. Here you are.\" \"Thank you very much\" adalah ucapan terima kasih, bukan jawaban atas permintaan izin.",
+  "pilihan": [
+   "Thank you very much.",
+   "Yes, sure. Here you are.",
+   "See you tomorrow.",
+   "I like your pen."
+  ],
+  "soal": "Read the dialog.\nBudi: \"Can I use your pen, please?\"\nAndi: \"...\"\n\nWhat is the correct response to the request?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "PERM-07-A",
+  "indikator": 7,
+  "jawaban": "May",
+  "level": "Mudah",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "\"May I go to the toilet?\" adalah cara sopan meminta izin. \"Must\" menyatakan kewajiban, \"should\" menyatakan saran, dan \"will\" tidak cocok untuk meminta izin dalam kalimat ini.",
+  "pilihan": [
+   "Must",
+   "Should",
+   "Will",
+   "May"
+  ],
+  "soal": "Complete the dialog.\nDina: \"___ I go to the toilet, Miss?\"\nTeacher: \"Yes, you may.\"\n\nWhich expression is correct to ask for permission?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "PERM-07-B",
+  "indikator": 7,
+  "jawaban": "Can",
+  "level": "Mudah",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "\"Can I open the window, please?\" adalah cara meminta izin yang benar. \"Must\" dan \"have to\" menyatakan kewajiban, \"should\" menyatakan saran, jadi ketiganya tidak cocok.",
+  "pilihan": [
+   "Can",
+   "Must",
+   "Should",
+   "Have to"
+  ],
+  "soal": "Complete the dialog.\nRudi: \"___ I open the window, please? It's very hot here.\"\nSari: \"Yes, of course.\"\n\nWhich expression is correct to ask for permission?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "PERM-08-A",
+  "indikator": 8,
+  "jawaban": "Yes, you may, but please tell your parents first.",
+  "level": "Sedang",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "Jawaban yang memberi izin adalah \"Yes, you may...\" Dua pilihan pertama menolak izin, sedangkan \"I don't know\" bukan jawaban atas permintaan izin.",
+  "pilihan": [
+   "No, you can't. You must stay here.",
+   "Yes, you may, but please tell your parents first.",
+   "I'm sorry, you can't go home now.",
+   "I don't know."
+  ],
+  "soal": "Read the dialog.\nMaya: \"Can I go home early today, Sir? I feel sick.\"\nTeacher: \"...\"\n\nWhat is the correct response to give permission?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "PERM-08-B",
+  "indikator": 8,
+  "jawaban": "I'm sorry, you can't. The computers are for the teachers only.",
+  "level": "Sedang",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "Menolak izin dengan sopan memakai \"I'm sorry, you can't\" disertai alasan. Dua pilihan pertama memberi izin, sedangkan \"Thank you\" bukan jawaban atas permintaan izin.",
+  "pilihan": [
+   "Yes, you may. Please be quiet.",
+   "Of course. Here is the password.",
+   "I'm sorry, you can't. The computers are for the teachers only.",
+   "Thank you."
+  ],
+  "soal": "Read the dialog.\nAndi: \"May I use the computer in the library, Miss?\"\nLibrarian: \"...\"\n\nWhat is the correct response to refuse permission?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "PERM-09-A",
+  "indikator": 9,
+  "jawaban": "May",
+  "level": "Mudah",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "\"May I ask a question?\" adalah ungkapan meminta izin yang sopan. \"Must\" menyatakan kewajiban dan \"should\" menyatakan saran, sedangkan \"Do I ask a question?\" bukan bentuk meminta izin.",
+  "pilihan": [
+   "May",
+   "Must",
+   "Should",
+   "Do"
+  ],
+  "soal": "Complete the dialog.\nSari: \"Excuse me, Sir. ___ I ask a question?\"\nTeacher: \"Yes, please.\"\n\nWhich expression is correct to ask for permission?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "PERM-09-B",
+  "indikator": 9,
+  "jawaban": "Can",
+  "level": "Mudah",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "\"Can I sit here, please?\" adalah cara meminta izin yang benar dan umum. \"Should\" menyatakan saran dan \"must\" menyatakan kewajiban, jadi tidak cocok di sini.",
+  "pilihan": [
+   "Should",
+   "Must",
+   "Can",
+   "Will"
+  ],
+  "soal": "Complete the dialog.\nDewi: \"___ I sit here, please?\"\nAgus: \"Yes, please. Sit down.\"\n\nWhich expression is correct to ask for permission?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "PERM-10-A",
+  "indikator": 10,
+  "jawaban": "No, not at all. Please do.",
+  "level": "Sulit",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "\"Do you mind if I open the window?\" adalah permintaan izin yang sopan. Jawaban yang memberi izin adalah \"No, not at all. Please do.\" (\"No\" di sini artinya \"tidak keberatan\"). \"Yes, I mind\" justru menolak, sedangkan dua pilihan lain bukan jawaban atas permintaan izin.",
+  "pilihan": [
+   "Yes, I mind. Don't open it.",
+   "I don't like the window.",
+   "Thank you very much.",
+   "No, not at all. Please do."
+  ],
+  "soal": "Read the dialog.\nRina: \"Do you mind if I open the window? It's very hot here.\"\nSinta: \"...\"\n\nWhat is the correct response to give permission?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "PERM-10-B",
+  "indikator": 10,
+  "jawaban": "Not at all. Here you are.",
+  "level": "Sulit",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "\"Would you mind if I borrowed your book?\" dijawab dengan memberi izin: \"Not at all. Here you are.\" \"Yes, I mind\" menolak izin, sedangkan \"I don't know\" dan \"I like books\" bukan jawaban atas permintaan izin.",
+  "pilihan": [
+   "Yes, I mind. I need it now.",
+   "Not at all. Here you are.",
+   "I don't know.",
+   "I like books."
+  ],
+  "soal": "Read the dialog.\nBudi: \"Would you mind if I borrowed your book for a moment?\"\nAndi: \"...\"\n\nWhat is the correct response to give permission?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "OPIN-11-A",
+  "indikator": 11,
+  "jawaban": "What do you think about the new English book?",
+  "level": "Mudah",
+  "materi": "Asking and Giving Opinion",
+  "pembahasan": "Untuk meminta pendapat dipakai pertanyaan \"What do you think about...?\" \"What do you do?\" menanyakan pekerjaan, \"Where do you live?\" menanyakan tempat tinggal, dan \"How old are you?\" menanyakan umur.",
+  "pilihan": [
+   "What do you do?",
+   "Where do you live?",
+   "How old are you?",
+   "What do you think about the new English book?"
+  ],
+  "soal": "Read the conversation.\nRina: \"...\"\nSinta: \"I think it is very interesting and easy to understand.\"\n\nWhich question does Rina ask to ask for an opinion?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "OPIN-11-B",
+  "indikator": 11,
+  "jawaban": "How do you feel about the school festival?",
+  "level": "Mudah",
+  "materi": "Asking and Giving Opinion",
+  "pembahasan": "\"How do you feel about...?\" adalah pertanyaan untuk meminta pendapat. \"How are you?\" menanyakan kabar, \"Where is the festival?\" menanyakan tempat, dan \"When is the festival?\" menanyakan waktu.",
+  "pilihan": [
+   "How do you feel about the school festival?",
+   "How are you?",
+   "Where is the festival?",
+   "When is the festival?"
+  ],
+  "soal": "Read the conversation.\nBudi: \"...\"\nAndi: \"I think it is very fun. I like the music and the food.\"\n\nWhich question does Budi ask to ask for an opinion?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "OPIN-12-A",
+  "indikator": 12,
+  "jawaban": "Most students like football best.",
+  "level": "Sulit",
+  "materi": "Asking and Giving Opinion",
+  "pembahasan": "Tabel menunjukkan: Football 15 students, Basketball 10, Badminton 8, Swimming 7. Jumlah terbanyak adalah football (15), jadi pendapat yang benar adalah \"Most students like football best.\" Swimming justru paling sedikit (7).",
+  "pilihan": [
+   "Most students like swimming best.",
+   "Most students like football best.",
+   "Most students like badminton best.",
+   "Most students like basketball best."
+  ],
+  "soal": "Look at the table about students' favourite sports.\nFootball: 15 students. Basketball: 10 students. Badminton: 8 students. Swimming: 7 students.\n\nWhich opinion is correct based on the table?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "OPIN-12-B",
+  "indikator": 12,
+  "jawaban": "Most students like English best.",
+  "level": "Sulit",
+  "materi": "Asking and Giving Opinion",
+  "pembahasan": "Tabel menunjukkan: English 18 students, Mathematics 12, Science 9, Art 6. Jumlah terbanyak adalah English (18), jadi pendapat yang benar adalah \"Most students like English best.\" Art justru paling sedikit (6).",
+  "pilihan": [
+   "Most students like Art best.",
+   "Most students like Science best.",
+   "Most students like English best.",
+   "Most students like Mathematics best."
+  ],
+  "soal": "Look at the table about students' favourite school subjects.\nEnglish: 18 students. Mathematics: 12 students. Science: 9 students. Art: 6 students.\n\nWhich opinion is correct based on the table?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "OPIN-13-A",
+  "gambar": "assets/img/eng-13-a.svg",
+  "indikator": 13,
+  "jawaban": "In my opinion, the park is beautiful and comfortable.",
+  "level": "Sedang",
+  "materi": "Asking and Giving Opinion",
+  "pembahasan": "Gambar menunjukkan taman yang bersih dengan banyak bunga, pohon hijau, dan anak-anak yang bermain. Ungkapan pendapat yang tepat adalah \"In my opinion, the park is beautiful and comfortable.\" Dua pilihan lain hanya menyatakan fakta tentang taman, bukan pendapat, dan \"I go to the park every day\" bukan ungkapan pendapat.",
+  "pilihan": [
+   "In my opinion, the park is beautiful and comfortable.",
+   "The park has many flowers.",
+   "There are three trees in the park.",
+   "I go to the park every day."
+  ],
+  "soal": "Look at the picture. It shows a clean park with many colourful flowers, green trees, a bench, and children playing happily.\nRudi gives his opinion about the park. Which expression is correct?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "OPIN-13-B",
+  "gambar": "assets/img/eng-13-b.svg",
+  "indikator": 13,
+  "jawaban": "I think the new library is very comfortable for studying.",
+  "level": "Sedang",
+  "materi": "Asking and Giving Opinion",
+  "pembahasan": "Gambar menunjukkan perpustakaan baru yang terang, rak-rak penuh buku, dan siswa yang membaca di meja. Ungkapan pendapat yang tepat adalah \"I think the new library is very comfortable for studying.\" Dua pilihan lain hanya menyatakan fakta, dan \"I go to the library every day\" bukan ungkapan pendapat.",
+  "pilihan": [
+   "The library has many books.",
+   "There are five tables in the library.",
+   "I think the new library is very comfortable for studying.",
+   "I go to the library every day."
+  ],
+  "soal": "Look at the picture. It shows a bright new school library with shelves full of books and students reading at a table.\nSinta gives her opinion about the library. Which expression is correct?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "OPIN-14-A",
+  "indikator": 14,
+  "jawaban": "I think the film is very interesting.",
+  "level": "Mudah",
+  "materi": "Asking and Giving Opinion",
+  "pembahasan": "\"I think the film is very interesting\" adalah ungkapan memberi pendapat. \"The film starts at 7 p.m.\" adalah fakta, \"I watched the film yesterday\" adalah pengalaman, dan \"The film is in the cinema\" adalah fakta tempat.",
+  "pilihan": [
+   "The film starts at 7 p.m.",
+   "I watched the film yesterday.",
+   "The film is in the cinema.",
+   "I think the film is very interesting."
+  ],
+  "soal": "Read the conversation.\nDina: \"What do you think about the new film?\"\nMaya: \"...\"\n\nWhich expression is correct to give an opinion?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "OPIN-14-B",
+  "indikator": 14,
+  "jawaban": "In my opinion, the traditional food is very delicious.",
+  "level": "Mudah",
+  "materi": "Asking and Giving Opinion",
+  "pembahasan": "\"In my opinion, the traditional food is very delicious\" adalah ungkapan memberi pendapat. Pilihan lain hanya menyatakan fakta tentang makanan atau kegiatan, bukan pendapat.",
+  "pilihan": [
+   "The food is on the table.",
+   "In my opinion, the traditional food is very delicious.",
+   "I eat rice every day.",
+   "The restaurant opens at 9 a.m."
+  ],
+  "soal": "Read the conversation.\nRudi: \"What is your opinion about the traditional food here?\"\nTono: \"...\"\n\nWhich expression is correct to give an opinion?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "PROH-15-A",
+  "gambar": "assets/img/eng-15-a.svg",
+  "indikator": 15,
+  "jawaban": "Don't smoke in the hospital.",
+  "level": "Sedang",
+  "materi": "Prohibition",
+  "pembahasan": "Gambar menunjukkan rambu \"No Smoking\" di koridor rumah sakit, yaitu larangan merokok. Larangan yang sesuai adalah \"Don't smoke in the hospital.\" \"Don't eat in the hospital\" tidak ada dalam gambar, \"You must smoke here\" justru kebalikan dari larangan, dan \"Don't run\" tidak berhubungan dengan rambu itu.",
+  "pilihan": [
+   "Don't eat in the hospital.",
+   "You must smoke in the hospital.",
+   "Don't run in the hospital.",
+   "Don't smoke in the hospital."
+  ],
+  "soal": "Look at the picture. It shows a \"No Smoking\" sign in a hospital corridor. A cigarette is crossed out in a red circle.\n\nWhich prohibition is suitable for the picture?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "PROH-15-B",
+  "gambar": "assets/img/eng-15-b.svg",
+  "indikator": 15,
+  "jawaban": "Don't throw rubbish in the park.",
+  "level": "Sedang",
+  "materi": "Prohibition",
+  "pembahasan": "Gambar menunjukkan rambu \"No Littering\" di taman, yaitu larangan membuang sampah sembarangan. Larangan yang sesuai adalah \"Don't throw rubbish in the park.\" Pilihan lain tidak berhubungan dengan rambu itu.",
+  "pilihan": [
+   "Don't throw rubbish in the park.",
+   "Don't play football in the park.",
+   "Don't sit on the bench.",
+   "Don't water the flowers."
+  ],
+  "soal": "Look at the picture. It shows a \"No Littering\" sign in a park. A hand throwing rubbish is crossed out in a red circle, and there is a rubbish bin nearby.\n\nWhich prohibition is suitable for the picture?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "PROH-16-A",
+  "gambar": "assets/img/eng-16-a.svg",
+  "indikator": 16,
+  "jawaban": "Don't swim here. The waves are dangerous.",
+  "level": "Sulit",
+  "materi": "Prohibition",
+  "pembahasan": "Gambar menunjukkan rambu \"No Swimming\" dan bendera merah di pantai dengan ombak besar. Larangan yang sesuai dengan situasi itu adalah \"Don't swim here. The waves are dangerous.\" \"Don't fish here\" dan \"Don't play on the beach\" tidak sesuai dengan rambu, dan \"You must swim here\" justru kebalikan dari larangan.",
+  "pilihan": [
+   "Don't fish here.",
+   "Don't swim here. The waves are dangerous.",
+   "You must swim here.",
+   "Don't play on the beach."
+  ],
+  "soal": "Look at the picture. It shows a \"No Swimming\" sign and a red flag on a beach with big, strong waves.\n\nWhich prohibition is suitable for the picture?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "PROH-16-B",
+  "gambar": "assets/img/eng-16-b.svg",
+  "indikator": 16,
+  "jawaban": "Don't park your car in front of the school gate.",
+  "level": "Sulit",
+  "materi": "Prohibition",
+  "pembahasan": "Gambar menunjukkan rambu \"No Parking\" di depan gerbang sekolah, yaitu larangan parkir di tempat itu. Larangan yang sesuai adalah \"Don't park your car in front of the school gate.\" Pilihan lain tidak berhubungan dengan rambu itu.",
+  "pilihan": [
+   "Don't drive your car to school.",
+   "Don't walk through the school gate.",
+   "Don't park your car in front of the school gate.",
+   "Don't stop your car in the parking area."
+  ],
+  "soal": "Look at the picture. It shows a \"No Parking\" sign in front of the school gate. A car is parked near the gate.\n\nWhich prohibition is suitable for the picture?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "OBL-17-A",
+  "indikator": 17,
+  "jawaban": "Students must wear a uniform to school every day.",
+  "level": "Mudah",
+  "materi": "Obligation",
+  "pembahasan": "Kalimat kewajiban memakai \"must\" atau \"have to\". Hanya kalimat \"Students must wear a uniform to school every day\" yang memakai \"must\". \"Can\" menyatakan kemampuan, \"should\" menyatakan saran, dan \"may\" menyatakan izin.",
+  "pilihan": [
+   "Students must wear a uniform to school every day.",
+   "Students can play football after school.",
+   "Students should read many books.",
+   "Students may go home after school."
+  ],
+  "soal": "Which sentence states an obligation using \"must\" or \"have to\"?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "OBL-17-B",
+  "indikator": 17,
+  "jawaban": "You have to finish your homework before Friday.",
+  "level": "Mudah",
+  "materi": "Obligation",
+  "pembahasan": "Kalimat kewajiban memakai \"must\" atau \"have to\". Hanya kalimat \"You have to finish your homework before Friday\" yang memakai \"have to\". Pilihan lain memakai \"can\", \"should\", dan \"may\", yang bukan kewajiban.",
+  "pilihan": [
+   "You can watch TV after dinner.",
+   "You should eat vegetables every day.",
+   "You have to finish your homework before Friday.",
+   "You may borrow my book."
+  ],
+  "soal": "Which sentence states an obligation using \"must\" or \"have to\"?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "OBL-18-A",
+  "indikator": 18,
+  "jawaban": "must",
+  "level": "Sedang",
+  "materi": "Obligation",
+  "pembahasan": "Kalimat ini menyatakan kewajiban, jadi kata yang tepat adalah \"must\": \"Students must wear a uniform to school.\" \"May\" menyatakan izin, \"can\" menyatakan kemampuan, dan \"could\" menyatakan kemungkinan, jadi ketiganya tidak tepat.",
+  "pilihan": [
+   "may",
+   "can",
+   "could",
+   "must"
+  ],
+  "soal": "Complete the sentence.\nStudents ___ wear a uniform to school.\n\nWhich word states an obligation?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "OBL-18-B",
+  "indikator": 18,
+  "jawaban": "have to",
+  "level": "Sedang",
+  "materi": "Obligation",
+  "pembahasan": "Kalimat ini menyatakan kewajiban, jadi kata yang tepat adalah \"have to\": \"I have to go to the dentist tomorrow. I have an appointment.\" \"May\", \"can\", dan \"could\" tidak menyatakan kewajiban.",
+  "pilihan": [
+   "may",
+   "have to",
+   "can",
+   "could"
+  ],
+  "soal": "Complete the sentence.\nI ___ go to the dentist tomorrow. I have an appointment.\n\nWhich word states an obligation?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "INSTR-19-A",
+  "gambar": "assets/img/eng-19-a.svg",
+  "indikator": 19,
+  "jawaban": "wash",
+  "level": "Sulit",
+  "materi": "Instruction",
+  "pembahasan": "Gambar menunjukkan seorang anak mencuci tangan dengan sabun di wastafel. Instruksi memakai kata kerja bentuk dasar (imperative): \"First, wash your hands with soap and water.\" \"Washing\", \"washed\", dan \"to wash\" bukan bentuk perintah yang benar di sini.",
+  "pilihan": [
+   "washing",
+   "washed",
+   "to wash",
+   "wash"
+  ],
+  "soal": "Look at the picture. It shows a boy washing his hands with soap at a sink.\nComplete the instruction.\n\"First, ___ your hands with soap and water.\"\n\nWhich verb is correct?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "INSTR-19-B",
+  "gambar": "assets/img/eng-19-b.svg",
+  "indikator": 19,
+  "jawaban": "turn off",
+  "level": "Sulit",
+  "materi": "Instruction",
+  "pembahasan": "Gambar menunjukkan seorang siswa mematikan lampu di ruang kelas sebelum pulang. Instruksi memakai kata kerja bentuk dasar: \"Turn off the light before you leave the room.\" \"Turning off\", \"turned off\", dan \"to turn off\" bukan bentuk perintah yang benar di sini.",
+  "pilihan": [
+   "turn off",
+   "turning off",
+   "turned off",
+   "to turn off"
+  ],
+  "soal": "Look at the picture. It shows a student switching off the lamp in a classroom before going home.\nComplete the instruction.\n\"___ the light before you leave the room.\"\n\nWhich verb is correct?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "INSTR-20-A",
+  "gambar": "assets/img/eng-20-a.svg",
+  "indikator": 20,
+  "jawaban": "In the library.",
+  "level": "Sedang",
+  "materi": "Instruction",
+  "pembahasan": "Gambar menunjukkan rambu \"Please Be Quiet\" di perpustakaan, tempat orang membaca. Jadi instruksi itu diberikan di perpustakaan. Instruksi \"Please be quiet\" tidak cocok untuk kolam renang, kantin yang ramai, atau lapangan.",
+  "pilihan": [
+   "In the swimming pool.",
+   "In the library.",
+   "In the canteen.",
+   "On the football field."
+  ],
+  "soal": "Look at the picture. It shows a \"Please Be Quiet\" sign in a room with bookshelves. Some students are reading books at a table.\n\nWhere is the instruction given?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "INSTR-20-B",
+  "gambar": "assets/img/eng-20-b.svg",
+  "indikator": 20,
+  "jawaban": "In the canteen.",
+  "level": "Sedang",
+  "materi": "Instruction",
+  "pembahasan": "Gambar menunjukkan rambu \"Please Queue in Line\" di kantin sekolah, tempat siswa mengantre membeli makanan. Jadi instruksi itu diberikan di kantin. Instruksi mengantre tidak cocok untuk perpustakaan, toilet, atau lapangan.",
+  "pilihan": [
+   "In the library.",
+   "In the toilet.",
+   "In the canteen.",
+   "On the football field."
+  ],
+  "soal": "Look at the picture. It shows a \"Please Queue in Line\" sign in a room with a food counter. Some students are standing in a line to buy food.\n\nWhere is the instruction given?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "SUGG-21-A",
+  "indikator": 21,
+  "jawaban": "You should drink warm water.",
+  "level": "Mudah",
+  "materi": "Suggestion",
+  "pembahasan": "\"You should drink warm water\" adalah ekspresi saran (suggestion). \"You must drink warm water\" adalah kewajiban, \"Can you drink warm water?\" adalah pertanyaan, dan \"I drink warm water every day\" adalah pernyataan kebiasaan.",
+  "pilihan": [
+   "You should drink warm water.",
+   "You must drink warm water.",
+   "Can you drink warm water?",
+   "I drink warm water every day."
+  ],
+  "soal": "Read the conversation.\nRina: \"I have a sore throat.\"\nSinta: \"...\"\n\nWhich expression is a suggestion?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "SUGG-21-B",
+  "indikator": 21,
+  "jawaban": "Why don't you take a rest? You look tired.",
+  "level": "Mudah",
+  "materi": "Suggestion",
+  "pembahasan": "\"Why don't you take a rest?\" adalah ekspresi saran. \"You must take a rest\" adalah kewajiban, \"Do you take a rest?\" adalah pertanyaan, dan \"I take a rest every day\" adalah pernyataan kebiasaan.",
+  "pilihan": [
+   "You must take a rest.",
+   "Do you take a rest?",
+   "Why don't you take a rest? You look tired.",
+   "I take a rest every day."
+  ],
+  "soal": "Read the conversation.\nBudi: \"I feel very tired today.\"\nAndi: \"...\"\n\nWhich expression is a suggestion?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "SUGG-22-A",
+  "indikator": 22,
+  "jawaban": "You should go to bed early tonight.",
+  "level": "Sulit",
+  "materi": "Suggestion",
+  "pembahasan": "Budi mengantuk di kelas karena tidur larut malam. Saran yang paling sesuai dengan masalahnya adalah \"You should go to bed early tonight.\" Bermain sepak bola atau menonton TV justru membuat masalahnya bertambah, dan minum kopi bukan saran yang baik untuk siswa SMP.",
+  "pilihan": [
+   "You should play football after school.",
+   "You should watch TV until midnight.",
+   "You should drink a lot of coffee.",
+   "You should go to bed early tonight."
+  ],
+  "soal": "Read the conversation.\nBudi: \"I feel sleepy in class. I went to bed at midnight yesterday.\"\nAndi: \"...\"\n\nWhich suggestion is the most suitable for the problem?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "SUGG-22-B",
+  "indikator": 22,
+  "jawaban": "You should practise English every day.",
+  "level": "Sulit",
+  "materi": "Suggestion",
+  "pembahasan": "Nilai Bahasa Inggris Rina rendah karena ia jarang berlatih. Saran yang paling sesuai adalah \"You should practise English every day.\" Berhenti belajar dan hanya bermain justru memperburuk masalah, dan tidur siang tidak berhubungan dengan nilai Bahasa Inggrisnya.",
+  "pilihan": [
+   "You should stop studying English.",
+   "You should practise English every day.",
+   "You should only play games after school.",
+   "You should take a nap in the afternoon."
+  ],
+  "soal": "Read the conversation.\nRina: \"My English score is very low. I seldom practise English at home.\"\nSinta: \"...\"\n\nWhich suggestion is the most suitable for the problem?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "ANN-23-A",
+  "indikator": 23,
+  "jawaban": "On Monday at 7 a.m.",
+  "level": "Mudah",
+  "materi": "Announcement",
+  "pembahasan": "Pengumuman itu berbunyi: \"There will be a flag ceremony on Monday at 7 a.m. in the school yard.\" Jadi upacara bendera diadakan pada hari Senin pukul 7 pagi.",
+  "pilihan": [
+   "On Friday at 7 a.m.",
+   "On Saturday at 8 a.m.",
+   "On Sunday at 7 a.m.",
+   "On Monday at 7 a.m."
+  ],
+  "soal": "Read the announcement.\n\"ANNOUNCEMENT\nThere will be a flag ceremony on Monday at 7 a.m. in the school yard. All students must wear a uniform and come on time.\"\n\nWhen will the flag ceremony be held?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "ANN-23-B",
+  "indikator": 23,
+  "jawaban": "On Thursday at 3 p.m.",
+  "level": "Mudah",
+  "materi": "Announcement",
+  "pembahasan": "Pengumuman itu berbunyi: \"The English club will meet every Thursday at 3 p.m. in Room 8.\" Jadi klub Bahasa Inggris bertemu setiap hari Kamis pukul 3 sore.",
+  "pilihan": [
+   "On Thursday at 3 p.m.",
+   "On Tuesday at 3 p.m.",
+   "On Thursday at 8 a.m.",
+   "On Friday at 3 p.m."
+  ],
+  "soal": "Read the announcement.\n\"ANNOUNCEMENT\nThe English club will meet every Thursday at 3 p.m. in Room 8. All members must bring their English books.\"\n\nWhen will the English club meet?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "ANN-24-A",
+  "indikator": 24,
+  "jawaban": "On 10 February 2026.",
+  "level": "Sedang",
+  "materi": "Announcement",
+  "pembahasan": "Pengumuman itu berbunyi: lomba pidato Bahasa Inggris diadakan pada hari Sabtu, 14 Februari 2026, dan pendaftaran ditutup pada 10 Februari 2026. Jadi batas akhir pendaftaran adalah 10 Februari 2026, bukan tanggal lombanya.",
+  "pilihan": [
+   "On 14 February 2026.",
+   "On 10 February 2026.",
+   "On 12 February 2026.",
+   "On 9 February 2026."
+  ],
+  "soal": "Read the announcement.\n\"ANNOUNCEMENT\nThe English speech contest will be held on Saturday, 14 February 2026, in the school hall. Registration closes on 10 February 2026. Please contact the English teacher for more information.\"\n\nWhen is the registration deadline?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "ANN-24-B",
+  "indikator": 24,
+  "jawaban": "Rp50,000.",
+  "level": "Sedang",
+  "materi": "Announcement",
+  "pembahasan": "Pengumuman itu berbunyi: \"The trip costs Rp50,000 per student.\" Jadi setiap siswa membayar Rp50.000. Rp40.000 adalah jumlah siswa yang ikut (40 students), bukan biayanya.",
+  "pilihan": [
+   "Rp40,000.",
+   "Rp45,000.",
+   "Rp50,000.",
+   "Rp100,000."
+  ],
+  "soal": "Read the announcement.\n\"ANNOUNCEMENT\nOur class will visit the museum next Saturday. The trip costs Rp50,000 per student. Forty students will join the trip. Please pay the money to the class treasurer before Friday.\"\n\nHow much does each student pay for the trip?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "ANN-25-A",
+  "indikator": 25,
+  "jawaban": "Students must bring a notebook, a pen, and a bottle of water.",
+  "level": "Sulit",
+  "materi": "Announcement",
+  "pembahasan": "Pengumuman itu berbunyi: siswa harus membawa buku catatan, pena, dan sebotol air. \"A dictionary and a laptop\" tidak disebutkan, \"a football and a racket\" untuk kegiatan lain, dan \"a uniform\" bukan yang harus dibawa untuk kegiatan itu.",
+  "pilihan": [
+   "Students must bring a notebook, a pen, and a bottle of water.",
+   "Students must bring a dictionary and a laptop.",
+   "Students must bring a football and a racket.",
+   "Students must bring a uniform and a pair of shoes."
+  ],
+  "soal": "Read the announcement.\n\"ANNOUNCEMENT\nThe school will hold a writing workshop on Saturday, 21 February 2026, from 8 a.m. to 11 a.m. in the library. Students must bring a notebook, a pen, and a bottle of water. Please come on time.\"\n\nAccording to the announcement, what must the students bring?",
+  "tipe": "PG",
+  "varian": "A"
+ },
+ {
+  "id": "ANN-25-B",
+  "indikator": 25,
+  "jawaban": "Only students of grade 8 can join the competition.",
+  "level": "Sulit",
+  "materi": "Announcement",
+  "pembahasan": "Pengumuman itu berbunyi: lomba membaca puisi hanya untuk siswa kelas 8, diadakan di aula pada hari Jumat pukul 10 pagi. Pilihan pertama salah (lomba untuk kelas 8, bukan semua kelas), pilihan ketiga salah waktu (bukan pukul 8), dan pilihan keempat salah tempat (bukan perpustakaan).",
+  "pilihan": [
+   "All students can join the competition.",
+   "The competition will be held at 8 a.m.",
+   "Only students of grade 8 can join the competition.",
+   "The competition will be held in the library."
+  ],
+  "soal": "Read the announcement.\n\"ANNOUNCEMENT\nThere will be a poetry reading competition for grade 8 students only. The competition will be held in the school hall on Friday at 10 a.m. Please register with your English teacher before Wednesday.\"\n\nWhich statement is correct according to the announcement?",
+  "tipe": "PG",
+  "varian": "B"
+ },
+ {
+  "id": "DESC-26-A",
+  "indikator": 26,
+  "jawaban": "Benar",
+  "level": "Sedang",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu adalah fakta: teks memang menyebutkan perpustakaan sekolah buka pukul 7 pagi. Fakta adalah informasi yang benar dan bisa dibuktikan, sedangkan opini adalah pendapat pribadi.",
+  "soal": "Read the text.\n\"Our school library is big and clean. It has five thousand books. It opens at 7 a.m. and closes at 3 p.m. Many students read books there every day.\"\n\nStatement: \"The school library opens at 7 a.m.\" is a fact.",
+  "tipe": "Benar-Salah",
+  "varian": "A"
+ },
+ {
+  "id": "DESC-26-B",
+  "indikator": 26,
+  "jawaban": "Salah",
+  "level": "Sedang",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu adalah opini, bukan fakta: \"the most beautiful place in the world\" adalah pendapat pribadi yang tidak bisa dibuktikan. Fakta adalah informasi yang benar dan bisa dibuktikan, sedangkan opini adalah pendapat pribadi.",
+  "soal": "Read the text.\n\"Kuta Beach is in Bali. The sand is white and the water is blue. Many tourists visit the beach every year. The beach is the most beautiful place in the world.\"\n\nStatement: \"The beach is the most beautiful place in the world.\" is a fact.",
+  "tipe": "Benar-Salah",
+  "varian": "B"
+ },
+ {
+  "id": "DESC-27-A",
+  "indikator": 27,
+  "jawaban": "Benar",
+  "level": "Sedang",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu adalah fakta: teks menyebutkan Milo berbulu putih dan bermata hijau. Fakta adalah informasi yang benar dan bisa dibuktikan.",
+  "soal": "Read the text.\n\"I have a cat. His name is Milo. He has white fur and green eyes. He likes to sleep on my bed. He is very cute.\"\n\nStatement: \"Milo has white fur and green eyes.\" is a fact.",
+  "tipe": "Benar-Salah",
+  "varian": "A"
+ },
+ {
+  "id": "DESC-27-B",
+  "indikator": 27,
+  "jawaban": "Salah",
+  "level": "Sedang",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu adalah opini, bukan fakta: \"the best player in the world\" adalah pendapat pribadi yang tidak bisa dibuktikan. Fakta dalam teks adalah ia bermain untuk timnas dan mencetak 20 gol musim lalu.",
+  "soal": "Read the text.\n\"Ronaldo is a famous football player. He plays for the national team. He scored twenty goals last season. He is the best player in the world.\"\n\nStatement: \"He is the best player in the world.\" is a fact.",
+  "tipe": "Benar-Salah",
+  "varian": "B"
+ },
+ {
+  "id": "DESC-28-A",
+  "indikator": 28,
+  "jawaban": "Salah",
+  "level": "Sulit",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu tidak sesuai dengan teks: Rani tinggal di desa kecil dekat sungai, bukan di kota besar, dan ia berjalan kaki ke sekolah setiap hari. Jadi pernyataan \"Rani lives in a big city\" adalah salah.",
+  "soal": "Read the text.\n\"Rani lives in a small village near a river. She walks to school every day. Her school is near her house. She likes her village very much.\"\n\nStatement: Rani lives in a big city.",
+  "tipe": "Benar-Salah",
+  "varian": "A"
+ },
+ {
+  "id": "DESC-28-B",
+  "indikator": 28,
+  "jawaban": "Benar",
+  "level": "Sulit",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu sesuai dengan teks: pasar itu buka setiap hari pukul 6 pagi dan menjual buah serta sayuran segar. Jadi pernyataan \"The market opens at 6 a.m. every day\" adalah benar.",
+  "soal": "Read the text.\n\"There is a traditional market near my house. It opens at 6 a.m. every day. It sells fresh fruit and vegetables. Many people buy food there in the morning.\"\n\nStatement: The market opens at 6 a.m. every day.",
+  "tipe": "Benar-Salah",
+  "varian": "B"
+ },
+ {
+  "id": "DESC-29-A",
+  "indikator": 29,
+  "jawaban": "Benar",
+  "level": "Sulit",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu sesuai dengan teks: Borobudur terletak di Magelang, Jawa Tengah, dan dibangun pada abad ke-9. Jadi pernyataan \"Borobudur is in Magelang, Central Java\" adalah benar.",
+  "soal": "Read the text.\n\"Borobudur is a famous temple in Indonesia. It is in Magelang, Central Java. It was built in the ninth century. Many tourists visit Borobudur every year.\"\n\nStatement: Borobudur is in Magelang, Central Java.",
+  "tipe": "Benar-Salah",
+  "varian": "A"
+ },
+ {
+  "id": "DESC-29-B",
+  "indikator": 29,
+  "jawaban": "Salah",
+  "level": "Sulit",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu tidak sesuai dengan teks: perpustakaan itu mempunyai lima ribu buku, bukan sepuluh ribu buku. Jadi pernyataan \"The library has ten thousand books\" adalah salah.",
+  "soal": "Read the text.\n\"Our school library is big and clean. It has five thousand books. It opens at 7 a.m. and closes at 3 p.m. Many students read books there every day.\"\n\nStatement: The library has ten thousand books.",
+  "tipe": "Benar-Salah",
+  "varian": "B"
+ },
+ {
+  "id": "DESC-30-A",
+  "indikator": 30,
+  "jawaban": "Salah",
+  "level": "Sulit",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu tidak sesuai dengan teks: Budi pergi ke sekolah dengan sepeda, bukan dengan bus. Jadi pernyataan \"Budi goes to school by bus\" adalah salah.",
+  "soal": "Read the text.\n\"Budi is a student at SMP Bina Putra. He goes to school by bicycle every day. His school is two kilometres from his house. He likes riding his bicycle in the morning.\"\n\nStatement: Budi goes to school by bus.",
+  "tipe": "Benar-Salah",
+  "varian": "A"
+ },
+ {
+  "id": "DESC-30-B",
+  "indikator": 30,
+  "jawaban": "Benar",
+  "level": "Sulit",
+  "materi": "Descriptive Text",
+  "pembahasan": "Pernyataan itu sesuai dengan teks: Sari mempunyai dua kakak laki-laki dan satu adik perempuan, dan ia adalah anak ketiga. Jadi pernyataan \"Sari has two older brothers\" adalah benar.",
+  "soal": "Read the text.\n\"Sari is a student in grade 8. She has two older brothers and one younger sister. She is the third child in her family. She likes reading books and singing.\"\n\nStatement: Sari has two older brothers.",
+  "tipe": "Benar-Salah",
+  "varian": "B"
+ },
+ {
+  "id": "MATCH-31-A",
+  "indikator": 31,
+  "jawaban": "To invite someone",
+  "level": "Mudah",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"Would you like to come to my house this weekend?\" adalah ungkapan ajakan (inviting someone). Ungkapan ini mengajak orang lain melakukan sesuatu, bukan meminta izin, meminta pendapat, atau memberi saran.",
+  "pilihan": [
+   "To ask for permission",
+   "To invite someone",
+   "To ask for an opinion",
+   "To give a suggestion"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"Would you like to come to my house this weekend?\"",
+  "tipe": "Menjodohkan",
+  "varian": "A"
+ },
+ {
+  "id": "MATCH-31-B",
+  "indikator": 31,
+  "jawaban": "To invite someone",
+  "level": "Mudah",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"How about playing football after school?\" adalah ungkapan ajakan (inviting someone). Ungkapan ini mengajak orang lain bermain sepak bola, bukan meminta izin atau memberi pendapat.",
+  "pilihan": [
+   "To ask for an opinion",
+   "To give a suggestion",
+   "To state an obligation",
+   "To invite someone"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"How about playing football after school?\"",
+  "tipe": "Menjodohkan",
+  "varian": "B"
+ },
+ {
+  "id": "MATCH-32-A",
+  "indikator": 32,
+  "jawaban": "To ask for permission",
+  "level": "Mudah",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"May I use your ruler, please?\" adalah ungkapan meminta izin (asking for permission). Kata \"May I\" menunjukkan permintaan izin, bukan ajakan atau pendapat.",
+  "pilihan": [
+   "To invite someone",
+   "To ask for permission",
+   "To ask for an opinion",
+   "To state an obligation"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"May I use your ruler, please?\"",
+  "tipe": "Menjodohkan",
+  "varian": "A"
+ },
+ {
+  "id": "MATCH-32-B",
+  "indikator": 32,
+  "jawaban": "To ask for permission",
+  "level": "Mudah",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"Can I go to the toilet, Miss?\" adalah ungkapan meminta izin (asking for permission). Kata \"Can I\" menunjukkan permintaan izin kepada guru.",
+  "pilihan": [
+   "To give a suggestion",
+   "To ask for permission",
+   "To invite someone",
+   "To ask for an opinion"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"Can I go to the toilet, Miss?\"",
+  "tipe": "Menjodohkan",
+  "varian": "B"
+ },
+ {
+  "id": "MATCH-33-A",
+  "indikator": 33,
+  "jawaban": "To ask for an opinion",
+  "level": "Sedang",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"What is your opinion about online classes?\" adalah ungkapan meminta pendapat (asking for an opinion). Kata \"What is your opinion\" menunjukkan permintaan pendapat, bukan ajakan atau saran.",
+  "pilihan": [
+   "To ask for an opinion",
+   "To invite someone",
+   "To state an obligation",
+   "To give a suggestion"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"What is your opinion about online classes?\"",
+  "tipe": "Menjodohkan",
+  "varian": "A"
+ },
+ {
+  "id": "MATCH-33-B",
+  "indikator": 33,
+  "jawaban": "To ask for an opinion",
+  "level": "Sedang",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"How do you feel about the new canteen?\" adalah ungkapan meminta pendapat (asking for an opinion). Kata \"How do you feel about\" menanyakan pendapat seseorang tentang kantin baru.",
+  "pilihan": [
+   "To state an obligation",
+   "To ask for an opinion",
+   "To ask for permission",
+   "To invite someone"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"How do you feel about the new canteen?\"",
+  "tipe": "Menjodohkan",
+  "varian": "B"
+ },
+ {
+  "id": "MATCH-34-A",
+  "indikator": 34,
+  "jawaban": "To give a suggestion",
+  "level": "Sedang",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"You should study harder for the exam.\" adalah ungkapan memberi saran (giving a suggestion). Kata \"should\" di sini memberi saran, bukan menyatakan kewajiban yang keras seperti \"must\".",
+  "pilihan": [
+   "To give a suggestion",
+   "To ask for permission",
+   "To invite someone",
+   "To ask for an opinion"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"You should study harder for the exam.\"",
+  "tipe": "Menjodohkan",
+  "varian": "A"
+ },
+ {
+  "id": "MATCH-34-B",
+  "indikator": 34,
+  "jawaban": "To give a suggestion",
+  "level": "Sedang",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"You'd better take an umbrella. It's going to rain.\" adalah ungkapan memberi saran (giving a suggestion). \"You'd better\" dipakai untuk memberi saran yang baik, bukan untuk meminta izin atau mengajak.",
+  "pilihan": [
+   "To state an obligation",
+   "To give a suggestion",
+   "To ask for an opinion",
+   "To invite someone"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"You'd better take an umbrella. It's going to rain.\"",
+  "tipe": "Menjodohkan",
+  "varian": "B"
+ },
+ {
+  "id": "MATCH-35-A",
+  "indikator": 35,
+  "jawaban": "To state an obligation",
+  "level": "Sulit",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"Students must wear a uniform every Monday.\" adalah ungkapan menyatakan kewajiban (stating an obligation). Kata \"must\" menunjukkan sesuatu yang wajib dilakukan, bukan sekadar saran.",
+  "pilihan": [
+   "To give a suggestion",
+   "To ask for an opinion",
+   "To state an obligation",
+   "To ask for permission"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"Students must wear a uniform every Monday.\"",
+  "tipe": "Menjodohkan",
+  "varian": "A"
+ },
+ {
+  "id": "MATCH-35-B",
+  "indikator": 35,
+  "jawaban": "To state an obligation",
+  "level": "Sulit",
+  "materi": "Menjodohkan: Inviting, Permission, Opinion, etc.",
+  "pembahasan": "\"You have to submit your homework today.\" adalah ungkapan menyatakan kewajiban (stating an obligation). Kata \"have to\" menunjukkan sesuatu yang wajib dilakukan, bukan sekadar saran.",
+  "pilihan": [
+   "To invite someone",
+   "To state an obligation",
+   "To give a suggestion",
+   "To ask for permission"
+  ],
+  "soal": "Match the expression with its meaning or function.\nExpression: \"You have to submit your homework today.\"",
+  "tipe": "Menjodohkan",
+  "varian": "B"
+ },
+ {
+  "id": "FILL-36-A",
+  "indikator": 36,
+  "jawaban": "join",
+  "level": "Mudah",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat ajakan yang benar adalah \"Would you like to join us for lunch tomorrow?\" Kata \"join\" (ikut/bergabung) cocok setelah \"to\". Kata \"joining\" tidak cocok karena setelah \"to\" dipakai kata kerja bentuk dasar.",
+  "soal": "Complete the sentence.\n\"Would you like to ___ us for lunch tomorrow?\"",
+  "tipe": "Isian Singkat",
+  "varian": "A"
+ },
+ {
+  "id": "FILL-36-B",
+  "indikator": 36,
+  "jawaban": "playing",
+  "level": "Mudah",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat ajakan yang benar adalah \"How about playing football with us after school?\" Setelah \"How about\" dipakai kata kerja + -ing, jadi jawabannya \"playing\".",
+  "soal": "Complete the sentence.\n\"How about ___ football with us after school?\"",
+  "tipe": "Isian Singkat",
+  "varian": "B"
+ },
+ {
+  "id": "FILL-37-A",
+  "indikator": 37,
+  "jawaban": "must",
+  "level": "Mudah",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat kewajiban yang benar adalah \"Students must wear a uniform on Monday.\" Kata \"must\" menyatakan kewajiban. Kata \"may\" menyatakan izin dan \"can\" menyatakan kemampuan, jadi keduanya tidak tepat.",
+  "soal": "Complete the sentence.\n\"Students ___ wear a uniform on Monday.\"",
+  "tipe": "Isian Singkat",
+  "varian": "A"
+ },
+ {
+  "id": "FILL-37-B",
+  "indikator": 37,
+  "jawaban": "have to",
+  "level": "Mudah",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat kewajiban yang benar adalah \"You have to submit your homework before Friday.\" Frasa \"have to\" menyatakan kewajiban. Kata \"may\" menyatakan izin dan \"can\" menyatakan kemampuan, jadi keduanya tidak tepat.",
+  "soal": "Complete the sentence.\n\"You ___ submit your homework before Friday.\"",
+  "tipe": "Isian Singkat",
+  "varian": "B"
+ },
+ {
+  "id": "FILL-38-A",
+  "indikator": 38,
+  "jawaban": "should",
+  "level": "Mudah",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat saran yang benar adalah \"You should drink a lot of water when you are sick.\" Kata \"should\" dipakai untuk memberi saran. Kata \"must\" menyatakan kewajiban yang keras dan kurang cocok untuk saran ini.",
+  "soal": "Complete the sentence.\n\"You ___ drink a lot of water when you are sick.\"",
+  "tipe": "Isian Singkat",
+  "varian": "A"
+ },
+ {
+  "id": "FILL-38-B",
+  "indikator": 38,
+  "jawaban": "take",
+  "level": "Mudah",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat saran yang benar adalah \"Why don't you take a rest? You look tired.\" Setelah \"Why don't you\" dipakai kata kerja bentuk dasar, yaitu \"take\". Frasa \"take a rest\" berarti beristirahat.",
+  "soal": "Complete the sentence.\n\"Why don't you ___ a rest? You look tired.\"",
+  "tipe": "Isian Singkat",
+  "varian": "B"
+ },
+ {
+  "id": "FILL-39-A",
+  "indikator": 39,
+  "jawaban": "to have",
+  "level": "Mudah",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat ajakan yang benar adalah \"Would you like to have a cup of tea?\" Setelah \"Would you like\" dipakai \"to\" + kata kerja bentuk dasar, jadi jawabannya \"to have\".",
+  "soal": "Complete the sentence.\n\"Would you like ___ a cup of tea?\"",
+  "tipe": "Isian Singkat",
+  "varian": "A"
+ },
+ {
+  "id": "FILL-39-B",
+  "indikator": 39,
+  "jawaban": "go",
+  "level": "Mudah",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat ajakan yang benar adalah \"Let's go to the library after school.\" Setelah \"Let's\" dipakai kata kerja bentuk dasar, yaitu \"go\".",
+  "soal": "Complete the sentence.\n\"Let's ___ to the library after school.\"",
+  "tipe": "Isian Singkat",
+  "varian": "B"
+ },
+ {
+  "id": "FILL-40-A",
+  "indikator": 40,
+  "jawaban": "finish",
+  "level": "Sedang",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat saran yang benar adalah \"You'd better finish your homework now, or you will be late.\" Setelah \"You'd better\" dipakai kata kerja bentuk dasar, yaitu \"finish\". Kata \"finishing\" dan \"finished\" tidak cocok di sini.",
+  "soal": "Complete the sentence.\n\"You'd better ___ your homework now, or you will be late.\"",
+  "tipe": "Isian Singkat",
+  "varian": "A"
+ },
+ {
+  "id": "FILL-40-B",
+  "indikator": 40,
+  "jawaban": "should",
+  "level": "Sedang",
+  "materi": "Isian Singkat: Invitation, Obligation, Suggestion",
+  "pembahasan": "Kalimat saran yang benar adalah \"If it rains, you should bring an umbrella.\" Kata \"should\" dipakai untuk memberi saran. Kata \"must\" menyatakan kewajiban yang keras dan kurang cocok untuk saran ini.",
+  "soal": "Complete the sentence.\n\"If it rains, you ___ bring an umbrella.\"",
+  "tipe": "Isian Singkat",
+  "varian": "B"
+ },
+ {
+  "id": "DESC-41-A",
+  "indikator": 41,
+  "jawaban": "Milo is a white cat with green eyes. He likes to sleep on my bed.",
+  "level": "Mudah",
+  "materi": "Descriptive Text",
+  "pembahasan": "Jawaban yang baik harus menyebutkan: (1) Milo adalah kucing berbulu putih dan bermata hijau, (2) ia suka tidur di tempat tidur pemiliknya. Informasi itu ada di teks: \"He has white fur and green eyes. He likes to sleep on my bed.\"",
+  "soal": "Read the text.\n\"I have a cat. His name is Milo. He has white fur and green eyes. He likes to sleep on my bed. He is very cute.\"\n\nWhat does Milo look like, and what does he like to do? Answer in English.",
+  "tipe": "Uraian",
+  "varian": "A"
+ },
+ {
+  "id": "DESC-41-B",
+  "indikator": 41,
+  "jawaban": "Kuta Beach is in Bali. The sand is white and the water is blue.",
+  "level": "Mudah",
+  "materi": "Descriptive Text",
+  "pembahasan": "Jawaban yang baik harus menyebutkan: (1) Pantai Kuta ada di Bali, (2) pasirnya putih dan airnya biru. Informasi itu ada di teks: \"Kuta Beach is in Bali. The sand is white and the water is blue.\"",
+  "soal": "Read the text.\n\"Kuta Beach is in Bali. The sand is white and the water is blue. Many tourists visit the beach every year. The beach is the most beautiful place in the world.\"\n\nWhere is Kuta Beach, and what does it look like? Answer in English.",
+  "tipe": "Uraian",
+  "varian": "B"
+ },
+ {
+  "id": "DESC-42-A",
+  "indikator": 42,
+  "jawaban": "Borobudur is famous because it is a very old and beautiful temple in Magelang, Central Java, built in the ninth century, and many tourists visit it every year.",
+  "level": "Sedang",
+  "materi": "Descriptive Text",
+  "pembahasan": "Jawaban yang baik harus menyebutkan: (1) Borobudur adalah candi terkenal di Magelang, Jawa Tengah, (2) dibangun pada abad ke-9, (3) banyak wisatawan mengunjunginya setiap tahun. Ketiga poin itu ada di teks.",
+  "soal": "Read the text.\n\"Borobudur is a famous temple in Indonesia. It is in Magelang, Central Java. It was built in the ninth century. Many tourists visit Borobudur every year.\"\n\nWhy is Borobudur famous? Answer in English.",
+  "tipe": "Uraian",
+  "varian": "A"
+ },
+ {
+  "id": "DESC-42-B",
+  "indikator": 42,
+  "jawaban": "Rani likes her village because it is small and quiet, near a river, and her school is near her house, so she can walk to school every day.",
+  "level": "Sedang",
+  "materi": "Descriptive Text",
+  "pembahasan": "Jawaban yang baik harus menyebutkan: (1) Rani tinggal di desa kecil dekat sungai, (2) sekolahnya dekat rumahnya, (3) ia berjalan kaki ke sekolah setiap hari dan sangat menyukai desanya. Ketiga poin itu ada di teks.",
+  "soal": "Read the text.\n\"Rani lives in a small village near a river. She walks to school every day. Her school is near her house. She likes her village very much.\"\n\nWhy does Rani like her village? Answer in English.",
+  "tipe": "Uraian",
+  "varian": "B"
+ },
+ {
+  "id": "PROH-43-A",
+  "indikator": 43,
+  "jawaban": "Don't talk loudly in the library. Don't eat food in the library.",
+  "level": "Sulit",
+  "materi": "Prohibition",
+  "pembahasan": "Jawaban yang baik harus berisi dua kalimat larangan (prohibition) yang sesuai dengan situasi perpustakaan, memakai \"Don't\" + kata kerja bentuk dasar, misalnya: \"Don't talk loudly in the library.\" dan \"Don't eat food in the library.\" Kalimat dengan \"must\" atau \"should\" bukan kalimat larangan.",
+  "soal": "Read the situation.\nYou are in the school library. Some students are reading books quietly. Write two prohibition sentences for this situation. Answer in English.",
+  "tipe": "Uraian",
+  "varian": "A"
+ },
+ {
+  "id": "PROH-43-B",
+  "indikator": 43,
+  "jawaban": "Don't smoke in the hospital. Don't make a noise in the hospital.",
+  "level": "Sulit",
+  "materi": "Prohibition",
+  "pembahasan": "Jawaban yang baik harus berisi dua kalimat larangan (prohibition) yang sesuai dengan situasi rumah sakit, memakai \"Don't\" + kata kerja bentuk dasar, misalnya: \"Don't smoke in the hospital.\" dan \"Don't make a noise in the hospital.\" Kalimat dengan \"must\" atau \"should\" bukan kalimat larangan.",
+  "soal": "Read the situation.\nYou are in a hospital. Many patients are resting in their rooms. Write two prohibition sentences for this situation. Answer in English.",
+  "tipe": "Uraian",
+  "varian": "B"
+ },
+ {
+  "id": "PERM-44-A",
+  "indikator": 44,
+  "jawaban": "Rina: \"Excuse me, Sir. May I go to the toilet?\" Teacher: \"Yes, you may.\" Rina: \"Thank you, Sir.\"",
+  "level": "Sedang",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "Dialog yang benar harus tersusun: (1) permintaan izin yang sopan (\"Excuse me, Sir. May I go to the toilet?\"), (2) jawaban memberi izin (\"Yes, you may.\"), (3) ucapan terima kasih (\"Thank you, Sir.\"). Urutan ini masuk akal dalam percakapan.",
+  "soal": "Arrange the sentences into a short dialog about asking for permission.\n1. \"Thank you, Sir.\"\n2. \"Yes, you may.\"\n3. \"Excuse me, Sir. May I go to the toilet?\"\n\nWrite the correct dialog in English.",
+  "tipe": "Uraian",
+  "varian": "A"
+ },
+ {
+  "id": "PERM-44-B",
+  "indikator": 44,
+  "jawaban": "Budi: \"Can I borrow your dictionary, please?\" Sinta: \"Of course. Here it is.\" Budi: \"Thank you very much.\"",
+  "level": "Sedang",
+  "materi": "Asking and Giving Permission",
+  "pembahasan": "Dialog yang benar harus tersusun: (1) permintaan izin yang sopan (\"Can I borrow your dictionary, please?\"), (2) jawaban memberi izin (\"Of course. Here it is.\"), (3) ucapan terima kasih (\"Thank you very much.\"). Urutan ini masuk akal dalam percakapan.",
+  "soal": "Arrange the sentences into a short dialog about asking for permission.\n1. \"Of course. Here it is.\"\n2. \"Thank you very much.\"\n3. \"Can I borrow your dictionary, please?\"\n\nWrite the correct dialog in English.",
+  "tipe": "Uraian",
+  "varian": "B"
+ },
+ {
+  "id": "ANN-45-A",
+  "indikator": 45,
+  "jawaban": "The English speech contest will be held on Saturday, 14 February 2026, in the school hall. Students must register before 10 February 2026.",
+  "level": "Sulit",
+  "materi": "Announcement",
+  "pembahasan": "Jawaban yang baik harus menyebutkan: (1) lomba pidato Bahasa Inggris diadakan pada hari Sabtu, 14 Februari 2026, di aula sekolah, (2) pendaftaran ditutup pada 10 Februari 2026. Kedua poin itu ada di pengumuman.",
+  "soal": "Read the announcement.\n\"ANNOUNCEMENT\nThe English speech contest will be held on Saturday, 14 February 2026, in the school hall. Registration closes on 10 February 2026. Please contact the English teacher for more information.\"\n\nWhen and where will the English speech contest be held, and when is the registration deadline? Answer in English.",
+  "tipe": "Uraian",
+  "varian": "A"
+ },
+ {
+  "id": "ANN-45-B",
+  "indikator": 45,
+  "jawaban": "The school will hold a writing workshop on Saturday, 21 February 2026, from 8 a.m. to 11 a.m. in the library. Students must bring a notebook, a pen, and a bottle of water.",
+  "level": "Sulit",
+  "materi": "Announcement",
+  "pembahasan": "Jawaban yang baik harus menyebutkan: (1) lokakarya menulis diadakan pada hari Sabtu, 21 Februari 2026, pukul 8-11 pagi di perpustakaan, (2) siswa harus membawa buku catatan, pena, dan sebotol air. Kedua poin itu ada di pengumuman.",
+  "soal": "Read the announcement.\n\"ANNOUNCEMENT\nThe school will hold a writing workshop on Saturday, 21 February 2026, from 8 a.m. to 11 a.m. in the library. Students must bring a notebook, a pen, and a bottle of water. Please come on time.\"\n\nWhen and where will the writing workshop be held, and what must the students bring? Answer in English.",
+  "tipe": "Uraian",
+  "varian": "B"
+ }
+]
