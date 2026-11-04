@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>A sign above a food counter</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="400" height="300" fill="#fff7ed"/>
+<rect x="140" y="30" width="120" height="64" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="4"/>
+<text x="200" y="58" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">PLEASE QUEUE</text>
+<text x="200" y="80" font-size="15" fill="#0f766e" text-anchor="middle" font-weight="bold">IN LINE</text>
+<rect x="40" y="170" width="320" height="20" fill="#a16207"/>
+<rect x="50" y="190" width="300" height="50" fill="#92400e"/>
+<rect x="70" y="140" width="60" height="30" fill="#fde68a" stroke="#1f2a37" stroke-width="2"/>
+<circle cx="140" cy="130" r="14" fill="#fcd34d"/>
+<path d="M126 144 L154 144 L150 170 L130 170 Z" fill="#1d4ed8"/>
+<circle cx="210" cy="130" r="14" fill="#fcd34d"/>
+<path d="M196 144 L224 144 L220 170 L200 170 Z" fill="#0f766e"/>
+<circle cx="280" cy="130" r="14" fill="#fcd34d"/>
+<path d="M266 144 L294 144 L290 170 L270 170 Z" fill="#dc2626"/>
+<text x="200" y="275" font-size="15" fill="#334155" text-anchor="middle">Students in a line at the canteen counter</text>
+</g>
+</svg>

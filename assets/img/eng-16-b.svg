@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>A round sign near a gate</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="400" height="170" fill="#bae6fd"/>
+<rect x="0" y="170" width="400" height="60" fill="#94a3b8"/>
+<rect x="0" y="230" width="400" height="70" fill="#86efac"/>
+<rect x="250" y="60" width="120" height="170" fill="#ffffff" stroke="#64748b" stroke-width="3"/>
+<path d="M250 60 L310 30 L370 60 Z" fill="#dc2626"/>
+<rect x="30" y="180" width="110" height="45" rx="10" fill="#3b82f6"/>
+<circle cx="55" cy="228" r="14" fill="#1f2a37"/>
+<circle cx="115" cy="228" r="14" fill="#1f2a37"/>
+<rect x="45" y="155" width="80" height="30" fill="#dbeafe"/>
+<circle cx="200" cy="110" r="55" fill="#ffffff" stroke="#dc2626" stroke-width="8"/>
+<text x="200" y="130" font-size="64" fill="#1f2a37" text-anchor="middle" font-weight="bold">P</text>
+<line x1="161" y1="149" x2="239" y2="71" stroke="#dc2626" stroke-width="9"/>
+<text x="200" y="272" font-size="26" fill="#dc2626" text-anchor="middle" font-weight="bold">NO PARKING</text>
+</g>
+</svg>

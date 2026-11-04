@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>A round sign near the sea</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="400" height="140" fill="#bae6fd"/>
+<circle cx="340" cy="40" r="24" fill="#facc15" stroke="#eab308" stroke-width="2"/>
+<rect x="0" y="140" width="400" height="60" fill="#38bdf8"/>
+<path d="M0 160 Q50 145 100 160 T200 160 T300 160 T400 160 L400 200 L0 200 Z" fill="#0284c7"/>
+<rect x="0" y="200" width="400" height="100" fill="#fde68a"/>
+<rect x="60" y="60" width="8" height="140" fill="#92400e"/>
+<path d="M68 60 L120 75 L68 90 Z" fill="#dc2626"/>
+<circle cx="200" cy="90" r="52" fill="#ffffff" stroke="#dc2626" stroke-width="7"/>
+<path d="M175 78 Q200 68 225 78 L222 100 L205 95 L200 108 L195 95 L178 100 Z" fill="#0284c7"/>
+<line x1="163" y1="127" x2="237" y2="53" stroke="#dc2626" stroke-width="9"/>
+<text x="200" y="240" font-size="26" fill="#dc2626" text-anchor="middle" font-weight="bold">NO SWIMMING</text>
+<text x="200" y="270" font-size="15" fill="#334155" text-anchor="middle">Beach, big waves</text>
+</g>
+</svg>
