@@ -1,11 +1,14 @@
-/* Simulasi ASAS Bahasa Inggris SMP Bina Putra — Bahasa Inggris Kelas VIII
-   Statis, tanpa server. Bank soal: 90 soal, 2 varian per indikator 1-45.
-   Tiap sesi: 1 varian acak per indikator (45 soal), urutan soal mengikuti
-   kisi-kisi (PG, Benar-Salah, Menjodohkan, Isian Singkat, Uraian) dengan
-   pengacakan hanya di dalam tiap jenis soal, urutan pilihan PG diacak.
-   Menjodohkan: pilihan tiap soal adalah kelima jawaban dari soal-soal
-   Menjodohkan pada sesi itu. Skor otomatis: 35 soal (PG 25, Benar-Salah 5,
-   Menjodohkan 5). Isian Singkat dan Uraian dicek mandiri. */
+/* Simulasi ASAS Bahasa Inggris SMP Bina Putra — Kelas VIII & IX
+   Statis, tanpa server. Tiap kelas punya bank soal sendiri: 90 soal,
+   2 varian per indikator 1-45. Tiap sesi: 1 varian acak per indikator
+   (45 soal), urutan soal mengikuti kisi-kisi dengan pengacakan hanya
+   di dalam tiap jenis soal, urutan pilihan PG diacak. Menjodohkan:
+   pilihan tiap soal adalah kelima jawaban dari soal-soal Menjodohkan
+   pada sesi itu. Skor otomatis: 35 soal (PG 25, Benar-Salah 5,
+   Menjodohkan 5). Sisa soal dicek mandiri.
+   Jenis soal per kelas BERBEDA: Kelas 8 memakai Isian Singkat +
+   Uraian, Kelas 9 memakai Uraian Singkat + Essay — label jenis,
+   urutan tipe, dan tampilan soal mengikuti kelas yang dipilih. */
 (function () {
   'use strict';
 
@@ -13,12 +16,39 @@
   var TOTAL_QUESTIONS = 45;
   var AUTO_COUNT = 35;
   var AUTO_TYPES = ['PG', 'Benar-Salah', 'Menjodohkan'];
-  /* Urutan jenis soal mengikuti kisi-kisi; pengacakan hanya di dalam
-     tiap jenis soal, bukan lintas jenis. */
-  var TYPE_ORDER = ['PG', 'Benar-Salah', 'Menjodohkan', 'Isian Singkat', 'Uraian'];
+  /* Jenis soal yang dijawab dengan textarea (cek mandiri). Isian
+     Singkat (Kelas 8) memakai input teks satu baris. */
+  var TEXTAREA_TYPES = ['Uraian', 'Uraian Singkat', 'Essay'];
   /* Kunci riwayat dibedakan dari situs simulasi lain, karena keduanya
      berbagi localStorage pada origin yang sama. */
   var HISTORY_KEY = 'asas_bahasa_inggris_bina_putra_history';
+
+  /* Bank soal per kelas (diisi saat halaman dimuat). Kelas 8 adalah
+     kelas asal situs ini, jadi ia yang dimuat wajib dan dipilih awal. */
+  var GRADES = {
+    '8': {
+      roman: 'VIII', file: 'assets/data/questions.json',
+      typeOrder: ['PG', 'Benar-Salah', 'Menjodohkan', 'Isian Singkat', 'Uraian'],
+      materi: [['Inviting Someone to Do Something', 5], ['Asking and Giving Permission', 6], ['Asking and Giving Opinion', 4], ['Prohibition', 3], ['Obligation', 2], ['Instruction', 2], ['Suggestion', 2], ['Announcement', 4], ['Descriptive Text', 7], ['Menjodohkan: Inviting, Permission, Opinion, etc.', 5], ['Isian Singkat: Invitation, Obligation, Suggestion', 5]],
+      tipe: [['Pilihan Jamak', 25, 'Otomatis'], ['Benar-Salah', 5, 'Otomatis'], ['Menjodohkan', 5, 'Otomatis'], ['Isian Singkat', 5, 'Cek mandiri'], ['Uraian', 5, 'Cek mandiri']],
+      typeNote: 'Skor otomatis dihitung dari 35 soal (Pilihan Jamak, Benar-Salah, dan Menjodohkan). Isian Singkat dan Uraian dicek mandiri dengan kunci jawaban dan pembahasan setelah selesai.',
+      resultNote: 'Skor dihitung dari 35 soal yang dinilai otomatis (Pilihan Jamak, Benar-Salah, Menjodohkan). Isian Singkat dan Uraian tidak masuk skor — cek sendiri dengan kunci jawaban di bawah.',
+      note: 'Kelas 8: Inviting, Permission, Opinion, Prohibition, Obligation, Instruction, Suggestion, Announcement, dan Descriptive Text.',
+      placeholder: 'Contoh: VIII A'
+    },
+    '9': {
+      roman: 'IX', file: 'assets/data/questions-9.json',
+      typeOrder: ['PG', 'Benar-Salah', 'Menjodohkan', 'Uraian Singkat', 'Essay'],
+      materi: [['Congratulating', 3], ['Complimenting', 3], ['Hope and Wish', 4], ['Agreement and Disagreement', 5], ['Procedure Text', 10], ['Report Text', 13], ['Label', 7]],
+      tipe: [['Pilihan Jamak', 25, 'Otomatis'], ['Benar-Salah', 5, 'Otomatis'], ['Menjodohkan', 5, 'Otomatis'], ['Uraian Singkat', 5, 'Cek mandiri'], ['Essay', 5, 'Cek mandiri']],
+      typeNote: 'Skor otomatis dihitung dari 35 soal (Pilihan Jamak, Benar-Salah, dan Menjodohkan). Uraian Singkat dan Essay dicek mandiri dengan kunci jawaban dan pembahasan setelah selesai.',
+      resultNote: 'Skor dihitung dari 35 soal yang dinilai otomatis (Pilihan Jamak, Benar-Salah, Menjodohkan). Uraian Singkat dan Essay tidak masuk skor — cek sendiri dengan kunci jawaban di bawah.',
+      note: 'Kelas 9: Congratulating, Complimenting, Hope and Wish, Agreement and Disagreement, Procedure Text, Report Text, dan Label.',
+      placeholder: 'Contoh: IX A'
+    }
+  };
+  var banks = {};            // bank soal per kelas: { '8': [...], '9': [...] }
+  var selectedGrade = '8';   // kelas yang dipilih di halaman awal (default: 8)
 
   var bank = [];
   var session = [];      // 45 soal terpilih untuk sesi ini (dengan _options bila ada)
@@ -70,11 +100,13 @@
     picked.forEach(function (q) {
       if (q.tipe === 'Menjodohkan') q._options = shuffle(matchingPool);
     });
-    /* Urutkan per jenis soal sesuai kisi-kisi; acak hanya di dalam
-       tiap jenis soal (PG 1-25, Benar-Salah 26-30, Menjodohkan 31-35,
-       Isian Singkat 36-40, Uraian 41-45). */
+    /* Urutkan per jenis soal sesuai kisi-kisi kelas yang dipilih;
+       acak hanya di dalam tiap jenis soal (Kelas 8: PG 1-25,
+       Benar-Salah 26-30, Menjodohkan 31-35, Isian Singkat 36-40,
+       Uraian 41-45; Kelas 9: PG, Benar-Salah, Menjodohkan, Uraian
+       Singkat 36-40, Essay 41-45). */
     session = [];
-    TYPE_ORDER.forEach(function (t) {
+    GRADES[selectedGrade].typeOrder.forEach(function (t) {
       session = session.concat(shuffle(picked.filter(function (q) { return q.tipe === t; })));
     });
     answers = session.map(function () { return null; });
@@ -108,7 +140,8 @@
     $('btn-clear-history').hidden = h.length === 0;
     h.forEach(function (e) {
       var li = el('li');
-      li.textContent = e.tanggal + ' — ' + e.nama + ' (' + e.kelas + '): ' +
+      var gradePart = e.tingkat && GRADES[e.tingkat] ? ' [Kelas ' + GRADES[e.tingkat].roman + ']' : '';
+      li.textContent = e.tanggal + ' — ' + e.nama + gradePart + ' (' + e.kelas + '): ' +
         e.benar + ' benar dari 35, nilai ' + e.nilai;
       list.appendChild(li);
     });
@@ -172,7 +205,7 @@
     } else if (q.tipe === 'Isian Singkat') {
       var v = input.querySelector('input').value.trim();
       answers[current] = v === '' ? null : v;
-    } else if (q.tipe === 'Uraian') {
+    } else if (TEXTAREA_TYPES.indexOf(q.tipe) !== -1) {
       var t = input.querySelector('textarea').value.trim();
       answers[current] = t === '' ? null : t;
     }
@@ -231,8 +264,13 @@
       inp.value = saved || '';
       inp.addEventListener('input', function () { answers[current] = inp.value.trim() === '' ? null : inp.value.trim(); renderNav(); });
       box.appendChild(inp);
-    } else if (q.tipe === 'Uraian') {
-      box.appendChild(el('p', 'Tulis jawabanmu dalam Bahasa Inggris. Soal ini dicek mandiri setelah selesai.', 'hint'));
+    } else if (TEXTAREA_TYPES.indexOf(q.tipe) !== -1) {
+      var hints = {
+        'Uraian': 'Tulis jawabanmu dalam Bahasa Inggris. Soal ini dicek mandiri setelah selesai.',
+        'Uraian Singkat': 'Tulis jawabanmu dalam satu atau dua kalimat Bahasa Inggris. Soal ini dicek mandiri setelah selesai.',
+        'Essay': 'Tulis jawabanmu dalam bentuk paragraf singkat Bahasa Inggris. Soal ini dicek mandiri setelah selesai.'
+      };
+      box.appendChild(el('p', hints[q.tipe], 'hint'));
       var ta = document.createElement('textarea');
       ta.placeholder = 'Tulis jawabanmu di sini...';
       ta.value = saved || '';
@@ -272,7 +310,7 @@
     $('result-summary').textContent = 'Jawaban benar: ' + benar + ' dari 35 soal yang dinilai otomatis.';
 
     var dateStr = new Date().toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' });
-    saveHistory({ nama: student.nama, kelas: student.kelas, tanggal: dateStr, benar: benar, nilai: nilai });
+    saveHistory({ nama: student.nama, kelas: student.kelas, tingkat: selectedGrade, tanggal: dateStr, benar: benar, nilai: nilai });
 
     var list = $('review-list');
     list.innerHTML = '';
@@ -328,8 +366,44 @@
     show('screen-result');
   }
 
+  /* ---------- Pemilih kelas ---------- */
+  function selectGrade(grade) {
+    if (!GRADES[grade] || !banks[grade]) return;
+    selectedGrade = grade;
+    var meta = GRADES[grade];
+    Array.prototype.forEach.call(document.querySelectorAll('.grade-btn'), function (btn) {
+      btn.classList.toggle('selected', btn.getAttribute('data-grade') === grade);
+    });
+    $('hero-sub').textContent = 'Bahasa Inggris Kelas ' + meta.roman + ' — ASAS Ganjil 2026/2027';
+    $('grade-note').textContent = meta.note;
+    $('input-kelas').placeholder = meta.placeholder;
+    var rows = $('materi-rows');
+    rows.innerHTML = '';
+    meta.materi.forEach(function (row) {
+      var tr = document.createElement('tr');
+      tr.appendChild(el('td', row[0]));
+      tr.appendChild(el('td', String(row[1])));
+      rows.appendChild(tr);
+    });
+    var trows = $('tipe-rows');
+    trows.innerHTML = '';
+    meta.tipe.forEach(function (row) {
+      var tr = document.createElement('tr');
+      tr.appendChild(el('td', row[0]));
+      tr.appendChild(el('td', String(row[1])));
+      tr.appendChild(el('td', row[2]));
+      trows.appendChild(tr);
+    });
+    $('type-note').textContent = meta.typeNote;
+    $('result-note').textContent = meta.resultNote;
+    Array.prototype.forEach.call(document.querySelectorAll('.footer'), function (f) {
+      f.textContent = 'Simulasi ASAS Bahasa Inggris SMP Bina Putra · Bahasa Inggris Kelas ' + meta.roman + ' · Kurikulum Merdeka · Dibuat oleh Jelly Dharmawan S.Pd.';
+    });
+  }
+
   /* ---------- Mulai / navigasi ---------- */
   function startTest() {
+    bank = banks[selectedGrade];
     buildSession();
     $('test-student').textContent = student.nama + ' (' + student.kelas + ')';
     show('screen-test');
@@ -339,6 +413,16 @@
 
   function init() {
     renderHistory();
+    selectGrade(selectedGrade);
+    if (!banks['9']) {
+      var btn9 = document.querySelector('.grade-btn[data-grade="9"]');
+      if (btn9) { btn9.disabled = true; btn9.innerHTML = 'Kelas 9<span class="badge-soon">Segera Hadir</span>'; }
+    }
+    Array.prototype.forEach.call(document.querySelectorAll('.grade-btn'), function (btn) {
+      btn.addEventListener('click', function () {
+        if (!btn.disabled) selectGrade(btn.getAttribute('data-grade'));
+      });
+    });
     $('btn-clear-history').addEventListener('click', function () {
       if (confirm('Hapus semua riwayat skor di perangkat ini?')) {
         try { localStorage.removeItem(HISTORY_KEY); } catch (e) {}
@@ -366,11 +450,19 @@
     $('btn-home').addEventListener('click', function () { renderHistory(); show('screen-start'); });
   }
 
-  /* Muat bank soal (wajib). */
+  /* Muat bank Kelas 8 (wajib), lalu bank Kelas 9 (bila gagal, tombol
+     Kelas 9 tetap nonaktif dan situs tetap berjalan untuk Kelas 8). */
   fetch('assets/data/questions.json')
-    .then(function (r) { if (!r.ok) throw new Error('Gagal memuat bank soal (' + r.status + ')'); return r.json(); })
+    .then(function (r) { if (!r.ok) throw new Error('Gagal memuat bank soal Kelas 8 (' + r.status + ')'); return r.json(); })
     .then(function (data) {
+      banks['8'] = data;
       bank = data;
+      return fetch('assets/data/questions-9.json')
+        .then(function (r) { if (!r.ok) throw new Error('Gagal memuat bank soal Kelas 9 (' + r.status + ')'); return r.json(); })
+        .then(function (data9) { banks['9'] = data9; })
+        .catch(function () { banks['9'] = null; });
+    })
+    .then(function () {
       init();
     })
     .catch(function (err) {
