@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>A beautiful garden in front of a house</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="400" height="170" fill="#bae6fd"/>
+<circle cx="345" cy="40" r="22" fill="#facc15" stroke="#eab308" stroke-width="2"/>
+<rect x="0" y="170" width="400" height="130" fill="#86efac"/>
+<!-- house on the left -->
+<rect x="40" y="110" width="110" height="90" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+<path d="M30 112 L95 62 L160 112 Z" fill="#b45309"/>
+<rect x="58" y="150" width="26" height="50" fill="#92400e"/>
+<rect x="112" y="130" width="26" height="26" fill="#7dd3fc" stroke="#0369a1" stroke-width="2"/>
+<path d="M112 143 L138 143 M125 130 L125 156" stroke="#0369a1" stroke-width="2"/>
+<!-- garden path -->
+<path d="M190 300 L210 200 L230 300 Z" fill="#d6d3d1"/>
+<!-- colourful flowers -->
+<g>
+<circle cx="200" cy="235" r="11" fill="#f472b6"/>
+<circle cx="200" cy="235" r="4" fill="#facc15"/>
+<path d="M200 246 L200 280" stroke="#16a34a" stroke-width="3"/>
+<circle cx="250" cy="245" r="11" fill="#facc15"/>
+<circle cx="250" cy="245" r="4" fill="#f97316"/>
+<path d="M250 256 L250 280" stroke="#16a34a" stroke-width="3"/>
+<circle cx="290" cy="228" r="11" fill="#c084fc"/>
+<circle cx="290" cy="228" r="4" fill="#fef08a"/>
+<path d="M290 239 L290 280" stroke="#16a34a" stroke-width="3"/>
+<circle cx="330" cy="250" r="11" fill="#fda4af"/>
+<circle cx="330" cy="250" r="4" fill="#facc15"/>
+<path d="M330 261 L330 280" stroke="#16a34a" stroke-width="3"/>
+<circle cx="160" cy="245" r="11" fill="#38bdf8"/>
+<circle cx="160" cy="245" r="4" fill="#fef08a"/>
+<path d="M160 256 L160 280" stroke="#16a34a" stroke-width="3"/>
+<circle cx="120" cy="228" r="11" fill="#fb7185"/>
+<circle cx="120" cy="228" r="4" fill="#facc15"/>
+<path d="M120 239 L120 280" stroke="#16a34a" stroke-width="3"/>
+</g>
+<!-- bush and tree -->
+<circle cx="360" cy="150" r="26" fill="#22c55e"/>
+<rect x="354" y="170" width="10" height="30" fill="#92400e"/>
+<path d="M200 200 L340 200" stroke="#16a34a" stroke-width="3" stroke-dasharray="8 6"/>
+</g>
+</svg>

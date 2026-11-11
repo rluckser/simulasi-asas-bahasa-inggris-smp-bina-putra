@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Visitors to the Zoo</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="200" y="28" text-anchor="middle" font-size="15" font-weight="bold" fill="#134e4a">Visitors to the Zoo</text>
+<!-- gridlines and y-axis labels (0,100,200,300,400,500) -->
+<line x1="54" y1="252" x2="380" y2="252" stroke="#134e4a" stroke-width="2"/>
+<line x1="54" y1="210" x2="380" y2="210" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="54" y1="168" x2="380" y2="168" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="54" y1="126" x2="380" y2="126" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="54" y1="84" x2="380" y2="84" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="54" y1="42" x2="380" y2="42" stroke="#e2e8f0" stroke-width="1"/>
+<text x="48" y="256" text-anchor="end" font-size="11" fill="#475569">0</text>
+<text x="48" y="214" text-anchor="end" font-size="11" fill="#475569">100</text>
+<text x="48" y="172" text-anchor="end" font-size="11" fill="#475569">200</text>
+<text x="48" y="130" text-anchor="end" font-size="11" fill="#475569">300</text>
+<text x="48" y="88" text-anchor="end" font-size="11" fill="#475569">400</text>
+<text x="48" y="46" text-anchor="end" font-size="11" fill="#475569">500</text>
+<!-- bars: Jan 400, Feb 300, Mar 500, Apr 450 (scale 0.42 px per visitor) -->
+<rect x="74" y="84" width="52" height="168" fill="#0f766e"/>
+<rect x="148" y="126" width="52" height="126" fill="#0f766e"/>
+<rect x="222" y="42" width="52" height="210" fill="#0f766e"/>
+<rect x="296" y="63" width="52" height="189" fill="#0f766e"/>
+<!-- value labels -->
+<text x="100" y="73" text-anchor="middle" font-size="13" font-weight="bold" fill="#134e4a">400</text>
+<text x="174" y="115" text-anchor="middle" font-size="13" font-weight="bold" fill="#134e4a">300</text>
+<text x="248" y="31" text-anchor="middle" font-size="13" font-weight="bold" fill="#134e4a">500</text>
+<text x="322" y="52" text-anchor="middle" font-size="13" font-weight="bold" fill="#134e4a">450</text>
+<!-- month labels -->
+<text x="100" y="272" text-anchor="middle" font-size="12" fill="#134e4a">Jan</text>
+<text x="174" y="272" text-anchor="middle" font-size="12" fill="#134e4a">Feb</text>
+<text x="248" y="272" text-anchor="middle" font-size="12" fill="#134e4a">Mar</text>
+<text x="322" y="272" text-anchor="middle" font-size="12" fill="#134e4a">Apr</text>
+</g>
+</svg>

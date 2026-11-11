@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>An empty pan on a stove</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="400" height="300" fill="#f1f5f9"/>
+<!-- kitchen wall and counter -->
+<rect x="0" y="0" width="400" height="190" fill="#e0f2fe"/>
+<rect x="0" y="190" width="400" height="110" fill="#94a3b8"/>
+<!-- stove top -->
+<rect x="30" y="180" width="340" height="70" fill="#334155" stroke="#1e293b" stroke-width="2"/>
+<circle cx="130" cy="215" r="34" fill="#1e293b"/>
+<circle cx="130" cy="215" r="26" fill="#475569"/>
+<circle cx="290" cy="215" r="34" fill="#1e293b"/>
+<circle cx="290" cy="215" r="26" fill="#475569"/>
+<!-- empty pan on the left burner (top view) -->
+<circle cx="130" cy="160" r="72" fill="#64748b" stroke="#334155" stroke-width="3"/>
+<circle cx="130" cy="160" r="58" fill="#94a3b8" stroke="#475569" stroke-width="2"/>
+<rect x="196" y="148" width="120" height="24" rx="10" fill="#334155"/>
+<circle cx="200" cy="160" r="5" fill="#cbd5e1"/>
+<!-- small flame hints under the pan -->
+<path d="M105 240 Q112 228 118 240 M142 240 Q149 228 155 240" stroke="#f97316" stroke-width="4" fill="none" stroke-linecap="round"/>
+</g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>A girl wearing a beautiful new dress at a school party</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="400" height="190" fill="#fce7f3"/>
+<rect x="0" y="190" width="400" height="110" fill="#fbcfe8"/>
+<!-- bunting flags -->
+<line x1="0" y1="30" x2="400" y2="30" stroke="#be185d" stroke-width="2"/>
+<path d="M30 30 L50 55 L70 30 Z" fill="#f472b6"/>
+<path d="M110 30 L130 55 L150 30 Z" fill="#facc15"/>
+<path d="M190 30 L210 55 L230 30 Z" fill="#38bdf8"/>
+<path d="M270 30 L290 55 L310 30 Z" fill="#f472b6"/>
+<path d="M350 30 L370 55 L390 30 Z" fill="#facc15"/>
+<!-- balloons -->
+<circle cx="55" cy="95" r="16" fill="#f472b6"/>
+<path d="M55 111 L55 130" stroke="#be185d" stroke-width="2"/>
+<circle cx="345" cy="90" r="16" fill="#38bdf8"/>
+<path d="M345 106 L345 125" stroke="#0369a1" stroke-width="2"/>
+<!-- girl with a beautiful dress -->
+<circle cx="200" cy="105" r="20" fill="#fcd34d" stroke="#b45309" stroke-width="1.5"/>
+<path d="M180 105 Q200 82 220 105 Q200 92 180 105 Z" fill="#78350f"/>
+<path d="M200 125 L200 175" stroke="#0f766e" stroke-width="7" stroke-linecap="round"/>
+<path d="M200 140 L168 158 M200 140 L232 158" stroke="#0f766e" stroke-width="6" stroke-linecap="round"/>
+<path d="M186 172 L200 130 L214 172 L238 240 L162 240 Z" fill="#ec4899" stroke="#be185d" stroke-width="2"/>
+<circle cx="200" cy="205" r="5" fill="#facc15"/>
+<circle cx="186" cy="222" r="5" fill="#ffffff"/>
+<circle cx="214" cy="222" r="5" fill="#ffffff"/>
+<path d="M188 240 L184 268 M212 240 L216 268" stroke="#0f766e" stroke-width="6" stroke-linecap="round"/>
+</g>
+</svg>

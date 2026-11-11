@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Books Borrowed from the School Library in One Week</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="200" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#134e4a">Books Borrowed from the School Library</text>
+<text x="200" y="44" text-anchor="middle" font-size="15" font-weight="bold" fill="#134e4a">in One Week</text>
+<!-- gridlines and y-axis labels (0,10,20,30,40) -->
+<line x1="50" y1="252" x2="380" y2="252" stroke="#134e4a" stroke-width="2"/>
+<line x1="50" y1="210" x2="380" y2="210" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="50" y1="168" x2="380" y2="168" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="50" y1="126" x2="380" y2="126" stroke="#e2e8f0" stroke-width="1"/>
+<line x1="50" y1="84" x2="380" y2="84" stroke="#e2e8f0" stroke-width="1"/>
+<text x="44" y="256" text-anchor="end" font-size="11" fill="#475569">0</text>
+<text x="44" y="214" text-anchor="end" font-size="11" fill="#475569">10</text>
+<text x="44" y="172" text-anchor="end" font-size="11" fill="#475569">20</text>
+<text x="44" y="130" text-anchor="end" font-size="11" fill="#475569">30</text>
+<text x="44" y="88" text-anchor="end" font-size="11" fill="#475569">40</text>
+<!-- bars: Mon 25, Tue 30, Wed 20, Thu 35, Fri 40 (scale 4.2 px per book) -->
+<rect x="66" y="147" width="44" height="105" fill="#0f766e"/>
+<rect x="130" y="126" width="44" height="126" fill="#0f766e"/>
+<rect x="194" y="168" width="44" height="84" fill="#0f766e"/>
+<rect x="258" y="105" width="44" height="147" fill="#0f766e"/>
+<rect x="322" y="84" width="44" height="168" fill="#0f766e"/>
+<!-- value labels -->
+<text x="88" y="136" text-anchor="middle" font-size="13" font-weight="bold" fill="#134e4a">25</text>
+<text x="152" y="115" text-anchor="middle" font-size="13" font-weight="bold" fill="#134e4a">30</text>
+<text x="216" y="157" text-anchor="middle" font-size="13" font-weight="bold" fill="#134e4a">20</text>
+<text x="280" y="94" text-anchor="middle" font-size="13" font-weight="bold" fill="#134e4a">35</text>
+<text x="344" y="73" text-anchor="middle" font-size="13" font-weight="bold" fill="#134e4a">40</text>
+<!-- day labels -->
+<text x="88" y="272" text-anchor="middle" font-size="12" fill="#134e4a">Mon</text>
+<text x="152" y="272" text-anchor="middle" font-size="12" fill="#134e4a">Tue</text>
+<text x="216" y="272" text-anchor="middle" font-size="12" fill="#134e4a">Wed</text>
+<text x="280" y="272" text-anchor="middle" font-size="12" fill="#134e4a">Thu</text>
+<text x="344" y="272" text-anchor="middle" font-size="12" fill="#134e4a">Fri</text>
+</g>
+</svg>

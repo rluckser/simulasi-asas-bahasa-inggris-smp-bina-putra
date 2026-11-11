@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>A student holding a trophy, friends cheering</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="400" height="190" fill="#bae6fd"/>
+<circle cx="350" cy="38" r="22" fill="#facc15" stroke="#eab308" stroke-width="2"/>
+<rect x="0" y="190" width="400" height="110" fill="#86efac"/>
+<!-- confetti -->
+<circle cx="60" cy="60" r="5" fill="#f472b6"/>
+<circle cx="120" cy="40" r="5" fill="#facc15"/>
+<circle cx="300" cy="70" r="5" fill="#c084fc"/>
+<circle cx="40" cy="120" r="5" fill="#facc15"/>
+<circle cx="360" cy="120" r="5" fill="#f472b6"/>
+<!-- friend on the left cheering -->
+<circle cx="95" cy="140" r="16" fill="#fcd34d" stroke="#b45309" stroke-width="1.5"/>
+<path d="M79 152 L62 128 M111 152 L128 128" stroke="#1e40af" stroke-width="5" stroke-linecap="round"/>
+<path d="M95 156 L95 210 L80 262 M95 210 L110 262" stroke="#1e40af" stroke-width="6" stroke-linecap="round" fill="none"/>
+<!-- friend on the right cheering -->
+<circle cx="305" cy="140" r="16" fill="#fcd34d" stroke="#b45309" stroke-width="1.5"/>
+<path d="M289 152 L272 128 M321 152 L338 128" stroke="#7c2d12" stroke-width="5" stroke-linecap="round"/>
+<path d="M305 156 L305 210 L290 262 M305 210 L320 262" stroke="#7c2d12" stroke-width="6" stroke-linecap="round" fill="none"/>
+<!-- central student holding the trophy up -->
+<circle cx="200" cy="130" r="18" fill="#fcd34d" stroke="#b45309" stroke-width="1.5"/>
+<path d="M200 148 L200 214 L184 266 M200 214 L216 266" stroke="#0f766e" stroke-width="7" stroke-linecap="round" fill="none"/>
+<path d="M200 160 L168 148 M200 160 L232 148" stroke="#0f766e" stroke-width="6" stroke-linecap="round"/>
+<!-- trophy -->
+<path d="M182 96 L182 108 Q182 124 200 124 Q218 124 218 108 L218 96 Z" fill="#facc15" stroke="#b45309" stroke-width="2"/>
+<path d="M182 100 Q168 100 170 112 Q172 120 182 118" fill="none" stroke="#b45309" stroke-width="2.5"/>
+<path d="M218 100 Q232 100 230 112 Q228 120 218 118" fill="none" stroke="#b45309" stroke-width="2.5"/>
+<rect x="194" y="124" width="12" height="10" fill="#facc15" stroke="#b45309" stroke-width="1.5"/>
+<rect x="186" y="134" width="28" height="8" fill="#eab308" stroke="#b45309" stroke-width="1.5"/>
+</g>
+</svg>
