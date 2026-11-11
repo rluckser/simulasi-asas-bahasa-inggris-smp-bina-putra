@@ -1,1360 +1,1360 @@
 [
- {
-  "gambar": "assets/img/eng9-01-a.svg",
-  "id": "CONG-01-A",
-  "indikator": 1,
-  "jawaban": "Congratulations on winning the speech contest!",
-  "level": "Mudah",
-  "materi": "Congratulating",
-  "pembahasan": "Gambar menunjukkan seorang siswa memegang piala dan teman-temannya bersorak karena ia memenangkan lomba pidato bahasa Inggris, jadi ungkapan selamat yang tepat adalah \"Congratulations on winning the speech contest!\". \"Good luck for the next contest\" adalah harapan untuk masa depan, \"I'm sorry to hear that\" adalah ungkapan simpati, dan \"Don't give up\" adalah penyemangat, bukan ucapan selamat.",
-  "pilihan": [
-   "Good luck for the next contest.",
-   "I'm sorry to hear that.",
-   "Congratulations on winning the speech contest!",
-   "Don't give up!"
-  ],
-  "soal": "Look at the picture. A student is holding a trophy. His friends are cheering for him because he won the English speech contest.\n\nWhat is the best congratulation for him?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "gambar": "assets/img/eng9-01-b.svg",
-  "id": "CONG-01-B",
-  "indikator": 1,
-  "jawaban": "Congratulations! You are the best student!",
-  "level": "Mudah",
-  "materi": "Congratulating",
-  "pembahasan": "Gambar menunjukkan seorang siswa menerima sertifikat di atas panggung karena menjadi siswa terbaik di sekolahnya, jadi ungkapan selamat yang tepat adalah \"Congratulations! You are the best student!\". \"Have a nice day!\" adalah ucapan harapan hari yang menyenangkan, \"Goodbye and see you soon\" adalah ucapan perpisahan, dan \"I hope you get well soon\" adalah harapan cepat sembuh.",
-  "pilihan": [
-   "Congratulations! You are the best student!",
-   "Have a nice day!",
-   "Goodbye and see you soon.",
-   "I hope you get well soon."
-  ],
-  "soal": "Look at the picture. A student is receiving a certificate on the stage because she is the best student in her school.\n\nWhat is the best congratulation for her?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "CONG-02-A",
-  "indikator": 2,
-  "jawaban": "Thank you very much, Sir. I could not do it without my teachers' support.",
-  "level": "HOTS",
-  "materi": "Congratulating",
-  "pembahasan": "Kepala sekolah memberi selamat secara formal atas kemenangan olimpiade sains, jadi respons yang paling tepat adalah berterima kasih secara sopan dan rendah hati. \"That's too bad\" dan \"I don't think so\" adalah penolakan, sedangkan \"Please leave me alone\" sangat tidak sopan dan tidak cocok dengan situasi formal ini.",
-  "pilihan": [
-   "That's too bad.",
-   "Thank you very much, Sir. I could not do it without my teachers' support.",
-   "I don't think so.",
-   "Please leave me alone."
-  ],
-  "soal": "Read the dialog.\nPrincipal: \"On behalf of the school, I would like to congratulate you on winning the national science olympiad. We are very proud of you.\"\nStudent: \"...\"\n\nWhat is the most appropriate response?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "CONG-02-B",
-  "indikator": 2,
-  "jawaban": "Thank you, Ma'am. I am very happy and proud.",
-  "level": "HOTS",
-  "materi": "Congratulating",
-  "pembahasan": "Bu Lina memberi selamat kepada Nadia di depan kelas atas kemenangan lomba menulis cerita, jadi respons yang paling tepat adalah berterima kasih dan menunjukkan rasa senang. \"No, I don't like writing\", \"I am sorry, Ma'am\", dan \"I don't want the prize\" semuanya menolak atau menyesali ucapan selamat yang justru membanggakan.",
-  "pilihan": [
-   "No, I don't like writing.",
-   "I am sorry, Ma'am.",
-   "I don't want the prize.",
-   "Thank you, Ma'am. I am very happy and proud."
-  ],
-  "soal": "Read the dialog.\nMrs. Lina: \"Congratulations, Nadia! Your story won first prize in the district writing contest.\"\nNadia: \"...\"\n\nWhat is the most appropriate response?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "gambar": "assets/img/eng9-03-a.svg",
-  "id": "COMP-03-A",
-  "indikator": 3,
-  "jawaban": "What a beautiful dress!",
-  "level": "Mudah",
-  "materi": "Complimenting",
-  "pembahasan": "Gambar menunjukkan Sinta memakai gaun baru yang indah untuk pesta sekolah. Pola pujian yang tepat adalah \"What a beautiful dress!\" (What + a/an + kata sifat + kata benda). Pilihan lainnya justru menghina gaun itu: \"ugly\" (jelek), \"boring\" (membosankan), dan \"old\" (tua) bukan pujian.",
-  "pilihan": [
-   "What an ugly dress!",
-   "How boring the dress is!",
-   "What a beautiful dress!",
-   "The dress is very old."
-  ],
-  "soal": "Look at the picture. Sinta is wearing a beautiful new dress to the school party.\n\nWhat is the most appropriate compliment?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "gambar": "assets/img/eng9-03-b.svg",
-  "id": "COMP-03-B",
-  "indikator": 3,
-  "jawaban": "What a beautiful garden you have!",
-  "level": "Mudah",
-  "materi": "Complimenting",
-  "pembahasan": "Gambar menunjukkan taman di depan rumah Rina yang indah dengan bunga-bunga berwarna-warni. Pujian yang tepat adalah \"What a beautiful garden you have!\". \"What a dirty garden!\" dan \"How boring your garden is!\" adalah hinaan, sedangkan \"Your garden is very small\" bukan pujian.",
-  "pilihan": [
-   "What a dirty garden!",
-   "How boring your garden is!",
-   "What a beautiful garden you have!",
-   "Your garden is very small."
-  ],
-  "soal": "Look at the picture. The garden in front of Rina's house is very beautiful, with colourful flowers.\n\nWhat is the most appropriate compliment?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "COMP-04-A",
-  "indikator": 4,
-  "jawaban": "Andi feels happy and accepts the compliment.",
-  "level": "HOTS",
-  "materi": "Complimenting",
-  "pembahasan": "Rina memuji kemeja batik Andi (\"You look great in that batik shirt\"), dan Andi menjawab \"Thank you\" lalu bercerita tentang kemeja itu. Kata \"Thank you\" menunjukkan ia senang dan menerima pujian tersebut. Ia tidak marah, tidak menolak pujian, dan tidak mempersoalkan harga kemeja itu.",
-  "pilihan": [
-   "Andi does not like the shirt.",
-   "Andi is angry with Rina.",
-   "Andi thinks the shirt is too expensive.",
-   "Andi feels happy and accepts the compliment."
-  ],
-  "soal": "Read the dialog.\nRina: \"You look great in that batik shirt, Andi.\"\nAndi: \"Thank you. I bought it for my sister's wedding.\"\n\nWhat can we infer from Andi's response?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "COMP-04-B",
-  "indikator": 4,
-  "jawaban": "Maya accepts the compliment politely.",
-  "level": "HOTS",
-  "materi": "Complimenting",
-  "pembahasan": "Dina memuji nasi goreng buatan Maya (\"How delicious your fried rice is!\"), dan Maya menjawab \"Thank you\" lalu bercerita bahwa resepnya diajarkan ibunya. Jawaban itu menunjukkan ia menerima pujian dengan sopan. Ia tidak sedih, tidak membenci nasi goreng, dan tidak mengatakan ia tidak bisa memasak.",
-  "pilihan": [
-   "Maya is unhappy with the compliment.",
-   "Maya accepts the compliment politely.",
-   "Maya does not like fried rice.",
-   "Maya cannot cook fried rice."
-  ],
-  "soal": "Read the dialog.\nDina: \"How delicious your fried rice is, Maya!\"\nMaya: \"Thank you. My mother taught me the recipe.\"\n\nWhat does Maya's response show?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "HOPE-05-A",
-  "indikator": 5,
-  "jawaban": "I hope",
-  "level": "Mudah",
-  "materi": "Hope and Wish",
-  "pembahasan": "\"I hope you get well soon\" adalah ungkapan harapan (hope) yang tepat untuk seseorang yang sedang sakit. \"I am\", \"I was\", dan \"I have\" tidak membentuk ungkapan harapan dan tidak cocok dengan kalimat tersebut.",
-  "pilihan": [
-   "I am",
-   "I hope",
-   "I was",
-   "I have"
-  ],
-  "soal": "Complete the sentence.\nDina is sick. Sinta says to her, \"___ you get well soon, Dina!\"",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "HOPE-05-B",
-  "indikator": 5,
-  "jawaban": "wish",
-  "level": "Mudah",
-  "materi": "Hope and Wish",
-  "pembahasan": "Ungkapan harapan yang tepat adalah \"I wish you success in your new school\". \"I am\", \"I wanted\", dan \"I did\" tidak membentuk ungkapan hope/wish dan tidak cocok dengan kalimat tersebut.",
-  "pilihan": [
-   "am",
-   "wanted",
-   "did",
-   "wish"
-  ],
-  "soal": "Complete the sentence with the correct expression of hope or wish.\n\"I ___ you success in your new school.\"",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "HOPE-06-A",
-  "indikator": 6,
-  "jawaban": "I wish I could fly like a bird.",
-  "level": "Sedang",
-  "materi": "Hope and Wish",
-  "pembahasan": "\"Wish\" dipakai untuk sesuatu yang tidak benar atau tidak mungkin terjadi sekarang (khayalan), dan diikuti kata kerja bentuk lampau (could). Ketiga pilihan lain memakai \"hope\" untuk sesuatu yang masih mungkin terjadi di masa depan: tidak hujan, menikmati pesta, dan datang tepat waktu.",
-  "pilihan": [
-   "I wish I could fly like a bird.",
-   "I hope it does not rain tomorrow.",
-   "I hope you enjoy the party.",
-   "I hope she comes on time."
-  ],
-  "soal": "Which sentence shows a wish about something that is NOT true now?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "HOPE-06-B",
-  "indikator": 6,
-  "jawaban": "I hope we win the football match tomorrow.",
-  "level": "Sedang",
-  "materi": "Hope and Wish",
-  "pembahasan": "\"Hope\" dipakai untuk sesuatu yang masih mungkin terjadi di masa depan, seperti memenangkan pertandingan besok. Ketiga pilihan lain memakai \"wish\" untuk sesuatu yang berlawanan dengan kenyataan sekarang: tidak kaya, tidak punya sepeda, dan tidak bisa berbahasa Prancis.",
-  "pilihan": [
-   "I wish I were rich.",
-   "I wish I had a bicycle.",
-   "I hope we win the football match tomorrow.",
-   "I wish I could speak French."
-  ],
-  "soal": "Which sentence expresses a hope for the future?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "AGR-07-A",
-  "indikator": 7,
-  "jawaban": "I agree with you. English is very useful.",
-  "level": "Mudah",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "Ungkapan persetujuan adalah \"I agree with you\". \"I don't think so\" dan \"I disagree with you\" adalah ungkapan ketidaksetujuan, sedangkan \"That's a bad idea\" menolak pendapat Andi.",
-  "pilihan": [
-   "I don't think so.",
-   "I disagree with you.",
-   "That's a bad idea.",
-   "I agree with you. English is very useful."
-  ],
-  "soal": "Read the dialog.\nAndi: \"I think English is the most useful subject at school.\"\nBudi: \"...\"\n\nWhich sentence shows agreement?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "AGR-07-B",
-  "indikator": 7,
-  "jawaban": "I don't agree. Trees need a lot of water.",
-  "level": "Mudah",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "Ungkapan ketidaksetujuan adalah \"I don't agree\". \"I totally agree with you\", \"That is a great idea\", dan \"You are right\" semuanya menunjukkan persetujuan terhadap usulan Sinta.",
-  "pilihan": [
-   "I don't agree. Trees need a lot of water.",
-   "I totally agree with you.",
-   "That is a great idea.",
-   "You are right."
-  ],
-  "soal": "Read the dialog.\nSinta: \"We should plant more trees in our school.\"\nRina: \"...\"\n\nWhich sentence shows disagreement?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "AGR-08-A",
-  "indikator": 8,
-  "jawaban": "Partial agreement",
-  "level": "Sedang",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "\"I partly agree with you, but ...\" berarti Maya setuju sebagian dan tidak setuju sebagian, jadi ini partial agreement. Strong agreement akan memakai \"I totally agree\", strong disagreement akan memakai \"I totally disagree\", dan ia jelas menyatakan pendapat, bukan tidak berpendapat.",
-  "pilihan": [
-   "Strong agreement",
-   "Strong disagreement",
-   "Partial agreement",
-   "No opinion"
-  ],
-  "soal": "Read the discussion.\nDina: \"I think online classes are better than face-to-face classes.\"\nMaya: \"I partly agree with you, but students also need to meet their friends at school.\"\n\nWhat kind of expression does Maya use?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "AGR-08-B",
-  "indikator": 8,
-  "jawaban": "Strong disagreement",
-  "level": "Sedang",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "\"I totally disagree\" menunjukkan penolakan yang kuat dan tegas, jadi ini strong disagreement. Partial agreement atau partial disagreement akan memakai kata \"partly\", sedangkan strong agreement adalah persetujuan yang kuat, bukan penolakan.",
-  "pilihan": [
-   "Partial agreement",
-   "Strong disagreement",
-   "Partial disagreement",
-   "Strong agreement"
-  ],
-  "soal": "Read the discussion.\nAndi: \"We should ban mobile phones at school.\"\nBudi: \"I totally disagree. Mobile phones help us learn.\"\n\nWhat kind of expression does Budi use?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "PROC-09-A",
-  "indikator": 9,
-  "jawaban": "To explain how to make something",
-  "level": "Mudah",
-  "materi": "Procedure Text",
-  "pembahasan": "Teks prosedur berfungsi untuk menjelaskan cara membuat atau melakukan sesuatu (social function). Teks ini bukan cerita lucu (to tell a funny story), bukan deskripsi (to describe), dan bukan menceritakan kembali kejadian masa lalu (to retell past events).",
-  "pilihan": [
-   "To explain how to make something",
-   "To tell a funny story",
-   "To describe a paper boat",
-   "To retell past events"
-  ],
-  "soal": "Read the text.\nHow to Make a Paper Boat\nMaterials: a piece of paper.\nSteps:\n1. Fold the paper in half.\n2. Fold the top corners to the center.\n3. Fold the bottom edge up.\n4. Open the boat.\n\nWhat is the purpose (social function) of the text?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "PROC-09-B",
-  "indikator": 9,
-  "jawaban": "To tell the steps of making lemon tea",
-  "level": "Mudah",
-  "materi": "Procedure Text",
-  "pembahasan": "Teks ini memuat bahan dan langkah-langkah membuat teh lemon, jadi tujuannya adalah menyampaikan langkah-langkah pembuatan (social function teks prosedur). Teks ini bukan cerita untuk menghibur, bukan deskripsi segelas teh, dan bukan menceritakan kembali pengalaman masa lalu.",
-  "pilihan": [
-   "To entertain the reader with a story",
-   "To describe a cup of tea",
-   "To retell a past experience",
-   "To tell the steps of making lemon tea"
-  ],
-  "soal": "Read the text.\nHow to Make Lemon Tea\nIngredients: a tea bag, hot water, a slice of lemon, and sugar.\nSteps:\n1. Put the tea bag in a cup.\n2. Pour hot water into the cup.\n3. Add sugar and a slice of lemon.\n4. Stir well and serve it.\n\nWhat is the purpose (social function) of the text?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "PROC-10-A",
-  "indikator": 10,
-  "jawaban": "3 eggs",
-  "level": "Mudah",
-  "materi": "Procedure Text",
-  "pembahasan": "Pada bagian Ingredients tertulis \"3 eggs\". \"2 cups of rice\" adalah takaran beras, \"2 cloves of garlic\" adalah takaran bawang putih, dan tidak ada bahan sebanyak 4 telur.",
-  "pilihan": [
-   "1 egg",
-   "3 eggs",
-   "2 eggs",
-   "4 eggs"
-  ],
-  "soal": "Read the text.\nHow to Make Fried Rice\nIngredients: 2 cups of rice, 3 eggs, 2 cloves of garlic, 1 tablespoon of soy sauce, and 1 teaspoon of salt.\nSteps:\n1. Heat some oil in a pan.\n2. Add the garlic and stir it.\n3. Add the eggs and the rice.\n4. Add the soy sauce and salt. Stir well.\n5. Serve the fried rice on a plate.\n\nHow many eggs do we need to make fried rice?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "PROC-10-B",
-  "indikator": 10,
-  "jawaban": "3 bananas",
-  "level": "Mudah",
-  "materi": "Procedure Text",
-  "pembahasan": "Pada bagian Ingredients tertulis \"3 bananas\". \"2 apples\" adalah takaran apel, \"1 cup of grapes\" adalah takaran anggur, dan \"2 tablespoons of honey\" adalah takaran madu.",
-  "pilihan": [
-   "1 banana",
-   "2 bananas",
-   "3 bananas",
-   "4 bananas"
-  ],
-  "soal": "Read the text.\nHow to Make Fruit Salad\nIngredients: 2 apples, 3 bananas, 1 cup of grapes, 2 tablespoons of honey, and 1 cup of yogurt.\nSteps:\n1. Wash the fruits.\n2. Cut the apples and bananas into small pieces.\n3. Put all the fruits in a bowl.\n4. Add the honey and yogurt. Mix well.\n5. Serve the fruit salad cold.\n\nHow many bananas do we need to make fruit salad?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "PROC-11-A",
-  "indikator": 11,
-  "jawaban": "Fold",
-  "level": "Sedang",
-  "materi": "Procedure Text",
-  "pembahasan": "Langkah prosedur memakai kata kerja imperatif (bentuk dasar kata kerja / base form) untuk memberi perintah, jadi yang tepat adalah \"Fold\". \"Folding\" adalah bentuk -ing, \"Folded\" bentuk lampau, dan \"Folds\" bentuk orang ketiga tunggal.",
-  "pilihan": [
-   "Folding",
-   "Folded",
-   "Folds",
-   "Fold"
-  ],
-  "soal": "Complete the step.\n\"___ the paper in half before you fold the corners.\"",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "PROC-11-B",
-  "indikator": 11,
-  "jawaban": "Crack",
-  "level": "Sedang",
-  "materi": "Procedure Text",
-  "pembahasan": "Langkah prosedur memakai kata kerja imperatif (bentuk dasar kata kerja) untuk memberi perintah, jadi yang tepat adalah \"Crack\". \"Cracking\" adalah bentuk -ing, \"Cracked\" bentuk lampau, dan \"Cracks\" bentuk orang ketiga tunggal.",
-  "pilihan": [
-   "Crack",
-   "Cracking",
-   "Cracked",
-   "Cracks"
-  ],
-  "soal": "Complete the step.\n\"___ the eggs into a bowl and stir them well.\"",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "PROC-12-A",
-  "indikator": 12,
-  "jawaban": "First",
-  "level": "Sedang",
-  "materi": "Procedure Text",
-  "pembahasan": "Kata penghubung \"First\" dipakai untuk langkah pertama, dan kalimat berikutnya memakai \"Then\" (langkah kedua). \"Finally\" dipakai untuk langkah terakhir, \"Next\" untuk langkah berikutnya setelah langkah pertama, dan \"After that\" tidak cocok untuk langkah yang paling awal.",
-  "pilihan": [
-   "Finally",
-   "Next",
-   "First",
-   "After that"
-  ],
-  "soal": "Complete the step.\n\"___, put the tea bag into the cup. Then, pour hot water into it.\"",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "PROC-12-B",
-  "indikator": 12,
-  "jawaban": "Then",
-  "level": "Sedang",
-  "materi": "Procedure Text",
-  "pembahasan": "Setelah langkah pertama (\"Mix the flour and sugar\"), langkah berikutnya dihubungkan dengan \"Then\". \"First\" dipakai untuk langkah pertama, bukan langkah kedua, \"Before\" tidak cocok di awal kalimat ini, dan \"Finally\" dipakai untuk langkah terakhir.",
-  "pilihan": [
-   "First",
-   "Then",
-   "Before",
-   "Finally"
-  ],
-  "soal": "Complete the step.\n\"Mix the flour and sugar. ___, add the eggs one by one.\"",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "PROC-13-A",
-  "indikator": 13,
-  "jawaban": "3-4-1-5-2",
-  "level": "Sedang",
-  "materi": "Procedure Text",
-  "pembahasan": "Urutan yang logis: rebus air dulu (3), masukkan kantong teh ke cangkir (4), tuang air panas (1), tunggu dua menit lalu keluarkan kantong teh (5), dan tambahkan gula lalu aduk (2). Gula hanya bisa ditambahkan setelah teh jadi, dan air harus direbus sebelum dituang.",
-  "pilihan": [
-   "3-4-1-5-2",
-   "1-3-4-5-2",
-   "3-1-4-2-5",
-   "4-3-1-2-5"
-  ],
-  "soal": "Read the steps of making a cup of tea. They are in the wrong order.\n1. Pour hot water into the cup.\n2. Add sugar and stir it.\n3. Boil some water in a kettle.\n4. Put a tea bag into a cup.\n5. Wait for two minutes and take out the tea bag.\n\nWhat is the correct order of the steps?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "PROC-13-B",
-  "indikator": 13,
-  "jawaban": "3-1-4-2-5",
-  "level": "Sedang",
-  "materi": "Procedure Text",
-  "pembahasan": "Urutan yang logis: rebus air dulu (3), masukkan mi ke air mendidih (1), tiriskan airnya (4), tambahkan bumbu dan aduk (2), lalu sajikan mi dalam mangkuk (5). Mi tidak bisa dimasak sebelum air mendidih, dan bumbu ditambahkan setelah air ditiriskan.",
-  "pilihan": [
-   "1-3-2-4-5",
-   "3-2-1-5-4",
-   "1-2-3-4-5",
-   "3-1-4-2-5"
-  ],
-  "soal": "Read the steps of making instant noodles. They are in the wrong order.\n1. Put the noodles into the boiling water.\n2. Add the seasoning and stir well.\n3. Boil 400 ml of water in a pan.\n4. Drain the water.\n5. Serve the noodles in a bowl.\n\nWhat is the correct order of the steps?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "REP-14-A",
-  "indikator": 14,
-  "jawaban": "Proboscis monkeys are unique monkeys that live in the mangrove forests of Kalimantan.",
-  "level": "Mudah",
-  "materi": "Report Text",
-  "pembahasan": "Gagasan umum teks adalah bahwa bekantan adalah monyet unik yang hidup di hutan bakau Kalimantan. Pilihan lain salah: teks tidak mengatakan bekantan adalah monyet terbesar di dunia, tidak mengatakan mereka hanya makan ikan, dan tidak mengatakan mereka hidup sendiri di gurun.",
-  "pilihan": [
-   "Proboscis monkeys are the largest monkeys in the world.",
-   "Proboscis monkeys are unique monkeys that live in the mangrove forests of Kalimantan.",
-   "Proboscis monkeys eat only fish in the river.",
-   "Proboscis monkeys live alone in the desert."
-  ],
-  "soal": "Read the text.\nProboscis monkeys, or bekantan, are monkeys that live in the mangrove forests of Kalimantan. They are one of the unique animals of Indonesia. Proboscis monkeys live in groups near the river. They eat leaves, fruits, and seeds.\n\nWhat is the general idea of the text?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "REP-14-B",
-  "indikator": 14,
-  "jawaban": "Proboscis monkeys live in groups in the mangrove forests of Kalimantan.",
-  "level": "Mudah",
-  "materi": "Report Text",
-  "pembahasan": "Teks secara umum menjelaskan bahwa bekantan hidup berkelompok di hutan bakau Kalimantan. Pilihan lain salah: teks mengatakan bekantan makan daun, buah, dan biji-bijian, bukan ikan; mereka hidup di Kalimantan, bukan di Pulau Jawa; dan mereka hidup berkelompok, bukan sendirian.",
-  "pilihan": [
-   "Proboscis monkeys eat only fish in the river.",
-   "Proboscis monkeys live in groups in the mangrove forests of Kalimantan.",
-   "Proboscis monkeys live alone in the forests of Java.",
-   "Proboscis monkeys are large cats from Sumatra."
-  ],
-  "soal": "Read the text.\nThe proboscis monkey, or bekantan, is a monkey that lives in Kalimantan. It lives in the mangrove forests near the river. It lives in groups with other proboscis monkeys. It eats leaves, fruits, and seeds.\n\nWhat is the general idea of the text?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "REP-15-A",
-  "indikator": 15,
-  "jawaban": "special",
-  "level": "Mudah",
-  "materi": "Report Text",
-  "pembahasan": "\"Distinctive\" berarti khas atau istimewa (special), yaitu ciri yang membuat sesuatu berbeda dari yang lain. \"Common\" (umum) dan \"ordinary\" (biasa) adalah lawan katanya, sedangkan \"similar\" (mirip) berarti hampir sama, bukan khas.",
-  "pilihan": [
-   "common",
-   "ordinary",
-   "similar",
-   "special"
-  ],
-  "soal": "Read the text.\nProboscis monkeys have a distinctive appearance. The males have a very large nose that hangs over the mouth. Their fur is reddish-brown, and their belly is round. The babies have blue faces.\n\n\"The males have a very distinctive nose.\" The word \"distinctive\" is closest in meaning to ...",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "REP-15-B",
-  "indikator": 15,
-  "jawaban": "hangs down over",
-  "level": "Mudah",
-  "materi": "Report Text",
-  "pembahasan": "\"Droops\" berarti menjuntai atau menggantung ke bawah (hangs down over). Hidung bekantan jantan besar dan menjuntai sampai ke atas mulut. \"Rises up\" (naik ke atas), \"moves fast\" (bergerak cepat), dan \"shakes\" (bergoyang) tidak sesuai dengan makna kata tersebut.",
-  "pilihan": [
-   "hangs down over",
-   "rises up",
-   "moves fast",
-   "shakes"
-  ],
-  "soal": "Read the text.\nThe male proboscis monkey is easy to recognize. It has a big nose that droops over its mouth. Its fur is reddish-brown. Its belly is big and round. The female is smaller, and her nose is smaller too.\n\n\"It has a big nose that droops over its mouth.\" The word \"droops\" is closest in meaning to ...",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "REP-16-A",
-  "indikator": 16,
-  "jawaban": "About 24 kilograms",
-  "level": "Mudah",
-  "materi": "Report Text",
-  "pembahasan": "Teks menyatakan \"An adult male proboscis monkey weighs around 24 kilograms\". Angka 12 kilogram adalah berat betina, 75 adalah tinggi jantan dalam sentimeter, dan 30 adalah jumlah maksimum monyet dalam satu kelompok.",
-  "pilihan": [
-   "About 24 kilograms",
-   "About 12 kilograms",
-   "About 30 kilograms",
-   "About 75 kilograms"
-  ],
-  "soal": "Read the text.\nAn adult male proboscis monkey weighs around 24 kilograms, while the female weighs around 12 kilograms. The male is about 75 centimetres tall. They live in groups of 10 to 30 monkeys.\n\nHow much does an adult male proboscis monkey weigh?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "REP-16-B",
-  "indikator": 16,
-  "jawaban": "About 60 centimetres",
-  "level": "Mudah",
-  "materi": "Report Text",
-  "pembahasan": "Teks menyatakan \"An adult female proboscis monkey is about 60 centimetres tall\". Angka 24 adalah berat jantan dalam kilogram, 12 adalah berat betina, dan 20 adalah jumlah minimum monyet dalam satu kelompok.",
-  "pilihan": [
-   "About 24 centimetres",
-   "About 60 centimetres",
-   "About 12 centimetres",
-   "About 20 centimetres"
-  ],
-  "soal": "Read the text.\nAn adult female proboscis monkey weighs around 12 kilograms. She is about 60 centimetres tall. The male is bigger and weighs around 24 kilograms. They live in groups of 20 to 30 monkeys.\n\nHow tall is an adult female proboscis monkey?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "REP-17-A",
-  "indikator": 17,
-  "jawaban": "Deer and wild pigs",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "Teks menyatakan komodo makan rusa (deer), babi hutan (wild pigs), dan hewan lain. Pilihan lain salah: komodo bukan pemakan daun dan rumput, ikan dan kepiting, atau buah dan biji-bijian.",
-  "pilihan": [
-   "Deer and wild pigs",
-   "Leaves and grass",
-   "Fish and crabs",
-   "Fruits and seeds"
-  ],
-  "soal": "Read the text.\nKomodo dragons are the largest lizards in the world. They live on Komodo Island and several small islands in East Nusa Tenggara. A Komodo dragon can grow up to 3 metres long. It eats deer, wild pigs, and other animals.\n\nWhat do Komodo dragons eat?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "REP-17-B",
-  "indikator": 17,
-  "jawaban": "Komodo Island and small islands in East Nusa Tenggara",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "Teks menyatakan komodo hidup di Pulau Komodo dan beberapa pulau kecil di Nusa Tenggara Timur. Pilihan lain salah: komodo tidak hidup di Kalimantan, hutan bakau di Papua, atau Pulau Sumatra.",
-  "pilihan": [
-   "The mangrove forests of Kalimantan",
-   "The rainforests of Papua",
-   "The island of Sumatra",
-   "Komodo Island and small islands in East Nusa Tenggara"
-  ],
-  "soal": "Read the text.\nThe Komodo dragon is the biggest lizard in the world. It lives on Komodo Island and several small islands in East Nusa Tenggara. It has strong legs and sharp claws. It uses its long tongue to smell its food.\n\nWhere do Komodo dragons live?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "REP-18-A",
-  "indikator": 18,
-  "jawaban": "Paragraph (2)",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "Paragraf (2) menjelaskan bagian-bagian tubuh komodo: tubuh yang kuat, ekor panjang, cakar tajam, kulit kasar, dan lidah panjang. Paragraf (1) adalah general classification (pengenalan umum), sedangkan paragraf (3) menjelaskan makanan dan cara berburu.",
-  "pilihan": [
-   "Paragraph (1)",
-   "Paragraph (2)",
-   "Paragraph (3)",
-   "Paragraph (1) and (3)"
-  ],
-  "soal": "Read the text.\n(1) The Komodo dragon comes from Indonesia. This big reptile lives on Komodo Island and a few small islands around it.\n(2) They have a strong body, a long tail, and sharp claws. Their skin is rough and grey-brown, and their long tongue helps them smell their food.\n(3) Komodo dragons eat deer, wild pigs, and other animals. They hunt and swallow their prey.\n\nWhich paragraph describes the parts of the Komodo dragon's body?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "REP-18-B",
-  "indikator": 18,
-  "jawaban": "Paragraph (3)",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "Paragraf (3) menjelaskan bagian-bagian tubuh komodo: mata kecil, rahang kuat, dan kaki tebal dan kuat. Paragraf (1) adalah general classification (pengenalan umum), sedangkan paragraf (2) menjelaskan cara berburu, bukan bagian tubuh.",
-  "pilihan": [
-   "Paragraph (1)",
-   "Paragraph (2)",
-   "Paragraph (3)",
-   "Paragraph (2) and (3)"
-  ],
-  "soal": "Read the text.\n(1) The Komodo dragon is a large lizard that lives on Komodo Island.\n(2) Komodo dragons are strong hunters. They can run fast and swim well. They kill their prey with sharp teeth.\n(3) Their eyes are small, their jaws are strong, and their legs are thick and powerful.\n\nWhich paragraph describes the parts of the Komodo dragon's body?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "REP-19-A",
-  "indikator": 19,
-  "jawaban": "Male Komodo dragons are bigger, and there are more males than females.",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "Data menunjukkan 60% jantan dan 40% betina (jadi jantan lebih banyak), dan jantan dapat tumbuh sampai 3 meter dan 90 kilogram, sementara betina hanya 2 meter dan 70 kilogram (jadi jantan lebih besar). Karena itu hanya kesimpulan ini yang sesuai dengan data.",
-  "pilihan": [
-   "There are more female Komodo dragons than males.",
-   "Male and female Komodo dragons are the same size.",
-   "Female Komodo dragons are heavier than males.",
-   "Male Komodo dragons are bigger, and there are more males than females."
-  ],
-  "soal": "Read the text.\nIn a study of Komodo dragons on Komodo Island, researchers counted 100 dragons. 60% were male and 40% were female. Male Komodo dragons can grow up to 3 metres long and weigh up to 90 kilograms, while females grow up to 2 metres long and weigh up to 70 kilograms.\n\nBased on the data, what can we conclude?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "REP-19-B",
-  "indikator": 19,
-  "jawaban": "There are more female Komodo dragons than male ones.",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "Data menunjukkan 55% betina dan 45% jantan dari 80 komodo, jadi betina lebih banyak daripada jantan. Komodo jantan tidak bertelur, dan pilihan lain bertentangan dengan angka dalam data.",
-  "pilihan": [
-   "There are more female Komodo dragons than male ones.",
-   "Male Komodo dragons lay eggs.",
-   "There are fewer females than males.",
-   "Male Komodo dragons lay more eggs than females."
-  ],
-  "soal": "Read the text.\nResearchers studied Komodo dragons on Rinca Island. They found 80 Komodo dragons. 55% were female and 45% were male. Female Komodo dragons lay about 20 eggs each year. Males are bigger and heavier than females.\n\nBased on the data, what is TRUE?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "LAB-20-A",
-  "indikator": 20,
-  "jawaban": "12 March 2028",
-  "level": "Mudah",
-  "materi": "Label",
-  "pembahasan": "Pada label tertulis \"Expiry date: 12 March 2028\". Tanggal 12 March 2027 dan 12 March 2029 tidak ada pada label, dan 12 March 2030 hanya pengecoh.",
-  "pilihan": [
-   "12 March 2027",
-   "12 March 2029",
-   "12 March 2028",
-   "12 March 2030"
-  ],
-  "soal": "Read the label.\nPARACETAMOL 500 mg\nPain reliever and fever reducer.\nDosage: Adults: 1 tablet every 6 hours. Maximum: 4 tablets a day.\nKeep away from children.\nExpiry date: 12 March 2028.\nNet content: 10 tablets.\n\nWhen does the medicine expire?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "LAB-20-B",
-  "indikator": 20,
-  "jawaban": "25 November 2027",
-  "level": "Mudah",
-  "materi": "Label",
-  "pembahasan": "Pada label tertulis \"Expiry date: 25 November 2027\". Tanggal 25 November 2026 dan 25 November 2028 tidak ada pada label, sedangkan 25 October 2027 adalah bulan yang berbeda.",
-  "pilihan": [
-   "25 November 2026",
-   "25 November 2027",
-   "25 October 2027",
-   "25 November 2028"
-  ],
-  "soal": "Read the label.\nPARACETAMOL SYRUP 120 mg / 5 ml\nFor children 6-12 years old.\nDosage: 5 ml every 8 hours. Shake well before use.\nStore in a cool, dry place.\nExpiry date: 25 November 2027.\nNet content: 60 ml.\n\nWhat is the expiry date of the medicine?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "REP-21-A",
-  "indikator": 21,
-  "jawaban": "Simple present tense",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "Teks laporan memakai simple present tense (\"is\", \"lives\", \"has\", \"eats\") karena menyatakan fakta umum yang selalu benar. Past tense dipakai untuk kejadian masa lalu, future tense untuk masa depan, dan imperative untuk perintah — ketiganya tidak dipakai dalam teks ini.",
-  "pilihan": [
-   "Simple present tense",
-   "Past tense verbs",
-   "Future tense verbs",
-   "Imperative verbs"
-  ],
-  "soal": "Read the text.\nThe bird of paradise, or cendrawasih, is a beautiful bird that lives in the forests of Papua. The male bird has colourful feathers. Its long tail feathers are red and yellow. The bird of paradise eats fruits and insects.\n\nWhich language feature is used in the text?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "REP-21-B",
-  "indikator": 21,
-  "jawaban": "Paradisaea apoda",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "\"Paradisaea apoda\" adalah istilah teknis (nama ilmiah) yang dipakai dalam teks laporan. \"Forests\", \"beautiful\", dan \"green\" adalah kata-kata umum, bukan istilah teknis.",
-  "pilihan": [
-   "forests",
-   "beautiful",
-   "green",
-   "Paradisaea apoda"
-  ],
-  "soal": "Read the text.\nThe bird of paradise belongs to the family Paradisaeidae. The male of the Greater Bird-of-Paradise (Paradisaea apoda) has long yellow plumes. It lives in the green forests of Papua and eats fruits and insects.\n\nWhich word is a technical term used in the report text?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "REP-22-A",
-  "indikator": 22,
-  "jawaban": "The bird of paradise lives in the rainforests of Papua and Maluku.",
-  "level": "HOTS",
-  "materi": "Report Text",
-  "pembahasan": "Pernyataan faktual (objektif) adalah yang dapat dibuktikan dengan fakta: cendrawasih memang hidup di hutan hujan Papua dan Maluku. \"The most beautiful bird in the world\", \"better than all other birds\", dan \"Everyone loves\" adalah opini — penilaian atau perasaan pribadi yang tidak dapat dibuktikan.",
-  "pilihan": [
-   "The bird of paradise is the most beautiful bird in the world.",
-   "The bird of paradise lives in the rainforests of Papua and Maluku.",
-   "The bird of paradise is better than all other birds.",
-   "Everyone loves the bird of paradise."
-  ],
-  "soal": "Read the text.\nThe bird of paradise lives in the rainforests of Papua and Maluku. The male has bright, colourful feathers. It eats fruits, insects, and seeds. People call it the most beautiful bird in the world.\n\nWhich statement is a fact?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "REP-22-B",
-  "indikator": 22,
-  "jawaban": "The male Greater Bird-of-Paradise can be 43 centimetres long.",
-  "level": "HOTS",
-  "materi": "Report Text",
-  "pembahasan": "Pernyataan faktual (objektif) adalah yang dapat diukur dan dibuktikan: panjang tubuh 43 sentimeter. \"The most wonderful show in nature\", \"the prettiest bird of all\", dan \"Everybody agrees that it is the best bird\" adalah opini — penilaian pribadi yang tidak dapat dibuktikan.",
-  "pilihan": [
-   "Its dance is the most wonderful show in nature.",
-   "Cendrawasih is the prettiest bird of all.",
-   "The male Greater Bird-of-Paradise can be 43 centimetres long.",
-   "Everybody agrees that it is the best bird."
-  ],
-  "soal": "Read the text.\nCendrawasih is the national bird of Papua. The male Greater Bird-of-Paradise can be 43 centimetres long. Its feathers are used in traditional dances. Many people say its dance is the most wonderful show in nature.\n\nWhich statement is a fact?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "REP-23-A",
-  "indikator": 23,
-  "jawaban": "The Lesser Bird-of-Paradise has longer wings than the King Bird-of-Paradise.",
-  "level": "HOTS",
-  "materi": "Report Text",
-  "pembahasan": "Berdasarkan tabel, sayap Lesser (22 cm) lebih panjang daripada sayap King (15 cm), jadi pernyataan ini benar. King (60 g) lebih ringan daripada Greater (300 g), bukan lebih berat; Lesser beratnya 200 g, bukan 60 g; dan sayap terpendek adalah King (15 cm), bukan Greater (25 cm).",
-  "pilihan": [
-   "The King Bird-of-Paradise is heavier than the Greater Bird-of-Paradise.",
-   "The Lesser Bird-of-Paradise weighs 60 grams.",
-   "The Greater Bird-of-Paradise has the shortest wings.",
-   "The Lesser Bird-of-Paradise has longer wings than the King Bird-of-Paradise."
-  ],
-  "soal": "Read the text and the table.\nThere are many kinds of birds of paradise in Papua. The table shows the wing length and the weight of three kinds.\n\nSpecies | Wing length | Weight\nGreater Bird-of-Paradise | 25 cm | 300 grams\nLesser Bird-of-Paradise | 22 cm | 200 grams\nKing Bird-of-Paradise | 15 cm | 60 grams\n\nBased on the table, which statement is TRUE?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "REP-23-B",
-  "indikator": 23,
-  "jawaban": "90 grams",
-  "level": "HOTS",
-  "materi": "Report Text",
-  "pembahasan": "Berdasarkan tabel, Red beratnya 180 gram dan Magnificent beratnya 90 gram. Selisihnya 180 - 90 = 90 gram. Pilihan 40 gram, 120 gram, dan 180 gram adalah hasil hitungan yang salah.",
-  "pilihan": [
-   "40 grams",
-   "120 grams",
-   "90 grams",
-   "180 grams"
-  ],
-  "soal": "Read the text and the table.\nThe table shows the length and the weight of three kinds of birds of paradise.\n\nSpecies | Body length | Weight\nRed Bird-of-Paradise | 33 cm | 180 grams\nWilson's Bird-of-Paradise | 16 cm | 60 grams\nMagnificent Bird-of-Paradise | 19 cm | 90 grams\n\nWhat is the difference in weight between the Red Bird-of-Paradise and the Magnificent Bird-of-Paradise?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "LAB-24-A",
-  "indikator": 24,
-  "jawaban": "450 ml",
-  "level": "Mudah",
-  "materi": "Label",
-  "pembahasan": "Pada label tertulis \"Net weight: 450 ml\". Angka 350 ml, 400 ml, dan 500 ml tidak ada pada label ini.",
-  "pilihan": [
-   "350 ml",
-   "400 ml",
-   "450 ml",
-   "500 ml"
-  ],
-  "soal": "Read the label.\nTEH BOTOL SEGAR\nReady-to-drink jasmine tea.\nNet weight: 450 ml.\nComposition: water, tea leaves, sugar.\nProduced by PT Minuman Segar, Jakarta.\nBest before: 10 December 2027.\n\nWhat is the net weight of the product?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "LAB-24-B",
-  "indikator": 24,
-  "jawaban": "PT Teh Nusantara",
-  "level": "Mudah",
-  "materi": "Label",
-  "pembahasan": "Pada label tertulis \"Produced by PT Teh Nusantara, Bandung\". PT Minuman Segar adalah produsen pada label teh botol varian A, sedangkan PT Air Sehat dan PT Kopi Jaya tidak ada pada label ini.",
-  "pilihan": [
-   "PT Minuman Segar",
-   "PT Teh Nusantara",
-   "PT Air Sehat",
-   "PT Kopi Jaya"
-  ],
-  "soal": "Read the label.\nTEH MELATI ASLI\nReady-to-drink jasmine tea.\nNet weight: 350 ml.\nComposition: water, tea leaves, sugar.\nProduced by PT Teh Nusantara, Bandung.\nBest before: 20 January 2028.\n\nWho produces the tea?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "LAB-25-A",
-  "indikator": 25,
-  "jawaban": "Cook the noodles in 400 ml of water for 3 minutes.",
-  "level": "Sedang",
-  "materi": "Label",
-  "pembahasan": "Label memerintahkan: rebus 400 ml air, masukkan mi, dan masak selama 3 menit. Makan bumbu yang basah atau gelap dilarang oleh peringatan label, mi harus disimpan di tempat kering (bukan basah), dan mi tentu harus dimasak dengan air.",
-  "pilihan": [
-   "Cook the noodles in 400 ml of water for 3 minutes.",
-   "Eat the seasoning even if it is wet and dark.",
-   "Store the noodles in a wet place.",
-   "Cook the noodles without water."
-  ],
-  "soal": "Read the label.\nMIE INSTAN AYAM BAWANG\nDirections: Boil 400 ml of water. Add the noodles and cook for 3 minutes. Add seasoning and stir well.\nWarning: Do not eat the seasoning if it is wet or dark.\nStorage: Keep in a cool, dry place.\n\nRudi will cook the noodles. What should he do?",
-  "tipe": "PG",
-  "varian": "A"
- },
- {
-  "id": "LAB-25-B",
-  "indikator": 25,
-  "jawaban": "Do not eat them and throw them away.",
-  "level": "Sedang",
-  "materi": "Label",
-  "pembahasan": "Mi yang sudah melewati tanggal kedaluwarsa tidak boleh dimakan karena berbahaya bagi kesehatan; label menegaskan \"Do not eat after the expiry date\". Memasak dan memakannya, memberikannya kepada teman, atau menyimpannya untuk tahun depan semuanya salah.",
-  "pilihan": [
-   "Cook and eat them anyway.",
-   "Give them to her friend.",
-   "Keep them for next year.",
-   "Do not eat them and throw them away."
-  ],
-  "soal": "Read the label.\nMIE INSTAN RASA PEDAS\nDirections: Boil 500 ml of water. Add the noodles and cook for 4 minutes. Add seasoning and stir well.\nWarning: Do not eat after the expiry date. Keep away from direct sunlight.\nStorage: Keep in a cool, dry place.\nExpiry date: 15 August 2027.\n\nThe noodles are past the expiry date. What should Sinta do?",
-  "tipe": "PG",
-  "varian": "B"
- },
- {
-  "id": "CONG-26-A",
-  "indikator": 26,
-  "jawaban": "Benar",
-  "level": "Sedang",
-  "materi": "Congratulating",
-  "pembahasan": "Pernyataan itu benar: \"Congratulations on winning the English speech contest!\" adalah ungkapan congratulating (memberi selamat) atas prestasi Dina yang memenangkan lomba pidato bahasa Inggris. Ungkapan congratulating dipakai untuk memberi selamat atas keberhasilan atau prestasi seseorang.",
-  "soal": "Read the dialogue.\nRina: \"Congratulations on winning the English speech contest, Dina!\"\nDina: \"Thank you very much, Rina.\"\n\nStatement: \"Congratulations on winning the English speech contest!\" is an expression to congratulate someone on her achievement.",
-  "tipe": "Benar-Salah",
-  "varian": "A"
- },
- {
-  "id": "CONG-26-B",
-  "indikator": 26,
-  "jawaban": "Salah",
-  "level": "Sedang",
-  "materi": "Congratulating",
-  "pembahasan": "Pernyataan itu salah: \"Good morning, Budi\" adalah ungkapan sapaan (greeting), bukan ungkapan congratulating. Ungkapan congratulating dipakai untuk memberi selamat atas keberhasilan atau prestasi, misalnya \"Congratulations on your graduation!\"",
-  "soal": "Read the dialogue.\nAndi: \"Good morning, Budi.\"\nBudi: \"Good morning. How are you?\"\n\nStatement: \"Good morning, Budi\" is an expression of congratulating.",
-  "tipe": "Benar-Salah",
-  "varian": "B"
- },
- {
-  "id": "AGR-27-A",
-  "indikator": 27,
-  "jawaban": "Benar",
-  "level": "Sedang",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "Pernyataan itu benar: \"I agree with you\" adalah ungkapan agreement (persetujuan). Dewi memakai ungkapan itu untuk menyatakan bahwa ia setuju dengan pendapat Sinta tentang manfaat membaca buku.",
-  "soal": "Read the dialogue.\nSinta: \"I think reading books every day is very useful.\"\nDewi: \"I agree with you. Reading makes us smarter.\"\n\nStatement: \"I agree with you\" shows that Dewi agrees with Sinta's opinion.",
-  "tipe": "Benar-Salah",
-  "varian": "A"
- },
- {
-  "id": "AGR-27-B",
-  "indikator": 27,
-  "jawaban": "Salah",
-  "level": "Sedang",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "Pernyataan itu salah: \"I don't think so\" adalah ungkapan disagreement (ketidaksetujuan), bukan persetujuan. Rudi memakai ungkapan itu untuk menyatakan bahwa ia tidak setuju dengan usul Tono pergi ke sekolah dengan sepeda.",
-  "soal": "Read the dialogue.\nTono: \"I think we should go to school by bicycle.\"\nRudi: \"I don't think so. It is too far from here.\"\n\nStatement: \"I don't think so\" means Rudi agrees with Tono's idea.",
-  "tipe": "Benar-Salah",
-  "varian": "B"
- },
- {
-  "id": "PROC-28-A",
-  "indikator": 28,
-  "jawaban": "Salah",
-  "level": "Sedang",
-  "materi": "Procedure Text",
-  "pembahasan": "Pernyataan itu salah: teks menyebutkan alat yang dipakai adalah blender, bukan wajan (frying pan). Bahan-bahannya adalah alpukat, susu, gula, dan es batu, lalu semuanya dimasukkan ke dalam blender dan diblender sampai halus.",
-  "soal": "Read the text.\n\"How to Make Avocado Juice\"\n\nIngredients: 1 avocado, 1 glass of milk, 2 spoons of sugar, and some ice cubes.\n\nTools: a blender and a glass.\n\nSteps:\n1. Cut the avocado into pieces.\n2. Put the avocado, milk, sugar, and ice cubes into the blender.\n3. Blend them until smooth.\n4. Pour the juice into a glass and serve it.\n\nStatement: A frying pan is needed to make avocado juice.",
-  "tipe": "Benar-Salah",
-  "varian": "A"
- },
- {
-  "id": "PROC-28-B",
-  "indikator": 28,
-  "jawaban": "Benar",
-  "level": "Sedang",
-  "materi": "Procedure Text",
-  "pembahasan": "Pernyataan itu benar: teks menyebutkan blender sebagai alat untuk membuat jus alpukat. Langkah kedua dan ketiga jelas menyatakan bahan-bahan dimasukkan ke dalam blender lalu diblender sampai halus.",
-  "soal": "Read the text.\n\"How to Make Avocado Juice\"\n\nIngredients: 1 avocado, 1 glass of milk, 2 spoons of sugar, and some ice cubes.\n\nTools: a blender and a glass.\n\nSteps:\n1. Cut the avocado into pieces.\n2. Put the avocado, milk, sugar, and ice cubes into the blender.\n3. Blend them until smooth.\n4. Pour the juice into a glass and serve it.\n\nStatement: We need a blender to make avocado juice.",
-  "tipe": "Benar-Salah",
-  "varian": "B"
- },
- {
-  "id": "REP-29-A",
-  "indikator": 29,
-  "jawaban": "Benar",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "Pernyataan itu benar: teks menyebutkan orangutan hidup di hutan Kalimantan dan Sumatera. Orangutan adalah hewan yang tinggal di pohon, makan buah-buahan, dan mempunyai lengan yang panjang.",
-  "soal": "Read the text.\n\"Orangutans are large apes. They live in the forests of Kalimantan and Sumatera. They live in trees and eat fruits, leaves, and insects. Orangutans have long arms and reddish-brown hair. They are smart animals, but now they are in danger because their forests are getting smaller.\"\n\nStatement: Orangutans live in the forests of Kalimantan and Sumatera.",
-  "tipe": "Benar-Salah",
-  "varian": "A"
- },
- {
-  "id": "REP-29-B",
-  "indikator": 29,
-  "jawaban": "Salah",
-  "level": "Sedang",
-  "materi": "Report Text",
-  "pembahasan": "Pernyataan itu salah: teks menyebutkan orangutan hidup di hutan Kalimantan dan Sumatera dan makan buah-buahan, daun, dan serangga. Orangutan tidak hidup di gurun dan tidak makan daging.",
-  "soal": "Read the text.\n\"Orangutans are large apes. They live in the forests of Kalimantan and Sumatera. They live in trees and eat fruits, leaves, and insects. Orangutans have long arms and reddish-brown hair. They are smart animals, but now they are in danger because their forests are getting smaller.\"\n\nStatement: Orangutans eat meat and live in the desert.",
-  "tipe": "Benar-Salah",
-  "varian": "B"
- },
- {
-  "id": "LAB-30-A",
-  "indikator": 30,
-  "jawaban": "Salah",
-  "level": "Sedang",
-  "materi": "Label",
-  "pembahasan": "Pernyataan itu salah: label menyebutkan berat bersih Choco Crunch Bar adalah 45 gram, bukan 100 gram. Informasi berat bersih tercantum jelas pada label produk.",
-  "soal": "Read the label.\n\"Choco Crunch Bar\"\nNet weight: 45 g\nIngredients: wheat flour, chocolate, sugar, milk powder\nBest before: 12 December 2026\nProduced by: PT Makanan Lezat, Jakarta\n\nStatement: The net weight of the Choco Crunch Bar is 100 grams.",
-  "tipe": "Benar-Salah",
-  "varian": "A"
- },
- {
-  "id": "LAB-30-B",
-  "indikator": 30,
-  "jawaban": "Benar",
-  "level": "Sedang",
-  "materi": "Label",
-  "pembahasan": "Pernyataan itu benar: label menyebutkan \"Best before: 12 December 2026\", artinya Choco Crunch Bar sebaiknya dimakan sebelum 12 Desember 2026.",
-  "soal": "Read the label.\n\"Choco Crunch Bar\"\nNet weight: 45 g\nIngredients: wheat flour, chocolate, sugar, milk powder\nBest before: 12 December 2026\nProduced by: PT Makanan Lezat, Jakarta\n\nStatement: The Choco Crunch Bar should be eaten before 12 December 2026.",
-  "tipe": "Benar-Salah",
-  "varian": "B"
- },
- {
-  "id": "MATCH-31-A",
-  "indikator": 31,
-  "jawaban": "To give a compliment",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Complimenting",
-  "pembahasan": "\"What a beautiful dress you are wearing!\" adalah ungkapan pujian (complimenting). Ungkapan ini memuji penampilan seseorang, bukan menyatakan harapan atau mengajak seseorang.",
-  "pilihan": [
-   "To express a hope",
-   "To give a compliment",
-   "A frying pan",
-   "Active at night"
-  ],
-  "soal": "Match the expression with its meaning or function.\nExpression: \"What a beautiful dress you are wearing!\"",
-  "tipe": "Menjodohkan",
-  "varian": "A"
- },
- {
-  "id": "MATCH-31-B",
-  "indikator": 31,
-  "jawaban": "To give a compliment",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Complimenting",
-  "pembahasan": "\"You look great in that jacket!\" adalah ungkapan pujian (complimenting). Ungkapan ini memuji penampilan seseorang, bukan menyatakan harapan atau menunjukkan informasi gizi.",
-  "pilihan": [
-   "To show nutrition information",
-   "To express a hope",
-   "To give a compliment",
-   "A frying pan"
-  ],
-  "soal": "Match the expression with its meaning or function.\nExpression: \"You look great in that jacket!\"",
-  "tipe": "Menjodohkan",
-  "varian": "B"
- },
- {
-  "id": "MATCH-32-A",
-  "indikator": 32,
-  "jawaban": "To express a hope",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Hope and Wish",
-  "pembahasan": "\"I hope you pass the exam\" adalah ungkapan harapan (hope). Ungkapan ini menyatakan doa atau harapan baik untuk orang lain, bukan pujian atau ajakan.",
-  "pilihan": [
-   "To give a compliment",
-   "Active at night",
-   "To express a hope",
-   "A frying pan"
-  ],
-  "soal": "Match the expression with the situation.\nExpression: \"I hope you pass the exam.\"",
-  "tipe": "Menjodohkan",
-  "varian": "A"
- },
- {
-  "id": "MATCH-32-B",
-  "indikator": 32,
-  "jawaban": "To express a hope",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Hope and Wish",
-  "pembahasan": "\"Good luck on your competition tomorrow!\" adalah ungkapan harapan (hope/wish). Ungkapan ini menyatakan harapan baik agar orang lain berhasil dalam lombanya, bukan pujian atau ajakan.",
-  "pilihan": [
-   "To show nutrition information",
-   "To give a compliment",
-   "Active at night",
-   "To express a hope"
-  ],
-  "soal": "Match the expression with the situation.\nExpression: \"Good luck on your competition tomorrow!\"",
-  "tipe": "Menjodohkan",
-  "varian": "B"
- },
- {
-  "gambar": "assets/img/eng9-33-a.svg",
-  "id": "MATCH-33-A",
-  "indikator": 33,
-  "jawaban": "A frying pan",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Procedure Text",
-  "pembahasan": "Gambar menunjukkan sebuah wajan (frying pan) kosong di atas kompor. Wajan adalah alat masak yang dipakai untuk menggoreng, misalnya dalam langkah-langkah membuat makanan.",
-  "pilihan": [
-   "To give a compliment",
-   "To express a hope",
-   "Active at night",
-   "A frying pan"
-  ],
-  "soal": "Match the picture with the correct word.\nLook at the picture. Which word is the name of the thing in the picture?",
-  "tipe": "Menjodohkan",
-  "varian": "A"
- },
- {
-  "gambar": "assets/img/eng9-33-b.svg",
-  "id": "MATCH-33-B",
-  "indikator": 33,
-  "jawaban": "A frying pan",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Procedure Text",
-  "pembahasan": "Gambar menunjukkan sebuah wajan (frying pan) berisi telur yang sedang digoreng di atas kompor. Wajan adalah alat masak yang dipakai untuk menggoreng, misalnya dalam langkah-langkah membuat makanan.",
-  "pilihan": [
-   "A frying pan",
-   "To show nutrition information",
-   "To give a compliment",
-   "To express a hope"
-  ],
-  "soal": "Match the picture with the correct word.\nLook at the picture carefully. Which word is the name of the thing in the picture?",
-  "tipe": "Menjodohkan",
-  "varian": "B"
- },
- {
-  "id": "MATCH-34-A",
-  "indikator": 34,
-  "jawaban": "Active at night",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Report Text",
-  "pembahasan": "\"Nocturnal\" berarti aktif pada malam hari. Burung hantu adalah hewan nocturnal: ia tidur pada siang hari dan aktif mencari makan pada malam hari.",
-  "pilihan": [
-   "To give a compliment",
-   "To express a hope",
-   "A frying pan",
-   "Active at night"
-  ],
-  "soal": "Match the word with its definition.\nWord: \"nocturnal\"\nExample: \"Owls are nocturnal animals. They sleep during the day and look for food at night.\"",
-  "tipe": "Menjodohkan",
-  "varian": "A"
- },
- {
-  "id": "MATCH-34-B",
-  "indikator": 34,
-  "jawaban": "Active at night",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Report Text",
-  "pembahasan": "\"Nocturnal\" berarti aktif pada malam hari. Kelelawar adalah hewan nocturnal: ia tidur pada siang hari dan terbang mencari makan pada malam hari.",
-  "pilihan": [
-   "Active at night",
-   "To show nutrition information",
-   "To express a hope",
-   "A frying pan"
-  ],
-  "soal": "Match the word with its definition.\nWord: \"nocturnal\"\nExample: \"Bats are nocturnal. They fly and look for food at night.\"",
-  "tipe": "Menjodohkan",
-  "varian": "B"
- },
- {
-  "id": "MATCH-35-A",
-  "indikator": 35,
-  "jawaban": "To show nutrition information",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Label",
-  "pembahasan": "Fungsi food label (label makanan) adalah menunjukkan informasi gizi (nutrition information), seperti kandungan kalori, lemak, gula, dan protein dalam makanan tersebut.",
-  "pilihan": [
-   "A frying pan",
-   "To give a compliment",
-   "To show nutrition information",
-   "Active at night"
-  ],
-  "soal": "Match the label type with its function.\nLabel type: \"food label\"\nA food label is on the package of a snack.",
-  "tipe": "Menjodohkan",
-  "varian": "A"
- },
- {
-  "id": "MATCH-35-B",
-  "indikator": 35,
-  "jawaban": "To show nutrition information",
-  "level": "Sedang",
-  "materi": "Menjodohkan: Label",
-  "pembahasan": "Fungsi food label (label makanan) adalah menunjukkan informasi gizi (nutrition information), seperti kandungan kalori, lemak, gula, dan protein dalam makanan tersebut.",
-  "pilihan": [
-   "To express a hope",
-   "Active at night",
-   "To give a compliment",
-   "To show nutrition information"
-  ],
-  "soal": "Match the label type with its function.\nLabel type: \"food label\"\nA food label is on the package of a bottle of milk.",
-  "tipe": "Menjodohkan",
-  "varian": "B"
- },
- {
-  "id": "SHORT-36-A",
-  "indikator": 36,
-  "jawaban": "I hope you win the speech contest tomorrow.",
-  "level": "HOTS",
-  "materi": "Hope and Wish",
-  "pembahasan": "Kalimat yang baik harus memakai ungkapan hope atau wish (misalnya \"I hope ...\" atau \"I wish you ...\") dan sesuai dengan konteksnya, yaitu teman yang akan mengikuti lomba pidato besok. Contoh jawaban: \"I hope you win the speech contest tomorrow.\" Kalimat yang hanya memberi semangat tanpa hope/wish, misalnya \"Good luck!\", belum memenuhi permintaan soal.",
-  "soal": "Your friend will join a speech contest tomorrow. Write one sentence to express your hope or wish for your friend. Answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "A"
- },
- {
-  "id": "SHORT-36-B",
-  "indikator": 36,
-  "jawaban": "I wish you the best of luck in your university entrance exam next week.",
-  "level": "HOTS",
-  "materi": "Hope and Wish",
-  "pembahasan": "Kalimat yang baik harus memakai ungkapan hope atau wish (misalnya \"I hope ...\" atau \"I wish you ...\") dan sesuai dengan konteksnya, yaitu kakak yang akan menghadapi ujian masuk universitas minggu depan. Contoh jawaban: \"I wish you the best of luck in your university entrance exam next week.\" Kalimat yang tidak menyebut ujian masuk universitas, misalnya sekadar \"I hope you are happy\", tidak sesuai konteks.",
-  "soal": "Your older brother will take a university entrance exam next week. Write one sentence to express your hope or wish for him. Answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "B"
- },
- {
-  "id": "SHORT-37-A",
-  "indikator": 37,
-  "jawaban": "I agree that students should wear uniforms at school because uniforms make all students look equal and stop students from comparing expensive clothes.",
-  "level": "HOTS",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "Alasan yang baik harus: (1) logis dan relevan dengan topik seragam sekolah, (2) jelas mendukung sikap setuju, (3) ditulis dalam satu atau dua kalimat. Contoh jawaban menyebut kesetaraan antarsiswa sebagai alasan setuju. Alasan yang tidak berhubungan dengan topik, misalnya tentang harga buku, bukan jawaban yang baik.",
-  "soal": "Read the topic.\n\"Students should wear uniforms at school.\"\n\nYou agree with this opinion. Write one logical reason to support your agreement. Answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "A"
- },
- {
-  "id": "SHORT-37-B",
-  "indikator": 37,
-  "jawaban": "I disagree that homework should be given every day because students also need time to rest, play, and help their parents after school.",
-  "level": "HOTS",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "Alasan yang baik harus: (1) logis dan relevan dengan topik PR setiap hari, (2) jelas mendukung sikap tidak setuju, (3) ditulis dalam satu atau dua kalimat. Contoh jawaban menyebut kebutuhan siswa untuk beristirahat dan beraktivitas lain setelah sekolah sebagai alasan tidak setuju. Alasan yang justru mendukung PR setiap hari, misalnya \"because homework makes students smarter\", bertentangan dengan sikap tidak setuju.",
-  "soal": "Read the topic.\n\"Homework should be given every day.\"\n\nYou disagree with this opinion. Write one logical reason to support your disagreement. Answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "B"
- },
- {
-  "id": "SHORT-38-A",
-  "indikator": 38,
-  "jawaban": "Sequence connectors are important because they show the order of the steps clearly, so the reader can follow the procedure easily and do the steps in the right order.",
-  "level": "HOTS",
-  "materi": "Procedure Text",
-  "pembahasan": "Jawaban yang baik harus menjelaskan manfaat sequence connectors (first, then, next, finally), yaitu: (1) menunjukkan urutan langkah dengan jelas, (2) membantu pembaca mengikuti prosedur tanpa bingung, (3) mencegah langkah dilakukan dalam urutan yang salah. Jawaban yang hanya menyebutkan contoh kata penghubung tanpa menjelaskan fungsinya belum lengkap.",
-  "soal": "Why are sequence connectors such as first, then, next, and finally important in a procedure text? Explain briefly. Answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "A"
- },
- {
-  "id": "SHORT-38-B",
-  "indikator": 38,
-  "jawaban": "Sequence connectors help the reader understand which step comes first and which step comes last, so the steps are easy to follow and the result of the procedure is correct.",
-  "level": "HOTS",
-  "materi": "Procedure Text",
-  "pembahasan": "Jawaban yang baik harus menjelaskan fungsi sequence connectors (first, then, next, finally), yaitu: (1) menghubungkan langkah-langkah dalam urutan yang benar, (2) membantu pembaca memahami langkah mana yang pertama dan mana yang terakhir, (3) membuat hasil prosedur menjadi benar karena langkahnya tidak tertukar. Jawaban yang hanya mendefinisikan procedure text tanpa membahas sequence connectors belum menjawab soal.",
-  "soal": "A procedure text tells the reader how to do something step by step. Explain briefly what the function of sequence connectors (first, then, next, finally) is in a procedure text. Answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "B"
- },
- {
-  "id": "SHORT-39-A",
-  "indikator": 39,
-  "jawaban": "People call the Rafflesia the \"corpse flower\" because it smells like rotting meat.",
-  "level": "HOTS",
-  "materi": "Report Text",
-  "pembahasan": "Jawaban yang baik harus berdasarkan informasi dalam teks: bunga Rafflesia berbau seperti daging busuk, sehingga orang menyebutnya \"corpse flower\" (bunga bangkai). Bau itu juga berfungsi menarik lalat untuk membantu penyerbukan. Jawaban yang menyebut ukuran bunga sebagai alasan julukan itu tidak tepat, karena teks tidak mengaitkan ukuran dengan nama tersebut.",
-  "soal": "Read the report text.\n\"Rafflesia is the largest flower in the world. It can grow up to one metre wide and weigh up to 10 kilograms. It lives in the rainforests of Sumatra and Borneo. Rafflesia has no leaves, stems, or roots. It lives as a parasite on the roots of other plants and takes food from them. The flower smells like rotting meat, so people call it the \"corpse flower\". The bad smell attracts flies, which help the flower to pollinate. Rafflesia blooms for only a few days, then it dies.\"\n\nWhy do people call the Rafflesia the \"corpse flower\"? Answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "A"
- },
- {
-  "id": "SHORT-39-B",
-  "indikator": 39,
-  "jawaban": "The Rafflesia gets its food by living as a parasite on the roots of other plants, so it does not need leaves to make its own food.",
-  "level": "HOTS",
-  "materi": "Report Text",
-  "pembahasan": "Jawaban yang baik harus menyimpulkan dari teks: (1) Rafflesia hidup sebagai parasit pada akar tumbuhan lain dan mengambil makanan dari tumbuhan itu, (2) karena itu ia tidak membutuhkan daun untuk membuat makanannya sendiri. Ini adalah informasi tersirat: teks menyatakan Rafflesia tidak punya daun, batang, atau akar, dan hidup sebagai parasit. Jawaban yang hanya mengulang \"it has no leaves\" tanpa menjelaskan cara ia mendapat makanan belum lengkap.",
-  "soal": "Read the report text.\n\"Rafflesia is the largest flower in the world. It can grow up to one metre wide and weigh up to 10 kilograms. It lives in the rainforests of Sumatra and Borneo. Rafflesia has no leaves, stems, or roots. It lives as a parasite on the roots of other plants and takes food from them. The flower smells like rotting meat, so people call it the \"corpse flower\". The bad smell attracts flies, which help the flower to pollinate. Rafflesia blooms for only a few days, then it dies.\"\n\nBased on the text, how does the Rafflesia get its food, and why does it not need leaves? Answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "B"
- },
- {
-  "id": "SHORT-40-A",
-  "indikator": 40,
-  "jawaban": "If I drink 2 boxes of Choco Milk, I get 240 kcal of energy, 10 g of protein, and 30 g of sugar, because 2 x 120 kcal = 240 kcal, 2 x 5 g = 10 g, and 2 x 15 g = 30 g.",
-  "level": "HOTS",
-  "materi": "Label",
-  "pembahasan": "Jawaban yang baik harus mengalikan setiap nilai gizi per sajian (1 kotak) dengan 2: energi 2 x 120 kkal = 240 kkal, protein 2 x 5 g = 10 g, gula 2 x 15 g = 30 g. Ketiga angka harus disebutkan dan perhitungannya dijelaskan. Jawaban yang hanya menulis salah satu nilai gizi atau yang tidak mengalikan (misalnya tetap menulis 120 kkal) belum benar.",
-  "soal": "Read the label.\n\"CHOCO MILK\nChocolate Milk Drink\nServing size: 1 box (200 ml)\nEnergy: 120 kcal\nProtein: 5 g\nSugar: 15 g\"\n\nIf you drink 2 boxes of Choco Milk, how much energy, protein, and sugar do you get? Calculate and explain your answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "A"
- },
- {
-  "id": "SHORT-40-B",
-  "indikator": 40,
-  "jawaban": "If I drink 3 boxes of Choco Milk, I get 360 kcal of energy, 15 g of protein, and 45 g of sugar, because 3 x 120 kcal = 360 kcal, 3 x 5 g = 15 g, and 3 x 15 g = 45 g.",
-  "level": "HOTS",
-  "materi": "Label",
-  "pembahasan": "Jawaban yang baik harus mengalikan setiap nilai gizi per sajian (1 kotak) dengan 3: energi 3 x 120 kkal = 360 kkal, protein 3 x 5 g = 15 g, gula 3 x 15 g = 45 g. Ketiga angka harus disebutkan dan perhitungannya dijelaskan. Jawaban yang hanya menulis salah satu nilai gizi atau yang tidak mengalikan (misalnya tetap menulis 120 kkal) belum benar.",
-  "soal": "Read the label.\n\"CHOCO MILK\nChocolate Milk Drink\nServing size: 1 box (200 ml)\nEnergy: 120 kcal\nProtein: 5 g\nSugar: 15 g\"\n\nIf you drink 3 boxes of Choco Milk, how much energy, protein, and sugar do you get? Calculate and explain your answer in English.",
-  "tipe": "Uraian Singkat",
-  "varian": "B"
- },
- {
-  "id": "ESSAY-41-A",
-  "indikator": 41,
-  "jawaban": "I agree that English should be spoken every day at school. First, speaking English every day will help students speak more fluently. Second, students will not be afraid to speak English anymore because they practise it all the time. Finally, it will help students prepare for the future, when English is needed for work and study. For these reasons, I think schools should make English a daily habit.",
-  "level": "HOTS",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "Paragraf yang baik harus memuat: (1) pendapat yang jelas (setuju atau tidak setuju) pada kalimat pertama, (2) minimal dua alasan yang logis dan relevan dengan topik, (3) kata penghubung urutan alasan seperti first, second, dan finally, (4) kalimat penutup yang menegaskan pendapat. Panjang paragraf 3-5 kalimat. Pendapat tanpa alasan, atau alasan yang tidak berhubungan dengan topik, bukan jawaban yang baik.",
-  "soal": "Do you agree or disagree with this statement?\n\"English should be spoken every day at school.\"\n\nWrite a short paragraph (3-5 sentences) giving your opinion and your reasons. Answer in English.",
-  "tipe": "Essay",
-  "varian": "A"
- },
- {
-  "id": "ESSAY-41-B",
-  "indikator": 41,
-  "jawaban": "I disagree that mobile phones should be allowed at school. First, mobile phones can disturb students in class because students may play games or open social media instead of listening to the teacher. Second, mobile phones can make students less focused on their lessons and homework. Finally, students can talk to their friends face to face without a phone, so they do not need a phone at school. For these reasons, I think students should not bring mobile phones to school.",
-  "level": "HOTS",
-  "materi": "Agreement and Disagreement",
-  "pembahasan": "Paragraf yang baik harus memuat: (1) pendapat yang jelas (setuju atau tidak setuju) pada kalimat pertama, (2) minimal dua alasan yang logis dan relevan dengan topik, (3) kata penghubung urutan alasan seperti first, second, dan finally, (4) kalimat penutup yang menegaskan pendapat. Panjang paragraf 3-5 kalimat. Pendapat tanpa alasan, atau alasan yang tidak berhubungan dengan topik, bukan jawaban yang baik.",
-  "soal": "Do you agree or disagree with this statement?\n\"Mobile phones should be allowed at school.\"\n\nWrite a short paragraph (3-5 sentences) giving your opinion and your reasons. Answer in English.",
-  "tipe": "Essay",
-  "varian": "B"
- },
- {
-  "id": "ESSAY-42-A",
-  "indikator": 42,
-  "jawaban": "How to Make Fried Eggs\n\nIngredients:\n- 2 eggs\n- 1 tablespoon of cooking oil\n- a pinch of salt\n\nSteps:\n1. First, heat the cooking oil in a frying pan.\n2. Then, crack the eggs and put them into the pan.\n3. Next, add a pinch of salt on the eggs.\n4. After that, fry the eggs for about two minutes.\n5. Finally, put the fried eggs on a plate and serve them.",
-  "level": "HOTS",
-  "materi": "Procedure Text",
-  "pembahasan": "Teks prosedur yang baik harus memuat: (1) judul (goal), (2) daftar bahan lengkap dengan takaran yang sesuai soal (2 butir telur, 1 sendok makan minyak goreng, sejumput garam), (3) langkah-langkah bernomor dalam urutan yang logis, (4) sequence connectors (first, then, next, after that, finally), (5) kata kerja imperatif di awal langkah (heat, crack, add, fry, put). Langkah yang urutannya tertukar, misalnya menggoreng sebelum memanaskan minyak, bukan jawaban yang baik.",
-  "soal": "Write a simple procedure text entitled \"How to Make Fried Eggs\". Use these ingredients: 2 eggs, 1 tablespoon of cooking oil, and a pinch of salt. Write the ingredients and the steps in order. Answer in English.",
-  "tipe": "Essay",
-  "varian": "A"
- },
- {
-  "id": "ESSAY-42-B",
-  "indikator": 42,
-  "jawaban": "How to Make a Glass of Orange Juice\n\nIngredients:\n- 3 oranges\n- 1 tablespoon of sugar\n- 100 ml of water\n\nSteps:\n1. First, peel the oranges and cut them in half.\n2. Then, squeeze the oranges to get the juice.\n3. Next, pour the orange juice into a glass.\n4. After that, add 1 tablespoon of sugar and 100 ml of water, then stir them well.\n5. Finally, serve the orange juice cold.",
-  "level": "HOTS",
-  "materi": "Procedure Text",
-  "pembahasan": "Teks prosedur yang baik harus memuat: (1) judul (goal), (2) daftar bahan lengkap dengan takaran yang sesuai soal (3 buah jeruk, 1 sendok makan gula, 100 ml air), (3) langkah-langkah bernomor dalam urutan yang logis, (4) sequence connectors (first, then, next, after that, finally), (5) kata kerja imperatif di awal langkah (peel, squeeze, pour, add, stir, serve). Langkah yang urutannya tertukar, misalnya menambahkan gula sebelum memeras jeruk, bukan jawaban yang baik.",
-  "soal": "Write a simple procedure text entitled \"How to Make a Glass of Orange Juice\". Use these ingredients: 3 oranges, 1 tablespoon of sugar, and 100 ml of water. Write the ingredients and the steps in order. Answer in English.",
-  "tipe": "Essay",
-  "varian": "B"
- },
- {
-  "id": "ESSAY-43-A",
-  "indikator": 43,
-  "jawaban": "How to Make Pancakes\n\nIngredients:\n- 200 g of flour\n- 2 eggs\n- 250 ml of milk\n- 1 tablespoon of sugar\n\nSteps:\n1. First, mix the flour, eggs, milk, and sugar in a bowl.\n2. Then, heat a pan and add a little cooking oil.\n3. Next, pour the mixture into the pan.\n4. After that, cook the pancake until it is brown on both sides.\n5. Finally, serve the pancake with honey.",
-  "level": "HOTS",
-  "materi": "Procedure Text",
-  "pembahasan": "Teks di soal mengandung tiga kesalahan: (1) tidak ada sequence connectors (first, then, next, finally), (2) dua langkah diawali kata kerja bentuk -ing (\"Mixing ...\" dan \"Pouring ...\") padahal langkah prosedur harus memakai kata kerja imperatif (\"Mix ...\", \"Pour ...\"), (3) ada langkah yang hilang, yaitu memanaskan wajan sebelum menuang adonan, padahal teks menyebut \"a hot pan\". Teks yang sudah diperbaiki harus memakai sequence connectors, kata kerja imperatif di awal setiap langkah, dan menambahkan langkah memanaskan wajan pada urutan yang benar.",
-  "soal": "Read the procedure text. It has some mistakes in its structure and language.\n\"How to Make Pancakes\n\nIngredients:\n- 200 g of flour\n- 2 eggs\n- 250 ml of milk\n- 1 tablespoon of sugar\n\nSteps:\nMixing the flour, eggs, milk, and sugar in a bowl.\nPouring the mixture into a hot pan.\nCook the pancake until it is brown on both sides.\nServe the pancake with honey.\"\n\nRewrite the text correctly. Answer in English.",
-  "tipe": "Essay",
-  "varian": "A"
- },
- {
-  "id": "ESSAY-43-B",
-  "indikator": 43,
-  "jawaban": "How to Make Lemon Tea\n\nIngredients:\n- 1 tea bag\n- 1 glass of hot water\n- 1/2 lemon\n- 1 tablespoon of sugar\n\nSteps:\n1. First, pour the hot water into a glass.\n2. Then, put the tea bag in the glass and wait for five minutes.\n3. Next, remove the tea bag.\n4. After that, squeeze the lemon into the tea and add the sugar.\n5. Finally, stir the tea and serve it.",
-  "level": "HOTS",
-  "materi": "Procedure Text",
-  "pembahasan": "Teks di soal mengandung tiga kesalahan: (1) tidak ada sequence connectors (first, then, next, finally), (2) langkah-langkah memakai kata kerja bentuk past tense (\"Boiled ...\" dan \"Added ...\") padahal langkah prosedur harus memakai kata kerja imperatif (\"Pour ...\", \"Put ...\"), (3) daftar bahan tidak mencantumkan takaran (berapa banyak teh, lemon, gula, dan air). Teks yang sudah diperbaiki harus memakai sequence connectors, kata kerja imperatif di awal setiap langkah, dan mencantumkan takaran bahan yang jelas (1 kantong teh, 1 gelas air panas, 1/2 lemon, 1 sendok makan gula).",
-  "soal": "Read the procedure text. It has some mistakes in its structure and language.\n\"How to Make Lemon Tea\n\nIngredients:\n- tea\n- lemon\n- sugar\n- hot water\n\nSteps:\nBoiled the water and poured it into a glass.\nAdded a tea bag and waited for five minutes.\nSqueeze the lemon into the tea, add sugar, and stir it.\"\n\nRewrite the text correctly. Answer in English.",
-  "tipe": "Essay",
-  "varian": "B"
- },
- {
-  "gambar": "assets/img/eng9-44-a.svg",
-  "id": "ESSAY-44-A",
-  "indikator": 44,
-  "jawaban": "Last week, students borrowed 150 books from the school library. The largest number of books was borrowed on Friday, with 40 books, and the smallest number was borrowed on Wednesday, with only 20 books. On Monday, students borrowed 25 books, on Tuesday 30 books, and on Thursday 35 books. This shows that Friday was the busiest day in the library.",
-  "level": "HOTS",
-  "materi": "Report Text",
-  "pembahasan": "Teks laporan yang baik harus: (1) berdasarkan data pada tabel/diagram (Senin 25, Selasa 30, Rabu 20, Kamis 35, Jumat 40), (2) menyebut angka-angka data dengan benar, termasuk total pinjaman seminggu (150 buku) dan hari terbanyak (Jumat, 40 buku) serta tersedikit (Rabu, 20 buku), (3) terdiri dari 2-4 kalimat yang runtut. Teks yang menyebut angka yang tidak ada di data, atau yang tidak menyebut satu pun angka, bukan jawaban yang baik.",
-  "soal": "Read the data. The bar chart shows the number of books borrowed from the school library in one week.\n\nMonday: 25 books\nTuesday: 30 books\nWednesday: 20 books\nThursday: 35 books\nFriday: 40 books\n\nWrite a short report text (2-4 sentences) based on the data. Answer in English.",
-  "tipe": "Essay",
-  "varian": "A"
- },
- {
-  "gambar": "assets/img/eng9-44-b.svg",
-  "id": "ESSAY-44-B",
-  "indikator": 44,
-  "jawaban": "From January to April, the zoo had 1,650 visitors. March had the most visitors, with 500 visitors, while February had the fewest visitors, with only 300 visitors. In January, the zoo had 400 visitors, and in April it had 450 visitors. This shows that more people visited the zoo in March than in any other month.",
-  "level": "HOTS",
-  "materi": "Report Text",
-  "pembahasan": "Teks laporan yang baik harus: (1) berdasarkan data pada tabel/diagram (Januari 400, Februari 300, Maret 500, April 450), (2) menyebut angka-angka data dengan benar, termasuk total pengunjung (1.650 orang) dan bulan terbanyak (Maret, 500 pengunjung) serta tersedikit (Februari, 300 pengunjung), (3) terdiri dari 2-4 kalimat yang runtut. Teks yang menyebut angka yang tidak ada di data, atau yang tidak menyebut satu pun angka, bukan jawaban yang baik.",
-  "soal": "Read the data. The bar chart shows the number of visitors to the zoo in four months.\n\nJanuary: 400 visitors\nFebruary: 300 visitors\nMarch: 500 visitors\nApril: 450 visitors\n\nWrite a short report text (2-4 sentences) based on the data. Answer in English.",
-  "tipe": "Essay",
-  "varian": "B"
- },
- {
-  "id": "ESSAY-45-A",
-  "indikator": 45,
-  "jawaban": "Elements of a good label: product name, net weight, composition, producer, expiry date, and storage instructions.\n\nSWEET HONEY\nPure Honey\nNet weight: 500 g\nComposition: 100% pure honey\nProduced by: PT Madu Murni Indonesia, Lampung\nBest before: December 2027\nStorage: Keep in a cool and dry place, away from direct sunlight.",
-  "level": "HOTS",
-  "materi": "Label",
-  "pembahasan": "Label yang baik harus memuat unsur-unsur wajib berikut: (1) nama produk (Sweet Honey), (2) berat bersih (500 g), (3) komposisi (100% madu murni), (4) produsen (nama dan alamat produsen), (5) tanggal kedaluwarsa (best before: December 2027), (6) petunjuk penyimpanan (simpan di tempat sejuk dan kering, jauh dari sinar matahari langsung). Label yang melewatkan salah satu unsur, misalnya tanpa tanggal kedaluwarsa atau tanpa produsen, belum lengkap.",
-  "soal": "Design a simple product label for a bottle of honey called \"Sweet Honey\". First, mention the elements that a good label must have, then write an example of the complete label. Answer in English.",
-  "tipe": "Essay",
-  "varian": "A"
- },
- {
-  "id": "ESSAY-45-B",
-  "indikator": 45,
-  "jawaban": "Elements of a good label: product name, net weight, composition, producer, expiry date, and storage instructions.\n\nCRISPY BANANA CHIPS\nBanana Chips\nNet weight: 100 g\nComposition: banana, cooking oil, sugar, salt\nProduced by: PT Camilan Nusantara, Lampung\nBest before: June 2027\nStorage: Keep in a cool and dry place and close the pack tightly after opening.",
-  "level": "HOTS",
-  "materi": "Label",
-  "pembahasan": "Label yang baik harus memuat unsur-unsur wajib berikut: (1) nama produk (Crispy Banana Chips), (2) berat bersih (100 g), (3) komposisi (pisang, minyak goreng, gula, garam), (4) produsen (nama dan alamat produsen), (5) tanggal kedaluwarsa (best before: June 2027), (6) petunjuk penyimpanan (simpan di tempat sejuk dan kering, tutup kemasan rapat setelah dibuka). Label yang melewatkan salah satu unsur, misalnya tanpa tanggal kedaluwarsa atau tanpa produsen, belum lengkap.",
-  "soal": "Design a simple product label for a bag of banana chips called \"Crispy Banana Chips\". First, mention the elements that a good label must have, then write an example of the complete label. Answer in English.",
-  "tipe": "Essay",
-  "varian": "B"
- }
+  {
+    "gambar": "assets/img/eng9-01-a.svg",
+    "id": "CONG-01-A",
+    "indikator": 1,
+    "jawaban": "Congratulations on winning the speech contest!",
+    "level": "Mudah",
+    "materi": "Congratulating",
+    "pembahasan": "Gambar menunjukkan seorang siswa memegang piala dan teman-temannya bersorak karena ia memenangkan lomba pidato bahasa Inggris, jadi ungkapan selamat yang tepat adalah \"Congratulations on winning the speech contest!\". \"Good luck for the next contest\" adalah harapan untuk masa depan, \"I'm sorry to hear that\" adalah ungkapan simpati, dan \"Don't give up\" adalah penyemangat, bukan ucapan selamat.",
+    "pilihan": [
+      "Good luck for the next contest.",
+      "I'm sorry to hear that.",
+      "Congratulations on winning the speech contest!",
+      "Don't give up!"
+    ],
+    "soal": "Look at the picture. A student is holding a trophy. His friends are cheering for him because he won the English speech contest.\n\nWhat is the best congratulation for him?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "gambar": "assets/img/eng9-01-b.svg",
+    "id": "CONG-01-B",
+    "indikator": 1,
+    "jawaban": "Congratulations! You are the best student!",
+    "level": "Mudah",
+    "materi": "Congratulating",
+    "pembahasan": "Gambar menunjukkan seorang siswa menerima sertifikat di atas panggung karena menjadi siswa terbaik di sekolahnya, jadi ungkapan selamat yang tepat adalah \"Congratulations! You are the best student!\". \"Have a nice day!\" adalah ucapan harapan hari yang menyenangkan, \"Goodbye and see you soon\" adalah ucapan perpisahan, dan \"I hope you get well soon\" adalah harapan cepat sembuh.",
+    "pilihan": [
+      "Congratulations! You are the best student!",
+      "Have a nice day!",
+      "Goodbye and see you soon.",
+      "I hope you get well soon."
+    ],
+    "soal": "Look at the picture. A student is receiving a certificate on the stage because she is the best student in her school.\n\nWhat is the best congratulation for her?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "CONG-02-A",
+    "indikator": 2,
+    "jawaban": "Thank you very much, Sir. I could not do it without my teachers' support.",
+    "level": "HOTS",
+    "materi": "Congratulating",
+    "pembahasan": "Kepala sekolah memberi selamat secara formal atas kemenangan olimpiade sains, jadi respons yang paling tepat adalah berterima kasih secara sopan dan rendah hati. \"That's too bad\" dan \"I don't think so\" adalah penolakan, sedangkan \"Please leave me alone\" sangat tidak sopan dan tidak cocok dengan situasi formal ini.",
+    "pilihan": [
+      "That's too bad.",
+      "Thank you very much, Sir. I could not do it without my teachers' support.",
+      "I don't think so.",
+      "Please leave me alone."
+    ],
+    "soal": "Read the dialog.\nPrincipal: \"On behalf of the school, I would like to congratulate you on winning the national science olympiad. We are very proud of you.\"\nStudent: \"...\"\n\nWhat is the most appropriate response?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "CONG-02-B",
+    "indikator": 2,
+    "jawaban": "Thank you, Ma'am. I am very happy and proud.",
+    "level": "HOTS",
+    "materi": "Congratulating",
+    "pembahasan": "Bu Lina memberi selamat kepada Nadia di depan kelas atas kemenangan lomba menulis cerita, jadi respons yang paling tepat adalah berterima kasih dan menunjukkan rasa senang. \"No, I don't like writing\", \"I am sorry, Ma'am\", dan \"I don't want the prize\" semuanya menolak atau menyesali ucapan selamat yang justru membanggakan.",
+    "pilihan": [
+      "No, I don't like writing.",
+      "I am sorry, Ma'am.",
+      "I don't want the prize.",
+      "Thank you, Ma'am. I am very happy and proud."
+    ],
+    "soal": "Read the dialog.\nMrs. Lina: \"Congratulations, Nadia! Your story won first prize in the district writing contest.\"\nNadia: \"...\"\n\nWhat is the most appropriate response?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "gambar": "assets/img/eng9-03-a.svg",
+    "id": "COMP-03-A",
+    "indikator": 3,
+    "jawaban": "What a beautiful dress!",
+    "level": "Mudah",
+    "materi": "Complimenting",
+    "pembahasan": "Gambar menunjukkan Sinta memakai gaun baru yang indah untuk pesta sekolah. Pola pujian yang tepat adalah \"What a beautiful dress!\" (What + a/an + kata sifat + kata benda). Pilihan lainnya justru menghina gaun itu: \"ugly\" (jelek), \"boring\" (membosankan), dan \"old\" (tua) bukan pujian.",
+    "pilihan": [
+      "What an ugly dress!",
+      "How boring the dress is!",
+      "What a beautiful dress!",
+      "The dress is very old."
+    ],
+    "soal": "Look at the picture. Sinta is wearing a beautiful new dress to the school party.\n\nWhat is the most appropriate compliment?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "gambar": "assets/img/eng9-03-b.svg",
+    "id": "COMP-03-B",
+    "indikator": 3,
+    "jawaban": "What a beautiful garden you have!",
+    "level": "Mudah",
+    "materi": "Complimenting",
+    "pembahasan": "Gambar menunjukkan taman di depan rumah Rina yang indah dengan bunga-bunga berwarna-warni. Pujian yang tepat adalah \"What a beautiful garden you have!\". \"What a dirty garden!\" dan \"How boring your garden is!\" adalah hinaan, sedangkan \"Your garden is very small\" bukan pujian.",
+    "pilihan": [
+      "What a dirty garden!",
+      "How boring your garden is!",
+      "What a beautiful garden you have!",
+      "Your garden is very small."
+    ],
+    "soal": "Look at the picture. The garden in front of Rina's house is very beautiful, with colourful flowers.\n\nWhat is the most appropriate compliment?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "COMP-04-A",
+    "indikator": 4,
+    "jawaban": "Andi feels happy and accepts the compliment.",
+    "level": "HOTS",
+    "materi": "Complimenting",
+    "pembahasan": "Rina memuji kemeja batik Andi (\"You look great in that batik shirt\"), dan Andi menjawab \"Thank you\" lalu bercerita tentang kemeja itu. Kata \"Thank you\" menunjukkan ia senang dan menerima pujian tersebut. Ia tidak marah, tidak menolak pujian, dan tidak mempersoalkan harga kemeja itu.",
+    "pilihan": [
+      "Andi does not like the shirt.",
+      "Andi is angry with Rina.",
+      "Andi thinks the shirt is too expensive.",
+      "Andi feels happy and accepts the compliment."
+    ],
+    "soal": "Read the dialog.\nRina: \"You look great in that batik shirt, Andi.\"\nAndi: \"Thank you. I bought it for my sister's wedding.\"\n\nWhat can we infer from Andi's response?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "COMP-04-B",
+    "indikator": 4,
+    "jawaban": "Maya accepts the compliment politely.",
+    "level": "HOTS",
+    "materi": "Complimenting",
+    "pembahasan": "Dina memuji nasi goreng buatan Maya (\"How delicious your fried rice is!\"), dan Maya menjawab \"Thank you\" lalu bercerita bahwa resepnya diajarkan ibunya. Jawaban itu menunjukkan ia menerima pujian dengan sopan. Ia tidak sedih, tidak membenci nasi goreng, dan tidak mengatakan ia tidak bisa memasak.",
+    "pilihan": [
+      "Maya is unhappy with the compliment.",
+      "Maya accepts the compliment politely.",
+      "Maya does not like fried rice.",
+      "Maya cannot cook fried rice."
+    ],
+    "soal": "Read the dialog.\nDina: \"How delicious your fried rice is, Maya!\"\nMaya: \"Thank you. My mother taught me the recipe.\"\n\nWhat does Maya's response show?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "HOPE-05-A",
+    "indikator": 5,
+    "jawaban": "I hope",
+    "level": "Mudah",
+    "materi": "Hope and Wish",
+    "pembahasan": "\"I hope you get well soon\" adalah ungkapan harapan (hope) yang tepat untuk seseorang yang sedang sakit. \"I am\", \"I was\", dan \"I have\" tidak membentuk ungkapan harapan dan tidak cocok dengan kalimat tersebut.",
+    "pilihan": [
+      "I am",
+      "I hope",
+      "I was",
+      "I have"
+    ],
+    "soal": "Complete the sentence.\nDina is sick. Sinta says to her, \"___ you get well soon, Dina!\"",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "HOPE-05-B",
+    "indikator": 5,
+    "jawaban": "wish",
+    "level": "Mudah",
+    "materi": "Hope and Wish",
+    "pembahasan": "Ungkapan harapan yang tepat adalah \"I wish you success in your new school\". \"I am\", \"I wanted\", dan \"I did\" tidak membentuk ungkapan hope/wish dan tidak cocok dengan kalimat tersebut.",
+    "pilihan": [
+      "am",
+      "wanted",
+      "did",
+      "wish"
+    ],
+    "soal": "Complete the sentence with the correct expression of hope or wish.\n\"I ___ you success in your new school.\"",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "HOPE-06-A",
+    "indikator": 6,
+    "jawaban": "I wish I could fly like a bird.",
+    "level": "Sedang",
+    "materi": "Hope and Wish",
+    "pembahasan": "\"Wish\" dipakai untuk sesuatu yang tidak benar atau tidak mungkin terjadi sekarang (khayalan), dan diikuti kata kerja bentuk lampau (could). Ketiga pilihan lain memakai \"hope\" untuk sesuatu yang masih mungkin terjadi di masa depan: tidak hujan, menikmati pesta, dan datang tepat waktu.",
+    "pilihan": [
+      "I wish I could fly like a bird.",
+      "I hope it does not rain tomorrow.",
+      "I hope you enjoy the party.",
+      "I hope she comes on time."
+    ],
+    "soal": "Which sentence shows a wish about something that is NOT true now?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "HOPE-06-B",
+    "indikator": 6,
+    "jawaban": "I hope we win the football match tomorrow.",
+    "level": "Sedang",
+    "materi": "Hope and Wish",
+    "pembahasan": "\"Hope\" dipakai untuk sesuatu yang masih mungkin terjadi di masa depan, seperti memenangkan pertandingan besok. Ketiga pilihan lain memakai \"wish\" untuk sesuatu yang berlawanan dengan kenyataan sekarang: tidak kaya, tidak punya sepeda, dan tidak bisa berbahasa Prancis.",
+    "pilihan": [
+      "I wish I were rich.",
+      "I wish I had a bicycle.",
+      "I hope we win the football match tomorrow.",
+      "I wish I could speak French."
+    ],
+    "soal": "Which sentence expresses a hope for the future?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "AGR-07-A",
+    "indikator": 7,
+    "jawaban": "I agree with you. English is very useful.",
+    "level": "Mudah",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "Ungkapan persetujuan adalah \"I agree with you\". \"I don't think so\" dan \"I disagree with you\" adalah ungkapan ketidaksetujuan, sedangkan \"That's a bad idea\" menolak pendapat Andi.",
+    "pilihan": [
+      "I don't think so.",
+      "I disagree with you.",
+      "That's a bad idea.",
+      "I agree with you. English is very useful."
+    ],
+    "soal": "Read the dialog.\nAndi: \"I think English is the most useful subject at school.\"\nBudi: \"...\"\n\nWhich sentence shows agreement?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "AGR-07-B",
+    "indikator": 7,
+    "jawaban": "I don't agree. Trees need a lot of water.",
+    "level": "Mudah",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "Ungkapan ketidaksetujuan adalah \"I don't agree\". \"I totally agree with you\", \"That is a great idea\", dan \"You are right\" semuanya menunjukkan persetujuan terhadap usulan Sinta.",
+    "pilihan": [
+      "I don't agree. Trees need a lot of water.",
+      "I totally agree with you.",
+      "That is a great idea.",
+      "You are right."
+    ],
+    "soal": "Read the dialog.\nSinta: \"We should plant more trees in our school.\"\nRina: \"...\"\n\nWhich sentence shows disagreement?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "AGR-08-A",
+    "indikator": 8,
+    "jawaban": "Partial agreement",
+    "level": "Sedang",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "\"I partly agree with you, but ...\" berarti Maya setuju sebagian dan tidak setuju sebagian, jadi ini partial agreement. Strong agreement akan memakai \"I totally agree\", strong disagreement akan memakai \"I totally disagree\", dan ia jelas menyatakan pendapat, bukan tidak berpendapat.",
+    "pilihan": [
+      "Strong agreement",
+      "Strong disagreement",
+      "Partial agreement",
+      "No opinion"
+    ],
+    "soal": "Read the discussion.\nDina: \"I think online classes are better than face-to-face classes.\"\nMaya: \"I partly agree with you, but students also need to meet their friends at school.\"\n\nWhat kind of expression does Maya use?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "AGR-08-B",
+    "indikator": 8,
+    "jawaban": "Strong disagreement",
+    "level": "Sedang",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "\"I totally disagree\" menunjukkan penolakan yang kuat dan tegas, jadi ini strong disagreement. Partial agreement atau partial disagreement akan memakai kata \"partly\", sedangkan strong agreement adalah persetujuan yang kuat, bukan penolakan.",
+    "pilihan": [
+      "Partial agreement",
+      "Strong disagreement",
+      "Partial disagreement",
+      "Strong agreement"
+    ],
+    "soal": "Read the discussion.\nAndi: \"We should ban mobile phones at school.\"\nBudi: \"I totally disagree. Mobile phones help us learn.\"\n\nWhat kind of expression does Budi use?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PROC-09-A",
+    "indikator": 9,
+    "jawaban": "To explain how to make something",
+    "level": "Mudah",
+    "materi": "Procedure Text",
+    "pembahasan": "Teks prosedur berfungsi untuk menjelaskan cara membuat atau melakukan sesuatu (social function). Teks ini bukan cerita lucu (to tell a funny story), bukan deskripsi (to describe), dan bukan menceritakan kembali kejadian masa lalu (to retell past events).",
+    "pilihan": [
+      "To explain how to make something",
+      "To tell a funny story",
+      "To describe a paper boat",
+      "To retell past events"
+    ],
+    "soal": "Read the text.\nHow to Make a Paper Boat\nMaterials: a piece of paper.\nSteps:\n1. Fold the paper in half.\n2. Fold the top corners to the center.\n3. Fold the bottom edge up.\n4. Open the boat.\n\nWhat is the purpose (social function) of the text?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PROC-09-B",
+    "indikator": 9,
+    "jawaban": "To tell the steps of making lemon tea",
+    "level": "Mudah",
+    "materi": "Procedure Text",
+    "pembahasan": "Teks ini memuat bahan dan langkah-langkah membuat teh lemon, jadi tujuannya adalah menyampaikan langkah-langkah pembuatan (social function teks prosedur). Teks ini bukan cerita untuk menghibur, bukan deskripsi segelas teh, dan bukan menceritakan kembali pengalaman masa lalu.",
+    "pilihan": [
+      "To entertain the reader with a story",
+      "To describe a cup of tea",
+      "To retell a past experience",
+      "To tell the steps of making lemon tea"
+    ],
+    "soal": "Read the text.\nHow to Make Lemon Tea\nIngredients: a tea bag, hot water, a slice of lemon, and sugar.\nSteps:\n1. Put the tea bag in a cup.\n2. Pour hot water into the cup.\n3. Add sugar and a slice of lemon.\n4. Stir well and serve it.\n\nWhat is the purpose (social function) of the text?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PROC-10-A",
+    "indikator": 10,
+    "jawaban": "3 eggs",
+    "level": "Mudah",
+    "materi": "Procedure Text",
+    "pembahasan": "Pada bagian Ingredients tertulis \"3 eggs\". \"2 cups of rice\" adalah takaran beras, \"2 cloves of garlic\" adalah takaran bawang putih, dan tidak ada bahan sebanyak 4 telur.",
+    "pilihan": [
+      "1 egg",
+      "3 eggs",
+      "2 eggs",
+      "4 eggs"
+    ],
+    "soal": "Read the text.\nHow to Make Fried Rice\nIngredients: 2 cups of rice, 3 eggs, 2 cloves of garlic, 1 tablespoon of soy sauce, and 1 teaspoon of salt.\nSteps:\n1. Heat some oil in a pan.\n2. Add the garlic and stir it.\n3. Add the eggs and the rice.\n4. Add the soy sauce and salt. Stir well.\n5. Serve the fried rice on a plate.\n\nHow many eggs do we need to make fried rice?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PROC-10-B",
+    "indikator": 10,
+    "jawaban": "3 bananas",
+    "level": "Mudah",
+    "materi": "Procedure Text",
+    "pembahasan": "Pada bagian Ingredients tertulis \"3 bananas\". \"2 apples\" adalah takaran apel, \"1 cup of grapes\" adalah takaran anggur, dan \"2 tablespoons of honey\" adalah takaran madu.",
+    "pilihan": [
+      "1 banana",
+      "2 bananas",
+      "3 bananas",
+      "4 bananas"
+    ],
+    "soal": "Read the text.\nHow to Make Fruit Salad\nIngredients: 2 apples, 3 bananas, 1 cup of grapes, 2 tablespoons of honey, and 1 cup of yogurt.\nSteps:\n1. Wash the fruits.\n2. Cut the apples and bananas into small pieces.\n3. Put all the fruits in a bowl.\n4. Add the honey and yogurt. Mix well.\n5. Serve the fruit salad cold.\n\nHow many bananas do we need to make fruit salad?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PROC-11-A",
+    "indikator": 11,
+    "jawaban": "Fold",
+    "level": "Sedang",
+    "materi": "Procedure Text",
+    "pembahasan": "Langkah prosedur memakai kata kerja imperatif (bentuk dasar kata kerja / base form) untuk memberi perintah, jadi yang tepat adalah \"Fold\". \"Folding\" adalah bentuk -ing, \"Folded\" bentuk lampau, dan \"Folds\" bentuk orang ketiga tunggal.",
+    "pilihan": [
+      "Folding",
+      "Folded",
+      "Folds",
+      "Fold"
+    ],
+    "soal": "Complete the step.\n\"___ the paper in half before you fold the corners.\"",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PROC-11-B",
+    "indikator": 11,
+    "jawaban": "Crack",
+    "level": "Sedang",
+    "materi": "Procedure Text",
+    "pembahasan": "Langkah prosedur memakai kata kerja imperatif (bentuk dasar kata kerja) untuk memberi perintah, jadi yang tepat adalah \"Crack\". \"Cracking\" adalah bentuk -ing, \"Cracked\" bentuk lampau, dan \"Cracks\" bentuk orang ketiga tunggal.",
+    "pilihan": [
+      "Crack",
+      "Cracking",
+      "Cracked",
+      "Cracks"
+    ],
+    "soal": "Complete the step.\n\"___ the eggs into a bowl and stir them well.\"",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PROC-12-A",
+    "indikator": 12,
+    "jawaban": "First",
+    "level": "Sedang",
+    "materi": "Procedure Text",
+    "pembahasan": "Kata penghubung \"First\" dipakai untuk langkah pertama, dan kalimat berikutnya memakai \"Then\" (langkah kedua). \"Finally\" dipakai untuk langkah terakhir, \"Next\" untuk langkah berikutnya setelah langkah pertama, dan \"After that\" tidak cocok untuk langkah yang paling awal.",
+    "pilihan": [
+      "Finally",
+      "Next",
+      "First",
+      "After that"
+    ],
+    "soal": "Complete the step.\n\"___, put the tea bag into the cup. Then, pour hot water into it.\"",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PROC-12-B",
+    "indikator": 12,
+    "jawaban": "Then",
+    "level": "Sedang",
+    "materi": "Procedure Text",
+    "pembahasan": "Setelah langkah pertama (\"Mix the flour and sugar\"), langkah berikutnya dihubungkan dengan \"Then\". \"First\" dipakai untuk langkah pertama, bukan langkah kedua, \"Before\" tidak cocok di awal kalimat ini, dan \"Finally\" dipakai untuk langkah terakhir.",
+    "pilihan": [
+      "First",
+      "Then",
+      "Before",
+      "Finally"
+    ],
+    "soal": "Complete the step.\n\"Mix the flour and sugar. ___, add the eggs one by one.\"",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PROC-13-A",
+    "indikator": 13,
+    "jawaban": "3-4-1-5-2",
+    "level": "Sedang",
+    "materi": "Procedure Text",
+    "pembahasan": "Urutan yang logis: rebus air dulu (3), masukkan kantong teh ke cangkir (4), tuang air panas (1), tunggu dua menit lalu keluarkan kantong teh (5), dan tambahkan gula lalu aduk (2). Gula hanya bisa ditambahkan setelah teh jadi, dan air harus direbus sebelum dituang.",
+    "pilihan": [
+      "3-4-1-5-2",
+      "1-3-4-5-2",
+      "3-1-4-2-5",
+      "4-3-1-2-5"
+    ],
+    "soal": "Read the steps of making a cup of tea. They are in the wrong order.\n1. Pour hot water into the cup.\n2. Add sugar and stir it.\n3. Boil some water in a kettle.\n4. Put a tea bag into a cup.\n5. Wait for two minutes and take out the tea bag.\n\nWhat is the correct order of the steps?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PROC-13-B",
+    "indikator": 13,
+    "jawaban": "3-1-4-2-5",
+    "level": "Sedang",
+    "materi": "Procedure Text",
+    "pembahasan": "Urutan yang logis: rebus air dulu (3), masukkan mi ke air mendidih (1), tiriskan airnya (4), tambahkan bumbu dan aduk (2), lalu sajikan mi dalam mangkuk (5). Mi tidak bisa dimasak sebelum air mendidih, dan bumbu ditambahkan setelah air ditiriskan.",
+    "pilihan": [
+      "1-3-2-4-5",
+      "3-2-1-5-4",
+      "1-2-3-4-5",
+      "3-1-4-2-5"
+    ],
+    "soal": "Read the steps of making instant noodles. They are in the wrong order.\n1. Put the noodles into the boiling water.\n2. Add the seasoning and stir well.\n3. Boil 400 ml of water in a pan.\n4. Drain the water.\n5. Serve the noodles in a bowl.\n\nWhat is the correct order of the steps?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "REP-14-A",
+    "indikator": 14,
+    "jawaban": "Proboscis monkeys are unique monkeys that live in the mangrove forests of Kalimantan.",
+    "level": "Mudah",
+    "materi": "Report Text",
+    "pembahasan": "Gagasan umum teks adalah bahwa bekantan adalah monyet unik yang hidup di hutan bakau Kalimantan. Pilihan lain salah: teks tidak mengatakan bekantan adalah monyet terbesar di dunia, tidak mengatakan mereka hanya makan ikan, dan tidak mengatakan mereka hidup sendiri di gurun.",
+    "pilihan": [
+      "Proboscis monkeys are the largest monkeys in the world.",
+      "Proboscis monkeys are unique monkeys that live in the mangrove forests of Kalimantan.",
+      "Proboscis monkeys eat only fish in the river.",
+      "Proboscis monkeys live alone in the desert."
+    ],
+    "soal": "Read the text.\nProboscis monkeys, or bekantan, are monkeys that live in the mangrove forests of Kalimantan. They are one of the unique animals of Indonesia. Proboscis monkeys live in groups near the river. They eat leaves, fruits, and seeds.\n\nWhat is the general idea of the text?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "REP-14-B",
+    "indikator": 14,
+    "jawaban": "Proboscis monkeys live in groups in the mangrove forests of Kalimantan.",
+    "level": "Mudah",
+    "materi": "Report Text",
+    "pembahasan": "Teks secara umum menjelaskan bahwa bekantan hidup berkelompok di hutan bakau Kalimantan. Pilihan lain salah: teks mengatakan bekantan makan daun, buah, dan biji-bijian, bukan ikan; mereka hidup di Kalimantan, bukan di Pulau Jawa; dan mereka hidup berkelompok, bukan sendirian.",
+    "pilihan": [
+      "Proboscis monkeys eat only fish in the river.",
+      "Proboscis monkeys live in groups in the mangrove forests of Kalimantan.",
+      "Proboscis monkeys live alone in the forests of Java.",
+      "Proboscis monkeys are large cats from Sumatra."
+    ],
+    "soal": "Read the text.\nThe proboscis monkey, or bekantan, is a monkey that lives in Kalimantan. It lives in the mangrove forests near the river. It lives in groups with other proboscis monkeys. It eats leaves, fruits, and seeds.\n\nWhat is the general idea of the text?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "REP-15-A",
+    "indikator": 15,
+    "jawaban": "special",
+    "level": "Mudah",
+    "materi": "Report Text",
+    "pembahasan": "\"Distinctive\" berarti khas atau istimewa (special), yaitu ciri yang membuat sesuatu berbeda dari yang lain. \"Common\" (umum) dan \"ordinary\" (biasa) adalah lawan katanya, sedangkan \"similar\" (mirip) berarti hampir sama, bukan khas.",
+    "pilihan": [
+      "common",
+      "ordinary",
+      "similar",
+      "special"
+    ],
+    "soal": "Read the text.\nProboscis monkeys have a distinctive appearance. The males have a very large nose that hangs over the mouth. Their fur is reddish-brown, and their belly is round. The babies have blue faces.\n\n\"The males have a very distinctive nose.\" The word \"distinctive\" is closest in meaning to ...",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "REP-15-B",
+    "indikator": 15,
+    "jawaban": "hangs down over",
+    "level": "Mudah",
+    "materi": "Report Text",
+    "pembahasan": "\"Droops\" berarti menjuntai atau menggantung ke bawah (hangs down over). Hidung bekantan jantan besar dan menjuntai sampai ke atas mulut. \"Rises up\" (naik ke atas), \"moves fast\" (bergerak cepat), dan \"shakes\" (bergoyang) tidak sesuai dengan makna kata tersebut.",
+    "pilihan": [
+      "hangs down over",
+      "rises up",
+      "moves fast",
+      "shakes"
+    ],
+    "soal": "Read the text.\nThe male proboscis monkey is easy to recognize. It has a big nose that droops over its mouth. Its fur is reddish-brown. Its belly is big and round. The female is smaller, and her nose is smaller too.\n\n\"It has a big nose that droops over its mouth.\" The word \"droops\" is closest in meaning to ...",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "REP-16-A",
+    "indikator": 16,
+    "jawaban": "About 24 kilograms",
+    "level": "Mudah",
+    "materi": "Report Text",
+    "pembahasan": "Teks menyatakan \"An adult male proboscis monkey weighs around 24 kilograms\". Angka 12 kilogram adalah berat betina, 75 adalah tinggi jantan dalam sentimeter, dan 30 adalah jumlah maksimum monyet dalam satu kelompok.",
+    "pilihan": [
+      "About 24 kilograms",
+      "About 12 kilograms",
+      "About 30 kilograms",
+      "About 75 kilograms"
+    ],
+    "soal": "Read the text.\nAn adult male proboscis monkey weighs around 24 kilograms, while the female weighs around 12 kilograms. The male is about 75 centimetres tall. They live in groups of 10 to 30 monkeys.\n\nHow much does an adult male proboscis monkey weigh?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "REP-16-B",
+    "indikator": 16,
+    "jawaban": "About 60 centimetres",
+    "level": "Mudah",
+    "materi": "Report Text",
+    "pembahasan": "Teks menyatakan \"An adult female proboscis monkey is about 60 centimetres tall\". Angka 24 adalah berat jantan dalam kilogram, 12 adalah berat betina, dan 20 adalah jumlah minimum monyet dalam satu kelompok.",
+    "pilihan": [
+      "About 24 centimetres",
+      "About 60 centimetres",
+      "About 12 centimetres",
+      "About 20 centimetres"
+    ],
+    "soal": "Read the text.\nAn adult female proboscis monkey weighs around 12 kilograms. She is about 60 centimetres tall. The male is bigger and weighs around 24 kilograms. They live in groups of 20 to 30 monkeys.\n\nHow tall is an adult female proboscis monkey?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "REP-17-A",
+    "indikator": 17,
+    "jawaban": "Deer and wild pigs",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "Teks menyatakan komodo makan rusa (deer), babi hutan (wild pigs), dan hewan lain. Pilihan lain salah: komodo bukan pemakan daun dan rumput, ikan dan kepiting, atau buah dan biji-bijian.",
+    "pilihan": [
+      "Deer and wild pigs",
+      "Leaves and grass",
+      "Fish and crabs",
+      "Fruits and seeds"
+    ],
+    "soal": "Read the text.\nKomodo dragons are the largest lizards in the world. They live on Komodo Island and several small islands in East Nusa Tenggara. A Komodo dragon can grow up to 3 metres long. It eats deer, wild pigs, and other animals.\n\nWhat do Komodo dragons eat?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "REP-17-B",
+    "indikator": 17,
+    "jawaban": "Komodo Island and small islands in East Nusa Tenggara",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "Teks menyatakan komodo hidup di Pulau Komodo dan beberapa pulau kecil di Nusa Tenggara Timur. Pilihan lain salah: komodo tidak hidup di Kalimantan, hutan bakau di Papua, atau Pulau Sumatra.",
+    "pilihan": [
+      "The mangrove forests of Kalimantan",
+      "The rainforests of Papua",
+      "The island of Sumatra",
+      "Komodo Island and small islands in East Nusa Tenggara"
+    ],
+    "soal": "Read the text.\nThe Komodo dragon is the biggest lizard in the world. It lives on Komodo Island and several small islands in East Nusa Tenggara. It has strong legs and sharp claws. It uses its long tongue to smell its food.\n\nWhere do Komodo dragons live?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "REP-18-A",
+    "indikator": 18,
+    "jawaban": "Paragraph (2)",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "Paragraf (2) menjelaskan bagian-bagian tubuh komodo: tubuh yang kuat, ekor panjang, cakar tajam, kulit kasar, dan lidah panjang. Paragraf (1) adalah general classification (pengenalan umum), sedangkan paragraf (3) menjelaskan makanan dan cara berburu.",
+    "pilihan": [
+      "Paragraph (1)",
+      "Paragraph (2)",
+      "Paragraph (3)",
+      "Paragraph (1) and (3)"
+    ],
+    "soal": "Read the text.\n(1) The Komodo dragon comes from Indonesia. This big reptile lives on Komodo Island and a few small islands around it.\n(2) They have a strong body, a long tail, and sharp claws. Their skin is rough and grey-brown, and their long tongue helps them smell their food.\n(3) Komodo dragons eat deer, wild pigs, and other animals. They hunt and swallow their prey.\n\nWhich paragraph describes the parts of the Komodo dragon's body?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "REP-18-B",
+    "indikator": 18,
+    "jawaban": "Paragraph (3)",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "Paragraf (3) menjelaskan bagian-bagian tubuh komodo: mata kecil, rahang kuat, dan kaki tebal dan kuat. Paragraf (1) adalah general classification (pengenalan umum), sedangkan paragraf (2) menjelaskan cara berburu, bukan bagian tubuh.",
+    "pilihan": [
+      "Paragraph (1)",
+      "Paragraph (2)",
+      "Paragraph (3)",
+      "Paragraph (2) and (3)"
+    ],
+    "soal": "Read the text.\n(1) The Komodo dragon is a large lizard that lives on Komodo Island.\n(2) Komodo dragons are strong hunters. They can run fast and swim well. They kill their prey with sharp teeth.\n(3) Their eyes are small, their jaws are strong, and their legs are thick and powerful.\n\nWhich paragraph describes the parts of the Komodo dragon's body?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "REP-19-A",
+    "indikator": 19,
+    "jawaban": "Male Komodo dragons are bigger, and there are more males than females.",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "Data menunjukkan 60% jantan dan 40% betina (jadi jantan lebih banyak), dan jantan dapat tumbuh sampai 3 meter dan 90 kilogram, sementara betina hanya 2 meter dan 70 kilogram (jadi jantan lebih besar). Karena itu hanya kesimpulan ini yang sesuai dengan data.",
+    "pilihan": [
+      "There are more female Komodo dragons than males.",
+      "Male and female Komodo dragons are the same size.",
+      "Female Komodo dragons are heavier than males.",
+      "Male Komodo dragons are bigger, and there are more males than females."
+    ],
+    "soal": "Read the text.\nIn a study of Komodo dragons on Komodo Island, researchers counted 100 dragons. 60% were male and 40% were female. Male Komodo dragons can grow up to 3 metres long and weigh up to 90 kilograms, while females grow up to 2 metres long and weigh up to 70 kilograms.\n\nBased on the data, what can we conclude?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "REP-19-B",
+    "indikator": 19,
+    "jawaban": "There are more female Komodo dragons than male ones.",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "Data menunjukkan 55% betina dan 45% jantan dari 80 komodo, jadi betina lebih banyak daripada jantan. Komodo jantan tidak bertelur, dan pilihan lain bertentangan dengan angka dalam data.",
+    "pilihan": [
+      "There are more female Komodo dragons than male ones.",
+      "Male Komodo dragons lay eggs.",
+      "There are fewer females than males.",
+      "Male Komodo dragons lay more eggs than females."
+    ],
+    "soal": "Read the text.\nResearchers studied Komodo dragons on Rinca Island. They found 80 Komodo dragons. 55% were female and 45% were male. Female Komodo dragons lay about 20 eggs each year. Males are bigger and heavier than females.\n\nBased on the data, what is TRUE?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "LAB-20-A",
+    "indikator": 20,
+    "jawaban": "12 March 2028",
+    "level": "Mudah",
+    "materi": "Label",
+    "pembahasan": "Pada label tertulis \"Expiry date: 12 March 2028\". Tanggal 12 March 2027 dan 12 March 2029 tidak ada pada label, dan 12 March 2030 hanya pengecoh.",
+    "pilihan": [
+      "12 March 2027",
+      "12 March 2029",
+      "12 March 2028",
+      "12 March 2030"
+    ],
+    "soal": "Read the label.\nPARACETAMOL 500 mg\nPain reliever and fever reducer.\nDosage: Adults: 1 tablet every 6 hours. Maximum: 4 tablets a day.\nKeep away from children.\nExpiry date: 12 March 2028.\nNet content: 10 tablets.\n\nWhen does the medicine expire?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "LAB-20-B",
+    "indikator": 20,
+    "jawaban": "25 November 2027",
+    "level": "Mudah",
+    "materi": "Label",
+    "pembahasan": "Pada label tertulis \"Expiry date: 25 November 2027\". Tanggal 25 November 2026 dan 25 November 2028 tidak ada pada label, sedangkan 25 October 2027 adalah bulan yang berbeda.",
+    "pilihan": [
+      "25 November 2026",
+      "25 November 2027",
+      "25 October 2027",
+      "25 November 2028"
+    ],
+    "soal": "Read the label.\nPARACETAMOL SYRUP 120 mg / 5 ml\nFor children 6-12 years old.\nDosage: 5 ml every 8 hours. Shake well before use.\nStore in a cool, dry place.\nExpiry date: 25 November 2027.\nNet content: 60 ml.\n\nWhat is the expiry date of the medicine?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "REP-21-A",
+    "indikator": 21,
+    "jawaban": "Simple present tense",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "Teks laporan memakai simple present tense (\"is\", \"lives\", \"has\", \"eats\") karena menyatakan fakta umum yang selalu benar. Past tense dipakai untuk kejadian masa lalu, future tense untuk masa depan, dan imperative untuk perintah — ketiganya tidak dipakai dalam teks ini.",
+    "pilihan": [
+      "Simple present tense",
+      "Past tense verbs",
+      "Future tense verbs",
+      "Imperative verbs"
+    ],
+    "soal": "Read the text.\nThe bird of paradise, or cendrawasih, is a beautiful bird that lives in the forests of Papua. The male bird has colourful feathers. Its long tail feathers are red and yellow. The bird of paradise eats fruits and insects.\n\nWhich language feature is used in the text?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "REP-21-B",
+    "indikator": 21,
+    "jawaban": "Paradisaea apoda",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "\"Paradisaea apoda\" adalah istilah teknis (nama ilmiah) yang dipakai dalam teks laporan. \"Forests\", \"beautiful\", dan \"green\" adalah kata-kata umum, bukan istilah teknis.",
+    "pilihan": [
+      "forests",
+      "beautiful",
+      "green",
+      "Paradisaea apoda"
+    ],
+    "soal": "Read the text.\nThe bird of paradise belongs to the family Paradisaeidae. The male of the Greater Bird-of-Paradise (Paradisaea apoda) has long yellow plumes. It lives in the green forests of Papua and eats fruits and insects.\n\nWhich word is a technical term used in the report text?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "REP-22-A",
+    "indikator": 22,
+    "jawaban": "The bird of paradise lives in the rainforests of Papua and Maluku.",
+    "level": "HOTS",
+    "materi": "Report Text",
+    "pembahasan": "Pernyataan faktual (objektif) adalah yang dapat dibuktikan dengan fakta: cendrawasih memang hidup di hutan hujan Papua dan Maluku. \"The most beautiful bird in the world\", \"better than all other birds\", dan \"Everyone loves\" adalah opini — penilaian atau perasaan pribadi yang tidak dapat dibuktikan.",
+    "pilihan": [
+      "The bird of paradise is the most beautiful bird in the world.",
+      "The bird of paradise lives in the rainforests of Papua and Maluku.",
+      "The bird of paradise is better than all other birds.",
+      "Everyone loves the bird of paradise."
+    ],
+    "soal": "Read the text.\nThe bird of paradise lives in the rainforests of Papua and Maluku. The male has bright, colourful feathers. It eats fruits, insects, and seeds. People call it the most beautiful bird in the world.\n\nWhich statement is a fact?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "REP-22-B",
+    "indikator": 22,
+    "jawaban": "The male Greater Bird-of-Paradise can be 43 centimetres long.",
+    "level": "HOTS",
+    "materi": "Report Text",
+    "pembahasan": "Pernyataan faktual (objektif) adalah yang dapat diukur dan dibuktikan: panjang tubuh 43 sentimeter. \"The most wonderful show in nature\", \"the prettiest bird of all\", dan \"Everybody agrees that it is the best bird\" adalah opini — penilaian pribadi yang tidak dapat dibuktikan.",
+    "pilihan": [
+      "Its dance is the most wonderful show in nature.",
+      "Cendrawasih is the prettiest bird of all.",
+      "The male Greater Bird-of-Paradise can be 43 centimetres long.",
+      "Everybody agrees that it is the best bird."
+    ],
+    "soal": "Read the text.\nCendrawasih is the national bird of Papua. The male Greater Bird-of-Paradise can be 43 centimetres long. Its feathers are used in traditional dances. Many people say its dance is the most wonderful show in nature.\n\nWhich statement is a fact?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "REP-23-A",
+    "indikator": 23,
+    "jawaban": "The Lesser Bird-of-Paradise has longer wings than the King Bird-of-Paradise.",
+    "level": "HOTS",
+    "materi": "Report Text",
+    "pembahasan": "Berdasarkan tabel, sayap Lesser (22 cm) lebih panjang daripada sayap King (15 cm), jadi pernyataan ini benar. King (60 g) lebih ringan daripada Greater (300 g), bukan lebih berat; Lesser beratnya 200 g, bukan 60 g; dan sayap terpendek adalah King (15 cm), bukan Greater (25 cm).",
+    "pilihan": [
+      "The King Bird-of-Paradise is heavier than the Greater Bird-of-Paradise.",
+      "The Lesser Bird-of-Paradise weighs 60 grams.",
+      "The Greater Bird-of-Paradise has the shortest wings.",
+      "The Lesser Bird-of-Paradise has longer wings than the King Bird-of-Paradise."
+    ],
+    "soal": "Read the text and the table.\nThere are many kinds of birds of paradise in Papua. The table shows the wing length and the weight of three kinds.\n\nSpecies | Wing length | Weight\nGreater Bird-of-Paradise | 25 cm | 300 grams\nLesser Bird-of-Paradise | 22 cm | 200 grams\nKing Bird-of-Paradise | 15 cm | 60 grams\n\nBased on the table, which statement is TRUE?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "REP-23-B",
+    "indikator": 23,
+    "jawaban": "90 grams",
+    "level": "HOTS",
+    "materi": "Report Text",
+    "pembahasan": "Berdasarkan tabel, Red beratnya 180 gram dan Magnificent beratnya 90 gram. Selisihnya 180 - 90 = 90 gram. Pilihan 40 gram, 120 gram, dan 180 gram adalah hasil hitungan yang salah.",
+    "pilihan": [
+      "40 grams",
+      "120 grams",
+      "90 grams",
+      "180 grams"
+    ],
+    "soal": "Read the text and the table.\nThe table shows the length and the weight of three kinds of birds of paradise.\n\nSpecies | Body length | Weight\nRed Bird-of-Paradise | 33 cm | 180 grams\nWilson's Bird-of-Paradise | 16 cm | 60 grams\nMagnificent Bird-of-Paradise | 19 cm | 90 grams\n\nWhat is the difference in weight between the Red Bird-of-Paradise and the Magnificent Bird-of-Paradise?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "LAB-24-A",
+    "indikator": 24,
+    "jawaban": "450 ml",
+    "level": "Mudah",
+    "materi": "Label",
+    "pembahasan": "Pada label tertulis \"Net weight: 450 ml\". Angka 350 ml, 400 ml, dan 500 ml tidak ada pada label ini.",
+    "pilihan": [
+      "350 ml",
+      "400 ml",
+      "450 ml",
+      "500 ml"
+    ],
+    "soal": "Read the label.\nTEH BOTOL SEGAR\nReady-to-drink jasmine tea.\nNet weight: 450 ml.\nComposition: water, tea leaves, sugar.\nProduced by PT Minuman Segar, Jakarta.\nBest before: 10 December 2027.\n\nWhat is the net weight of the product?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "LAB-24-B",
+    "indikator": 24,
+    "jawaban": "PT Teh Nusantara",
+    "level": "Mudah",
+    "materi": "Label",
+    "pembahasan": "Pada label tertulis \"Produced by PT Teh Nusantara, Bandung\". PT Minuman Segar adalah produsen pada label teh botol varian A, sedangkan PT Air Sehat dan PT Kopi Jaya tidak ada pada label ini.",
+    "pilihan": [
+      "PT Minuman Segar",
+      "PT Teh Nusantara",
+      "PT Air Sehat",
+      "PT Kopi Jaya"
+    ],
+    "soal": "Read the label.\nTEH MELATI ASLI\nReady-to-drink jasmine tea.\nNet weight: 350 ml.\nComposition: water, tea leaves, sugar.\nProduced by PT Teh Nusantara, Bandung.\nBest before: 20 January 2028.\n\nWho produces the tea?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "LAB-25-A",
+    "indikator": 25,
+    "jawaban": "Cook the noodles in 400 ml of water for 3 minutes.",
+    "level": "Sedang",
+    "materi": "Label",
+    "pembahasan": "Label memerintahkan: rebus 400 ml air, masukkan mi, dan masak selama 3 menit. Makan bumbu yang basah atau gelap dilarang oleh peringatan label, mi harus disimpan di tempat kering (bukan basah), dan mi tentu harus dimasak dengan air.",
+    "pilihan": [
+      "Cook the noodles in 400 ml of water for 3 minutes.",
+      "Eat the seasoning even if it is wet and dark.",
+      "Store the noodles in a wet place.",
+      "Cook the noodles without water."
+    ],
+    "soal": "Read the label.\nMIE INSTAN AYAM BAWANG\nDirections: Boil 400 ml of water. Add the noodles and cook for 3 minutes. Add seasoning and stir well.\nWarning: Do not eat the seasoning if it is wet or dark.\nStorage: Keep in a cool, dry place.\n\nRudi will cook the noodles. What should he do?",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "LAB-25-B",
+    "indikator": 25,
+    "jawaban": "Do not eat them and throw them away.",
+    "level": "Sedang",
+    "materi": "Label",
+    "pembahasan": "Mi yang sudah melewati tanggal kedaluwarsa tidak boleh dimakan karena berbahaya bagi kesehatan; label menegaskan \"Do not eat after the expiry date\". Memasak dan memakannya, memberikannya kepada teman, atau menyimpannya untuk tahun depan semuanya salah.",
+    "pilihan": [
+      "Cook and eat them anyway.",
+      "Give them to her friend.",
+      "Keep them for next year.",
+      "Do not eat them and throw them away."
+    ],
+    "soal": "Read the label.\nMIE INSTAN RASA PEDAS\nDirections: Boil 500 ml of water. Add the noodles and cook for 4 minutes. Add seasoning and stir well.\nWarning: Do not eat after the expiry date. Keep away from direct sunlight.\nStorage: Keep in a cool, dry place.\nExpiry date: 15 August 2027.\n\nThe noodles are past the expiry date. What should Sinta do?",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "CONG-26-A",
+    "indikator": 26,
+    "jawaban": "Benar",
+    "level": "Sedang",
+    "materi": "Congratulating",
+    "pembahasan": "Pernyataan itu benar: \"Congratulations on winning the English speech contest!\" adalah ungkapan congratulating (memberi selamat) atas prestasi Dina yang memenangkan lomba pidato bahasa Inggris. Ungkapan congratulating dipakai untuk memberi selamat atas keberhasilan atau prestasi seseorang.",
+    "soal": "Read the dialogue.\nRina: \"Congratulations on winning the English speech contest, Dina!\"\nDina: \"Thank you very much, Rina.\"\n\nStatement: \"Congratulations on winning the English speech contest!\" is an expression to congratulate someone on her achievement.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "CONG-26-B",
+    "indikator": 26,
+    "jawaban": "Salah",
+    "level": "Sedang",
+    "materi": "Congratulating",
+    "pembahasan": "Pernyataan itu salah: \"Good morning, Budi\" adalah ungkapan sapaan (greeting), bukan ungkapan congratulating. Ungkapan congratulating dipakai untuk memberi selamat atas keberhasilan atau prestasi, misalnya \"Congratulations on your graduation!\"",
+    "soal": "Read the dialogue.\nAndi: \"Good morning, Budi.\"\nBudi: \"Good morning. How are you?\"\n\nStatement: \"Good morning, Budi\" is an expression of congratulating.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "AGR-27-A",
+    "indikator": 27,
+    "jawaban": "Benar",
+    "level": "Sedang",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "Pernyataan itu benar: \"I agree with you\" adalah ungkapan agreement (persetujuan). Dewi memakai ungkapan itu untuk menyatakan bahwa ia setuju dengan pendapat Sinta tentang manfaat membaca buku.",
+    "soal": "Read the dialogue.\nSinta: \"I think reading books every day is very useful.\"\nDewi: \"I agree with you. Reading makes us smarter.\"\n\nStatement: \"I agree with you\" shows that Dewi agrees with Sinta's opinion.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "AGR-27-B",
+    "indikator": 27,
+    "jawaban": "Salah",
+    "level": "Sedang",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "Pernyataan itu salah: \"I don't think so\" adalah ungkapan disagreement (ketidaksetujuan), bukan persetujuan. Rudi memakai ungkapan itu untuk menyatakan bahwa ia tidak setuju dengan usul Tono pergi ke sekolah dengan sepeda.",
+    "soal": "Read the dialogue.\nTono: \"I think we should go to school by bicycle.\"\nRudi: \"I don't think so. It is too far from here.\"\n\nStatement: \"I don't think so\" means Rudi agrees with Tono's idea.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "PROC-28-A",
+    "indikator": 28,
+    "jawaban": "Salah",
+    "level": "Sedang",
+    "materi": "Procedure Text",
+    "pembahasan": "Pernyataan itu salah: teks menyebutkan alat yang dipakai adalah blender, bukan wajan (frying pan). Bahan-bahannya adalah alpukat, susu, gula, dan es batu, lalu semuanya dimasukkan ke dalam blender dan diblender sampai halus.",
+    "soal": "Read the text.\n\"How to Make Avocado Juice\"\n\nIngredients: 1 avocado, 1 glass of milk, 2 spoons of sugar, and some ice cubes.\n\nTools: a blender and a glass.\n\nSteps:\n1. Cut the avocado into pieces.\n2. Put the avocado, milk, sugar, and ice cubes into the blender.\n3. Blend them until smooth.\n4. Pour the juice into a glass and serve it.\n\nStatement: A frying pan is needed to make avocado juice.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "PROC-28-B",
+    "indikator": 28,
+    "jawaban": "Benar",
+    "level": "Sedang",
+    "materi": "Procedure Text",
+    "pembahasan": "Pernyataan itu benar: teks menyebutkan blender sebagai alat untuk membuat jus alpukat. Langkah kedua dan ketiga jelas menyatakan bahan-bahan dimasukkan ke dalam blender lalu diblender sampai halus.",
+    "soal": "Read the text.\n\"How to Make Avocado Juice\"\n\nIngredients: 1 avocado, 1 glass of milk, 2 spoons of sugar, and some ice cubes.\n\nTools: a blender and a glass.\n\nSteps:\n1. Cut the avocado into pieces.\n2. Put the avocado, milk, sugar, and ice cubes into the blender.\n3. Blend them until smooth.\n4. Pour the juice into a glass and serve it.\n\nStatement: We need a blender to make avocado juice.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "REP-29-A",
+    "indikator": 29,
+    "jawaban": "Benar",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "Pernyataan itu benar: teks menyebutkan orangutan hidup di hutan Kalimantan dan Sumatera. Orangutan adalah hewan yang tinggal di pohon, makan buah-buahan, dan mempunyai lengan yang panjang.",
+    "soal": "Read the text.\n\"Orangutans are large apes. They live in the forests of Kalimantan and Sumatera. They live in trees and eat fruits, leaves, and insects. Orangutans have long arms and reddish-brown hair. They are smart animals, but now they are in danger because their forests are getting smaller.\"\n\nStatement: Orangutans live in the forests of Kalimantan and Sumatera.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "REP-29-B",
+    "indikator": 29,
+    "jawaban": "Salah",
+    "level": "Sedang",
+    "materi": "Report Text",
+    "pembahasan": "Pernyataan itu salah: teks menyebutkan orangutan hidup di hutan Kalimantan dan Sumatera dan makan buah-buahan, daun, dan serangga. Orangutan tidak hidup di gurun dan tidak makan daging.",
+    "soal": "Read the text.\n\"Orangutans are large apes. They live in the forests of Kalimantan and Sumatera. They live in trees and eat fruits, leaves, and insects. Orangutans have long arms and reddish-brown hair. They are smart animals, but now they are in danger because their forests are getting smaller.\"\n\nStatement: Orangutans eat meat and live in the desert.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "LAB-30-A",
+    "indikator": 30,
+    "jawaban": "Salah",
+    "level": "Sedang",
+    "materi": "Label",
+    "pembahasan": "Pernyataan itu salah: label menyebutkan berat bersih Choco Crunch Bar adalah 45 gram, bukan 100 gram. Informasi berat bersih tercantum jelas pada label produk.",
+    "soal": "Read the label.\n\"Choco Crunch Bar\"\nNet weight: 45 g\nIngredients: wheat flour, chocolate, sugar, milk powder\nBest before: 12 December 2026\nProduced by: PT Makanan Lezat, Jakarta\n\nStatement: The net weight of the Choco Crunch Bar is 100 grams.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "LAB-30-B",
+    "indikator": 30,
+    "jawaban": "Benar",
+    "level": "Sedang",
+    "materi": "Label",
+    "pembahasan": "Pernyataan itu benar: label menyebutkan \"Best before: 12 December 2026\", artinya Choco Crunch Bar sebaiknya dimakan sebelum 12 Desember 2026.",
+    "soal": "Read the label.\n\"Choco Crunch Bar\"\nNet weight: 45 g\nIngredients: wheat flour, chocolate, sugar, milk powder\nBest before: 12 December 2026\nProduced by: PT Makanan Lezat, Jakarta\n\nStatement: The Choco Crunch Bar should be eaten before 12 December 2026.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "MATCH-31-A",
+    "indikator": 31,
+    "jawaban": "To give a compliment",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Complimenting",
+    "pembahasan": "\"What a beautiful dress you are wearing!\" adalah ungkapan pujian (complimenting). Ungkapan ini memuji penampilan seseorang, bukan menyatakan harapan atau mengajak seseorang.",
+    "pilihan": [
+      "To express a hope",
+      "To give a compliment",
+      "A frying pan",
+      "Active at night"
+    ],
+    "soal": "Match the expression with its meaning or function.\nExpression: \"What a beautiful dress you are wearing!\"",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "MATCH-31-B",
+    "indikator": 31,
+    "jawaban": "To give a compliment",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Complimenting",
+    "pembahasan": "\"You look great in that jacket!\" adalah ungkapan pujian (complimenting). Ungkapan ini memuji penampilan seseorang, bukan menyatakan harapan atau menunjukkan informasi gizi.",
+    "pilihan": [
+      "To show nutrition information",
+      "To express a hope",
+      "To give a compliment",
+      "A frying pan"
+    ],
+    "soal": "Match the expression with its meaning or function.\nExpression: \"You look great in that jacket!\"",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "MATCH-32-A",
+    "indikator": 32,
+    "jawaban": "To express a hope",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Hope and Wish",
+    "pembahasan": "\"I hope you pass the exam\" adalah ungkapan harapan (hope). Ungkapan ini menyatakan doa atau harapan baik untuk orang lain, bukan pujian atau ajakan.",
+    "pilihan": [
+      "To give a compliment",
+      "Active at night",
+      "To express a hope",
+      "A frying pan"
+    ],
+    "soal": "Match the expression with the situation.\nExpression: \"I hope you pass the exam.\"",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "MATCH-32-B",
+    "indikator": 32,
+    "jawaban": "To express a hope",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Hope and Wish",
+    "pembahasan": "\"Good luck on your competition tomorrow!\" adalah ungkapan harapan (hope/wish). Ungkapan ini menyatakan harapan baik agar orang lain berhasil dalam lombanya, bukan pujian atau ajakan.",
+    "pilihan": [
+      "To show nutrition information",
+      "To give a compliment",
+      "Active at night",
+      "To express a hope"
+    ],
+    "soal": "Match the expression with the situation.\nExpression: \"Good luck on your competition tomorrow!\"",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "gambar": "assets/img/eng9-33-a.svg",
+    "id": "MATCH-33-A",
+    "indikator": 33,
+    "jawaban": "A frying pan",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Procedure Text",
+    "pembahasan": "Gambar menunjukkan sebuah wajan (frying pan) kosong di atas kompor. Wajan adalah alat masak yang dipakai untuk menggoreng, misalnya dalam langkah-langkah membuat makanan.",
+    "pilihan": [
+      "To give a compliment",
+      "To express a hope",
+      "Active at night",
+      "A frying pan"
+    ],
+    "soal": "Match the picture with the correct word.\nLook at the picture. Which word is the name of the thing in the picture?",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "gambar": "assets/img/eng9-33-b.svg",
+    "id": "MATCH-33-B",
+    "indikator": 33,
+    "jawaban": "A frying pan",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Procedure Text",
+    "pembahasan": "Gambar menunjukkan sebuah wajan (frying pan) berisi telur yang sedang digoreng di atas kompor. Wajan adalah alat masak yang dipakai untuk menggoreng, misalnya dalam langkah-langkah membuat makanan.",
+    "pilihan": [
+      "A frying pan",
+      "To show nutrition information",
+      "To give a compliment",
+      "To express a hope"
+    ],
+    "soal": "Match the picture with the correct word.\nLook at the picture carefully. Which word is the name of the thing in the picture?",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "MATCH-34-A",
+    "indikator": 34,
+    "jawaban": "Active at night",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Report Text",
+    "pembahasan": "\"Nocturnal\" berarti aktif pada malam hari. Burung hantu adalah hewan nocturnal: ia tidur pada siang hari dan aktif mencari makan pada malam hari.",
+    "pilihan": [
+      "To give a compliment",
+      "To express a hope",
+      "A frying pan",
+      "Active at night"
+    ],
+    "soal": "Match the word with its definition.\nWord: \"nocturnal\"\nExample: \"Owls are nocturnal animals. They sleep during the day and look for food at night.\"",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "MATCH-34-B",
+    "indikator": 34,
+    "jawaban": "Active at night",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Report Text",
+    "pembahasan": "\"Nocturnal\" berarti aktif pada malam hari. Kelelawar adalah hewan nocturnal: ia tidur pada siang hari dan terbang mencari makan pada malam hari.",
+    "pilihan": [
+      "Active at night",
+      "To show nutrition information",
+      "To express a hope",
+      "A frying pan"
+    ],
+    "soal": "Match the word with its definition.\nWord: \"nocturnal\"\nExample: \"Bats are nocturnal. They fly and look for food at night.\"",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "MATCH-35-A",
+    "indikator": 35,
+    "jawaban": "To show nutrition information",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Label",
+    "pembahasan": "Fungsi food label (label makanan) adalah menunjukkan informasi gizi (nutrition information), seperti kandungan kalori, lemak, gula, dan protein dalam makanan tersebut.",
+    "pilihan": [
+      "A frying pan",
+      "To give a compliment",
+      "To show nutrition information",
+      "Active at night"
+    ],
+    "soal": "Match the label type with its function.\nLabel type: \"food label\"\nA food label is on the package of a snack.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "MATCH-35-B",
+    "indikator": 35,
+    "jawaban": "To show nutrition information",
+    "level": "Sedang",
+    "materi": "Menjodohkan: Label",
+    "pembahasan": "Fungsi food label (label makanan) adalah menunjukkan informasi gizi (nutrition information), seperti kandungan kalori, lemak, gula, dan protein dalam makanan tersebut.",
+    "pilihan": [
+      "To express a hope",
+      "Active at night",
+      "To give a compliment",
+      "To show nutrition information"
+    ],
+    "soal": "Match the label type with its function.\nLabel type: \"food label\"\nA food label is on the package of a bottle of milk.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "SHORT-36-A",
+    "indikator": 36,
+    "jawaban": "I hope you win the speech contest tomorrow.",
+    "level": "HOTS",
+    "materi": "Hope and Wish",
+    "pembahasan": "Kalimat yang baik harus memakai ungkapan hope atau wish (misalnya \"I hope ...\" atau \"I wish you ...\") dan sesuai dengan konteksnya, yaitu teman yang akan mengikuti lomba pidato besok. Contoh jawaban: \"I hope you win the speech contest tomorrow.\" Kalimat yang hanya memberi semangat tanpa hope/wish, misalnya \"Good luck!\", belum memenuhi permintaan soal.",
+    "soal": "Your friend will join a speech contest tomorrow. Write one sentence to express your hope or wish for your friend. Answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "SHORT-36-B",
+    "indikator": 36,
+    "jawaban": "I wish you the best of luck in your university entrance exam next week.",
+    "level": "HOTS",
+    "materi": "Hope and Wish",
+    "pembahasan": "Kalimat yang baik harus memakai ungkapan hope atau wish (misalnya \"I hope ...\" atau \"I wish you ...\") dan sesuai dengan konteksnya, yaitu kakak yang akan menghadapi ujian masuk universitas minggu depan. Contoh jawaban: \"I wish you the best of luck in your university entrance exam next week.\" Kalimat yang tidak menyebut ujian masuk universitas, misalnya sekadar \"I hope you are happy\", tidak sesuai konteks.",
+    "soal": "Your older brother will take a university entrance exam next week. Write one sentence to express your hope or wish for him. Answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "SHORT-37-A",
+    "indikator": 37,
+    "jawaban": "I agree that students should wear uniforms at school because uniforms make all students look equal and stop students from comparing expensive clothes.",
+    "level": "HOTS",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "Alasan yang baik harus: (1) logis dan relevan dengan topik seragam sekolah, (2) jelas mendukung sikap setuju, (3) ditulis dalam satu atau dua kalimat. Contoh jawaban menyebut kesetaraan antarsiswa sebagai alasan setuju. Alasan yang tidak berhubungan dengan topik, misalnya tentang harga buku, bukan jawaban yang baik.",
+    "soal": "Read the topic.\n\"Students should wear uniforms at school.\"\n\nYou agree with this opinion. Write one logical reason to support your agreement. Answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "SHORT-37-B",
+    "indikator": 37,
+    "jawaban": "I disagree that homework should be given every day because students also need time to rest, play, and help their parents after school.",
+    "level": "HOTS",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "Alasan yang baik harus: (1) logis dan relevan dengan topik PR setiap hari, (2) jelas mendukung sikap tidak setuju, (3) ditulis dalam satu atau dua kalimat. Contoh jawaban menyebut kebutuhan siswa untuk beristirahat dan beraktivitas lain setelah sekolah sebagai alasan tidak setuju. Alasan yang justru mendukung PR setiap hari, misalnya \"because homework makes students smarter\", bertentangan dengan sikap tidak setuju.",
+    "soal": "Read the topic.\n\"Homework should be given every day.\"\n\nYou disagree with this opinion. Write one logical reason to support your disagreement. Answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "SHORT-38-A",
+    "indikator": 38,
+    "jawaban": "Sequence connectors are important because they show the order of the steps clearly, so the reader can follow the procedure easily and do the steps in the right order.",
+    "level": "HOTS",
+    "materi": "Procedure Text",
+    "pembahasan": "Jawaban yang baik harus menjelaskan manfaat sequence connectors (first, then, next, finally), yaitu: (1) menunjukkan urutan langkah dengan jelas, (2) membantu pembaca mengikuti prosedur tanpa bingung, (3) mencegah langkah dilakukan dalam urutan yang salah. Jawaban yang hanya menyebutkan contoh kata penghubung tanpa menjelaskan fungsinya belum lengkap.",
+    "soal": "Why are sequence connectors such as first, then, next, and finally important in a procedure text? Explain briefly. Answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "SHORT-38-B",
+    "indikator": 38,
+    "jawaban": "Sequence connectors help the reader understand which step comes first and which step comes last, so the steps are easy to follow and the result of the procedure is correct.",
+    "level": "HOTS",
+    "materi": "Procedure Text",
+    "pembahasan": "Jawaban yang baik harus menjelaskan fungsi sequence connectors (first, then, next, finally), yaitu: (1) menghubungkan langkah-langkah dalam urutan yang benar, (2) membantu pembaca memahami langkah mana yang pertama dan mana yang terakhir, (3) membuat hasil prosedur menjadi benar karena langkahnya tidak tertukar. Jawaban yang hanya mendefinisikan procedure text tanpa membahas sequence connectors belum menjawab soal.",
+    "soal": "A procedure text tells the reader how to do something step by step. Explain briefly what the function of sequence connectors (first, then, next, finally) is in a procedure text. Answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "SHORT-39-A",
+    "indikator": 39,
+    "jawaban": "People call the Rafflesia the \"corpse flower\" because it smells like rotting meat.",
+    "level": "HOTS",
+    "materi": "Report Text",
+    "pembahasan": "Jawaban yang baik harus berdasarkan informasi dalam teks: bunga Rafflesia berbau seperti daging busuk, sehingga orang menyebutnya \"corpse flower\" (bunga bangkai). Bau itu juga berfungsi menarik lalat untuk membantu penyerbukan. Jawaban yang menyebut ukuran bunga sebagai alasan julukan itu tidak tepat, karena teks tidak mengaitkan ukuran dengan nama tersebut.",
+    "soal": "Read the report text.\n\"Rafflesia is the largest flower in the world. It can grow up to one metre wide and weigh up to 10 kilograms. It lives in the rainforests of Sumatra and Borneo. Rafflesia has no leaves, stems, or roots. It lives as a parasite on the roots of other plants and takes food from them. The flower smells like rotting meat, so people call it the \"corpse flower\". The bad smell attracts flies, which help the flower to pollinate. Rafflesia blooms for only a few days, then it dies.\"\n\nWhy do people call the Rafflesia the \"corpse flower\"? Answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "SHORT-39-B",
+    "indikator": 39,
+    "jawaban": "The Rafflesia lives in the rainforests of Sumatra and Borneo.",
+    "level": "HOTS",
+    "materi": "Report Text",
+    "pembahasan": "Jawaban yang baik harus berdasarkan informasi yang tertulis langsung dalam teks: Rafflesia hidup di hutan hujan Sumatra dan Kalimantan. Jawaban yang menyebut tempat lain tidak tepat, karena teks hanya menyebut kedua tempat itu.",
+    "soal": "Read the report text.\n\"Rafflesia is the largest flower in the world. It can grow up to one metre wide and weigh up to 10 kilograms. It lives in the rainforests of Sumatra and Borneo. Rafflesia has no leaves, stems, or roots. It lives as a parasite on the roots of other plants and takes food from them. The flower smells like rotting meat, so people call it the \"corpse flower\". The bad smell attracts flies, which help the flower to pollinate. Rafflesia blooms for only a few days, then it dies.\"\n\nWhere does the Rafflesia live? Answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "SHORT-40-A",
+    "indikator": 40,
+    "jawaban": "If I drink 2 boxes of Choco Milk, I get 240 kcal of energy, 10 g of protein, and 30 g of sugar, because 2 x 120 kcal = 240 kcal, 2 x 5 g = 10 g, and 2 x 15 g = 30 g.",
+    "level": "HOTS",
+    "materi": "Label",
+    "pembahasan": "Jawaban yang baik harus mengalikan setiap nilai gizi per sajian (1 kotak) dengan 2: energi 2 x 120 kkal = 240 kkal, protein 2 x 5 g = 10 g, gula 2 x 15 g = 30 g. Ketiga angka harus disebutkan dan perhitungannya dijelaskan. Jawaban yang hanya menulis salah satu nilai gizi atau yang tidak mengalikan (misalnya tetap menulis 120 kkal) belum benar.",
+    "soal": "Read the label.\n\"CHOCO MILK\nChocolate Milk Drink\nServing size: 1 box (200 ml)\nEnergy: 120 kcal\nProtein: 5 g\nSugar: 15 g\"\n\nIf you drink 2 boxes of Choco Milk, how much energy, protein, and sugar do you get? Calculate and explain your answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "SHORT-40-B",
+    "indikator": 40,
+    "jawaban": "If I drink 3 boxes of Choco Milk, I get 360 kcal of energy, 15 g of protein, and 45 g of sugar, because 3 x 120 kcal = 360 kcal, 3 x 5 g = 15 g, and 3 x 15 g = 45 g.",
+    "level": "HOTS",
+    "materi": "Label",
+    "pembahasan": "Jawaban yang baik harus mengalikan setiap nilai gizi per sajian (1 kotak) dengan 3: energi 3 x 120 kkal = 360 kkal, protein 3 x 5 g = 15 g, gula 3 x 15 g = 45 g. Ketiga angka harus disebutkan dan perhitungannya dijelaskan. Jawaban yang hanya menulis salah satu nilai gizi atau yang tidak mengalikan (misalnya tetap menulis 120 kkal) belum benar.",
+    "soal": "Read the label.\n\"CHOCO MILK\nChocolate Milk Drink\nServing size: 1 box (200 ml)\nEnergy: 120 kcal\nProtein: 5 g\nSugar: 15 g\"\n\nIf you drink 3 boxes of Choco Milk, how much energy, protein, and sugar do you get? Calculate and explain your answer in English.",
+    "tipe": "Uraian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "ESSAY-41-A",
+    "indikator": 41,
+    "jawaban": "I agree that English should be spoken every day at school. First, speaking English every day will help students speak more fluently. Second, students will not be afraid to speak English anymore because they practise it all the time. Finally, it will help students prepare for the future, when English is needed for work and study. For these reasons, I think schools should make English a daily habit.",
+    "level": "HOTS",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "Paragraf yang baik harus memuat: (1) pendapat yang jelas (setuju atau tidak setuju) pada kalimat pertama, (2) minimal dua alasan yang logis dan relevan dengan topik, (3) kata penghubung urutan alasan seperti first, second, dan finally, (4) kalimat penutup yang menegaskan pendapat. Panjang paragraf 3-5 kalimat. Pendapat tanpa alasan, atau alasan yang tidak berhubungan dengan topik, bukan jawaban yang baik.",
+    "soal": "Do you agree or disagree with this statement?\n\"English should be spoken every day at school.\"\n\nWrite a short paragraph (3-5 sentences) giving your opinion and your reasons. Answer in English.",
+    "tipe": "Essay",
+    "varian": "A"
+  },
+  {
+    "id": "ESSAY-41-B",
+    "indikator": 41,
+    "jawaban": "I disagree that mobile phones should be allowed at school. First, mobile phones can disturb students in class because students may play games or open social media instead of listening to the teacher. Second, mobile phones can make students less focused on their lessons and homework. Finally, students can talk to their friends face to face without a phone, so they do not need a phone at school. For these reasons, I think students should not bring mobile phones to school.",
+    "level": "HOTS",
+    "materi": "Agreement and Disagreement",
+    "pembahasan": "Paragraf yang baik harus memuat: (1) pendapat yang jelas (setuju atau tidak setuju) pada kalimat pertama, (2) minimal dua alasan yang logis dan relevan dengan topik, (3) kata penghubung urutan alasan seperti first, second, dan finally, (4) kalimat penutup yang menegaskan pendapat. Panjang paragraf 3-5 kalimat. Pendapat tanpa alasan, atau alasan yang tidak berhubungan dengan topik, bukan jawaban yang baik.",
+    "soal": "Do you agree or disagree with this statement?\n\"Mobile phones should be allowed at school.\"\n\nWrite a short paragraph (3-5 sentences) giving your opinion and your reasons. Answer in English.",
+    "tipe": "Essay",
+    "varian": "B"
+  },
+  {
+    "id": "ESSAY-42-A",
+    "indikator": 42,
+    "jawaban": "How to Make Fried Eggs\n\nIngredients:\n- 2 eggs\n- 1 tablespoon of cooking oil\n- a pinch of salt\n\nSteps:\n1. First, heat the cooking oil in a frying pan.\n2. Then, crack the eggs and put them into the pan.\n3. Next, add a pinch of salt on the eggs.\n4. After that, fry the eggs for about two minutes.\n5. Finally, put the fried eggs on a plate and serve them.",
+    "level": "HOTS",
+    "materi": "Procedure Text",
+    "pembahasan": "Teks prosedur yang baik harus memuat: (1) judul (goal), (2) daftar bahan lengkap dengan takaran yang sesuai soal (2 butir telur, 1 sendok makan minyak goreng, sejumput garam), (3) langkah-langkah bernomor dalam urutan yang logis, (4) sequence connectors (first, then, next, after that, finally), (5) kata kerja imperatif di awal langkah (heat, crack, add, fry, put). Langkah yang urutannya tertukar, misalnya menggoreng sebelum memanaskan minyak, bukan jawaban yang baik.",
+    "soal": "Write a simple procedure text entitled \"How to Make Fried Eggs\". Use these ingredients: 2 eggs, 1 tablespoon of cooking oil, and a pinch of salt. Write the ingredients and the steps in order. Answer in English.",
+    "tipe": "Essay",
+    "varian": "A"
+  },
+  {
+    "id": "ESSAY-42-B",
+    "indikator": 42,
+    "jawaban": "How to Make a Glass of Orange Juice\n\nIngredients:\n- 3 oranges\n- 1 tablespoon of sugar\n- 100 ml of water\n\nSteps:\n1. First, peel the oranges and cut them in half.\n2. Then, squeeze the oranges to get the juice.\n3. Next, pour the orange juice into a glass.\n4. After that, add 1 tablespoon of sugar and 100 ml of water, then stir them well.\n5. Finally, serve the orange juice cold.",
+    "level": "HOTS",
+    "materi": "Procedure Text",
+    "pembahasan": "Teks prosedur yang baik harus memuat: (1) judul (goal), (2) daftar bahan lengkap dengan takaran yang sesuai soal (3 buah jeruk, 1 sendok makan gula, 100 ml air), (3) langkah-langkah bernomor dalam urutan yang logis, (4) sequence connectors (first, then, next, after that, finally), (5) kata kerja imperatif di awal langkah (peel, squeeze, pour, add, stir, serve). Langkah yang urutannya tertukar, misalnya menambahkan gula sebelum memeras jeruk, bukan jawaban yang baik.",
+    "soal": "Write a simple procedure text entitled \"How to Make a Glass of Orange Juice\". Use these ingredients: 3 oranges, 1 tablespoon of sugar, and 100 ml of water. Write the ingredients and the steps in order. Answer in English.",
+    "tipe": "Essay",
+    "varian": "B"
+  },
+  {
+    "id": "ESSAY-43-A",
+    "indikator": 43,
+    "jawaban": "How to Make Pancakes\n\nIngredients:\n- 200 g of flour\n- 2 eggs\n- 250 ml of milk\n- 1 tablespoon of sugar\n\nSteps:\n1. First, mix the flour, eggs, milk, and sugar in a bowl.\n2. Then, heat a pan and add a little cooking oil.\n3. Next, pour the mixture into the pan.\n4. After that, cook the pancake until it is brown on both sides.\n5. Finally, serve the pancake with honey.",
+    "level": "HOTS",
+    "materi": "Procedure Text",
+    "pembahasan": "Teks di soal mengandung tiga kesalahan: (1) tidak ada sequence connectors (first, then, next, finally), (2) dua langkah diawali kata kerja bentuk -ing (\"Mixing ...\" dan \"Pouring ...\") padahal langkah prosedur harus memakai kata kerja imperatif (\"Mix ...\", \"Pour ...\"), (3) ada langkah yang hilang, yaitu memanaskan wajan sebelum menuang adonan, padahal teks menyebut \"a hot pan\". Teks yang sudah diperbaiki harus memakai sequence connectors, kata kerja imperatif di awal setiap langkah, dan menambahkan langkah memanaskan wajan pada urutan yang benar.",
+    "soal": "Read the procedure text. It has some mistakes in its structure and language.\n\"How to Make Pancakes\n\nIngredients:\n- 200 g of flour\n- 2 eggs\n- 250 ml of milk\n- 1 tablespoon of sugar\n\nSteps:\nMixing the flour, eggs, milk, and sugar in a bowl.\nPouring the mixture into a hot pan.\nCook the pancake until it is brown on both sides.\nServe the pancake with honey.\"\n\nRewrite the text correctly. Answer in English.",
+    "tipe": "Essay",
+    "varian": "A"
+  },
+  {
+    "id": "ESSAY-43-B",
+    "indikator": 43,
+    "jawaban": "How to Make Lemon Tea\n\nIngredients:\n- 1 tea bag\n- 1 glass of hot water\n- 1/2 lemon\n- 1 tablespoon of sugar\n\nSteps:\n1. First, pour the hot water into a glass.\n2. Then, put the tea bag in the glass and wait for five minutes.\n3. Next, remove the tea bag.\n4. After that, squeeze the lemon into the tea and add the sugar.\n5. Finally, stir the tea and serve it.",
+    "level": "HOTS",
+    "materi": "Procedure Text",
+    "pembahasan": "Teks di soal mengandung tiga kesalahan: (1) tidak ada sequence connectors (first, then, next, finally), (2) langkah-langkah memakai kata kerja bentuk past tense (\"Boiled ...\" dan \"Added ...\") padahal langkah prosedur harus memakai kata kerja imperatif (\"Pour ...\", \"Put ...\"), (3) daftar bahan tidak mencantumkan takaran (berapa banyak teh, lemon, gula, dan air). Teks yang sudah diperbaiki harus memakai sequence connectors, kata kerja imperatif di awal setiap langkah, dan mencantumkan takaran bahan yang jelas (1 kantong teh, 1 gelas air panas, 1/2 lemon, 1 sendok makan gula).",
+    "soal": "Read the procedure text. It has some mistakes in its structure and language.\n\"How to Make Lemon Tea\n\nIngredients:\n- tea\n- lemon\n- sugar\n- hot water\n\nSteps:\nBoiled the water and poured it into a glass.\nAdded a tea bag and waited for five minutes.\nSqueeze the lemon into the tea, add sugar, and stir it.\"\n\nRewrite the text correctly. Answer in English.",
+    "tipe": "Essay",
+    "varian": "B"
+  },
+  {
+    "gambar": "assets/img/eng9-44-a.svg",
+    "id": "ESSAY-44-A",
+    "indikator": 44,
+    "jawaban": "Last week, students borrowed 150 books from the school library. The largest number of books was borrowed on Friday, with 40 books, and the smallest number was borrowed on Wednesday, with only 20 books. On Monday, students borrowed 25 books, on Tuesday 30 books, and on Thursday 35 books. This shows that Friday was the busiest day in the library.",
+    "level": "HOTS",
+    "materi": "Report Text",
+    "pembahasan": "Teks laporan yang baik harus: (1) berdasarkan data pada tabel/diagram (Senin 25, Selasa 30, Rabu 20, Kamis 35, Jumat 40), (2) menyebut angka-angka data dengan benar, termasuk total pinjaman seminggu (150 buku) dan hari terbanyak (Jumat, 40 buku) serta tersedikit (Rabu, 20 buku), (3) terdiri dari 2-4 kalimat yang runtut. Teks yang menyebut angka yang tidak ada di data, atau yang tidak menyebut satu pun angka, bukan jawaban yang baik.",
+    "soal": "Read the data. The bar chart shows the number of books borrowed from the school library in one week.\n\nMonday: 25 books\nTuesday: 30 books\nWednesday: 20 books\nThursday: 35 books\nFriday: 40 books\n\nWrite a short report text (2-4 sentences) based on the data. Answer in English.",
+    "tipe": "Essay",
+    "varian": "A"
+  },
+  {
+    "gambar": "assets/img/eng9-44-b.svg",
+    "id": "ESSAY-44-B",
+    "indikator": 44,
+    "jawaban": "From January to April, the zoo had 1,650 visitors. March had the most visitors, with 500 visitors, while February had the fewest visitors, with only 300 visitors. In January, the zoo had 400 visitors, and in April it had 450 visitors. This shows that more people visited the zoo in March than in any other month.",
+    "level": "HOTS",
+    "materi": "Report Text",
+    "pembahasan": "Teks laporan yang baik harus: (1) berdasarkan data pada tabel/diagram (Januari 400, Februari 300, Maret 500, April 450), (2) menyebut angka-angka data dengan benar, termasuk total pengunjung (1.650 orang) dan bulan terbanyak (Maret, 500 pengunjung) serta tersedikit (Februari, 300 pengunjung), (3) terdiri dari 2-4 kalimat yang runtut. Teks yang menyebut angka yang tidak ada di data, atau yang tidak menyebut satu pun angka, bukan jawaban yang baik.",
+    "soal": "Read the data. The bar chart shows the number of visitors to the zoo in four months.\n\nJanuary: 400 visitors\nFebruary: 300 visitors\nMarch: 500 visitors\nApril: 450 visitors\n\nWrite a short report text (2-4 sentences) based on the data. Answer in English.",
+    "tipe": "Essay",
+    "varian": "B"
+  },
+  {
+    "id": "ESSAY-45-A",
+    "indikator": 45,
+    "jawaban": "Elements of a good label: product name, net weight, composition, producer, expiry date, and storage instructions.\n\nSWEET HONEY\nPure Honey\nNet weight: 500 g\nComposition: 100% pure honey\nProduced by: PT Madu Murni Indonesia, Lampung\nBest before: December 2027\nStorage: Keep in a cool and dry place, away from direct sunlight.",
+    "level": "HOTS",
+    "materi": "Label",
+    "pembahasan": "Label yang baik harus memuat unsur-unsur wajib berikut: (1) nama produk (Sweet Honey), (2) berat bersih (500 g), (3) komposisi (100% madu murni), (4) produsen (nama dan alamat produsen), (5) tanggal kedaluwarsa (best before: December 2027), (6) petunjuk penyimpanan (simpan di tempat sejuk dan kering, jauh dari sinar matahari langsung). Label yang melewatkan salah satu unsur, misalnya tanpa tanggal kedaluwarsa atau tanpa produsen, belum lengkap.",
+    "soal": "Design a simple product label for a bottle of honey called \"Sweet Honey\". First, mention the elements that a good label must have, then write an example of the complete label. Answer in English.",
+    "tipe": "Essay",
+    "varian": "A"
+  },
+  {
+    "id": "ESSAY-45-B",
+    "indikator": 45,
+    "jawaban": "Elements of a good label: product name, net weight, composition, producer, expiry date, and storage instructions.\n\nCRISPY BANANA CHIPS\nBanana Chips\nNet weight: 100 g\nComposition: banana, cooking oil, sugar, salt\nProduced by: PT Camilan Nusantara, Lampung\nBest before: June 2027\nStorage: Keep in a cool and dry place and close the pack tightly after opening.",
+    "level": "HOTS",
+    "materi": "Label",
+    "pembahasan": "Label yang baik harus memuat unsur-unsur wajib berikut: (1) nama produk (Crispy Banana Chips), (2) berat bersih (100 g), (3) komposisi (pisang, minyak goreng, gula, garam), (4) produsen (nama dan alamat produsen), (5) tanggal kedaluwarsa (best before: June 2027), (6) petunjuk penyimpanan (simpan di tempat sejuk dan kering, tutup kemasan rapat setelah dibuka). Label yang melewatkan salah satu unsur, misalnya tanpa tanggal kedaluwarsa atau tanpa produsen, belum lengkap.",
+    "soal": "Design a simple product label for a bag of banana chips called \"Crispy Banana Chips\". First, mention the elements that a good label must have, then write an example of the complete label. Answer in English.",
+    "tipe": "Essay",
+    "varian": "B"
+  }
 ]
